@@ -1,0 +1,1304 @@
+{\rtf1\ansi\ansicpg1251\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1049\deflangfe1049{\fonttbl{\f0\froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f1\fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial;}{\f175\froman\fcharset0\fprq2 Times New Roman;}{\f173\froman\fcharset238\fprq2 Times New Roman CE;}{\f176\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f177\froman\fcharset162\fprq2 Times New Roman Tur;}{\f178\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f179\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f180\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f181\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f185\fswiss\fcharset0\fprq2 Arial;}{\f183\fswiss\fcharset238\fprq2 Arial CE;}{\f186\fswiss\fcharset161\fprq2 Arial Greek;}{\f187\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f188\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f189\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f190\fswiss\fcharset186\fprq2 Arial Baltic;}{\f191\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \snext0 Normal;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid1191756\rsid1602054
+\rsid1926431\rsid4996966\rsid7357819\rsid7370335\rsid10845627\rsid10945421\rsid11291476\rsid12194993\rsid12860781\rsid13844926\rsid15738386}{\*\generator Microsoft Word 11.0.5604;}{\info{\author gu_gims3u}{\operator 1}{\creatim\yr2006\mo5\dy18\hr11\min3}
+{\revtim\yr2006\mo5\dy19\hr13\min41}{\version4}{\edmins35}{\nofpages2}{\nofwords802}{\nofchars4573}{\*\company GIMS}{\nofcharsws5365}{\vern24689}}\paperw11909\paperh16834\margl1385\margr1376\margt1134\margb720 
+\widowctrl\ftnbj\aenddoc\makebackup\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot11291476 \fet0\sectd 
+\sbknone\linex0\colsx60\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13844926 
+\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\b\f1\insrsid13844926 \'c3\'ee\'f1\'f3\'e4\'e0\'f0\'f1\'f2\'e2\'e5\'ed\'ed\'e0\'ff \'e8\'ed\'f1\'ef\'e5\'ea\'f6\'e8\'ff \'ef\'ee \'ec\'e0\'eb\'ee\'ec\'e5\'f0\'ed\'fb\'ec \'f1\'f3\'e4\'e0\'ec \'c3
+\'eb\'e0\'e2\'ed\'ee\'e3\'ee \'f3\'ef\'f0\'e0\'e2\'eb\'e5\'ed\'e8\'ff \'cc\'d7\'d1 \'d0\'ee\'f1\'f1\'e8\'e8 \'ef\'ee \'ca\'e8\'f0\'ee\'e2\'f1\'ea\'ee\'e9 \'ee\'e1\'eb\'e0\'f1\'f2\'e8
+\par }{\b\f1\insrsid13844926\charrsid4996966 
+\par }{\b\f1\fs28\insrsid13844926\charrsid1926431 \'cf\'c5\'d0\'c2\'c0\'df \'cf\'ce\'cc\'ce\'d9\'dc \'cd\'c0 \'c2\'ce\'c4\'c5}{\b\f1\fs28\insrsid13844926 
+\par }{\b\f1\fs28\insrsid13844926\charrsid1926431 
+\par }\pard \qc \fi283\li14\ri0\sl-245\slmult0\nowidctlpar\faauto\rin0\lin14\itap0\pararsid13844926 \cbpat8 {\fs22\insrsid13844926 
+\par }\pard \qj \fi283\li14\ri0\sl-245\slmult0\nowidctlpar\faauto\rin0\lin14\itap0 \cbpat8 {\f1\fs22\insrsid1602054\charrsid7370335 \'c2}{\f1\fs22\insrsid15738386\charrsid7370335  \'f0\'e5\'e7\'f3\'eb\'fc\'f2\'e0\'f2\'e5 \'d7\'d1 \'f1\'ee\'f1\'f2\'ee\'ff\'ed
+\'e8\'e5 \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e8\'f5 \'e1\'fb\'e2\'e0\'e5\'f2 \'ea\'f0\'e0\'e9\'ed\'e5 \'f2\'ff\'e6\'e5\'eb\'fb\'ec, \'ed\'e5\'f0\'e5\'e4\'ea\'ee \'ee\'ed\'e8 \'ed\'e0\'f5\'ee\'e4\'ff\'f2\-\'f1\'ff \'e2 \'e1\'e5\'f1\'f1\'ee\'e7\'ed
+\'e0\'f2\'e5\'eb\'fc\'ed\'ee\'ec \'f1\'ee\'f1\'f2\'ee\'ff\'ed\'e8\'e8 \'e8 \'ed\'f3\'e6\'e4\'e0\'fe\'f2\'f1\'ff \'e2 \'ef\'f0\'ee\'e2\'e5\'e4\'e5\'ed\'e8\'e8 \'ed\'e5\'ee\'f2\'eb\'ee\'e6\'ed\'ee\'e9 \'f0\'e5\'e0\'ed\'e8\'ec\'e0\'f6\'e8\'ee\'ed\'ed\'ee\'e9
+ \'ef\'ee\'ec\'ee\'f9\'e8. \'ca \'f7\'e8\'f1\'eb\'f3 \'ee\'f1\'ed\'ee\'e2\'ed\'fb\'f5 \'f0\'e5\'e0\'ed\'e8\'ec\'e0\'f6\'e8\'ee\'ed\'ed\'fb\'f5 \'ec\'e5\'f0\'ee\'ef\'f0\'e8\'ff\'f2\'e8\'e9 \'ee\'f2\'ed\'ee\'f1\'ff\'f2\'f1\'ff \'e8\'f1\'ea\'f3\'f1\'f1\'f2
+\'e2\'e5\'ed\'ed\'ee\'e5 \'e4\'fb\'f5\'e0\-\'ed\'e8\'e5 \'e8 \'ed\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0.
+\par }\pard \qj \fi288\li5\ri5\sl-245\slmult0\nowidctlpar\faauto\rin5\lin5\itap0 \cbpat8 {\b\f1\fs22\insrsid15738386\charrsid7370335 \'c8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e5 \'e4\'fb\'f5\'e0\'ed\'e8\'e5. }{\f1\fs22\insrsid15738386\charrsid7370335 
+\'cf\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'f1\'ff \'e2 \'f1\'eb\'f3\'f7\'e0\'e5 \'ee\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e8 \'e4\'fb\'f5\'e0\'ed\'e8\'ff. \'ce\'f1\'ed\'ee\'e2\'ed\'fb\'ec\'e8 \'f1\'ef\'ee\'f1\'ee\'e1\'e0\-\'ec\'e8 \'ef\'f0\'ee\'e2\'e5\'e4\'e5\'ed\'e8\'ff 
+\'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e3\'ee \'e4\'fb\'f5\'e0\'ed\'e8\'ff \'ff\'e2\'eb\'ff\'fe\'f2\'f1\'ff: "\'f0\'ee\'f2 \'e2 \'f0\'ee\'f2", "\'f0\'ee\'f2 \'e2 \'ed\'ee\'f1", "\'f0\'ee\'f2 \'e2 \'f1\'f2\'ee\'ec\'f3". \'c8\'f1\-\'ea\'f3\'f1
+\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e5 \'e4\'fb\'f5\'e0\'ed\'e8\'e5 \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'f1\'ff \'ef\'f3\'f2\'e5\'ec \'ef\'f0\'e8\'ed\'f3\'e4\'e8\'f2\'e5\'eb\'fc\'ed\'ee\'e3\'ee \'ed\'e0\'ef\'ee\'eb\'ed\'e5\'ed\'e8\'ff \'e4\'fb\'f5\'e0\'f2\'e5\'eb
+\'fc\'ed\'fb\'f5 \'ef\'f3\'f2\'e5\'e9 \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee \'e2\'fb\'e4\'fb\'f5\'e0\'e5\'ec\'fb\'ec \'e2\'ee\'e7\'e4\'f3\'f5\'ee\'ec \'f7\'e5\'eb\'ee\'e2\'e5\'ea\'e0, \'ea\'ee\'f2\'ee\'f0\'fb\'e9 \'ee\'ea\'e0\'e7\'fb\'e2
+\'e0\'e5\'f2 \'ef\'e5\'f0\'e2\'f3\'fe \'ef\'ee\'ec\'ee\'f9\'fc. \'c2\'fb\'e4\'fb\-\'f5\'e0\'e5\'ec\'fb\'e9 \'e2\'ee\'e7\'e4\'f3\'f5 \'f1\'ee\'e4\'e5\'f0\'e6\'e8\'f2 16% \'ea\'e8\'f1\'eb\'ee\'f0\'ee\'e4\'e0, \'ea\'ee\'f2\'ee\'f0\'ee\'e3\'ee \'e2\'ef\'ee
+\'eb\'ed\'e5 \'e4\'ee\'f1\'f2\'e0\'f2\'ee\'f7\'ed\'ee \'e4\'eb\'ff \'ef\'ee\'e4\'e4\'e5\'f0\'e6\'e0\'ed\'e8\'ff \'e6\'e8\'e7\-\'ed\'e5\'e4\'e5\'ff\'f2\'e5\'eb\'fc\'ed\'ee\'f1\'f2\'e8 \'ee\'f0\'e3\'e0\'ed\'e8\'e7\'ec\'e0, \'e2\'ee\'e7\'e1\'f3\'e6\'e4\'e5
+\'ed\'e8\'ff \'e4\'fb\'f5\'e0\'f2\'e5\'eb\'fc\'ed\'ee\'e3\'ee \'f6\'e5\'ed\'f2\'f0\'e0 \'e8 \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff \'e4\'fb\'f5\'e0\'ed\'e8\'ff.
+\par }\pard \qj \fi274\li5\ri5\sl-245\slmult0\nowidctlpar\faauto\rin5\lin5\itap0 \cbpat8 {\f1\fs22\insrsid15738386\charrsid7370335 \'c4\'eb\'ff \'ef\'f0\'ee\'e2\'e5\'e4\'e5\'ed\'e8\'ff \'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e3\'ee \'e4\'fb\'f5\'e0
+\'ed\'e8\'ff \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'ef\'ee\'eb\'ee\'e6\'e8\'f2\'fc \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee \'ed\'e0 \'f1\'ef\'e8\-\'ed\'f3, \'ee\'f7\'e8\'f1\'f2\'e8\'f2\'fc \'e5\'e3\'ee \'f0\'ee\'f2\'ee\'e2\'f3\'fe \'ef
+\'ee\'eb\'ee\'f1\'f2\'fc \'ee\'f2 \'ef\'ee\'f1\'f2\'ee\'f0\'ee\'ed\'ed\'e8\'f5 \'ef\'f0\'e5\'e4\'ec\'e5\'f2\'ee\'e2, \'e7\'e0\'ef\'f0\'ee\'ea\'e8\'ed\'f3\'f2\'fc \'e3\'ee\'eb\'ee\'e2\'f3 \'ed\'e0\'e7\'e0\'e4 \'e8 \'ef\'f0\'e8\'ef\'ee\'e4\'ed\'ff\'f2\'fc 
+\'ef\'ee\'e4\'e1\'ee\'f0\'ee\'e4\'ee\'ea, \'f7\'f2\'ee \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'f2 \'ee\'f1\'e2\'ee\'e1\'ee\'e6\'e4\'e5\'ed\'e8\'e5 \'e4\'fb\'f5\'e0\'f2\'e5\'eb\'fc\'ed\'fb\'f5 \'ef\'f3\'f2\'e5\'e9. \'c4\'e0\'eb\'e5\'e5 \'ed\'f3\'e6\'ed\'ee \'ef
+\'f0\'ee\-\'e4\'e5\'eb\'e0\'f2\'fc \'e2 \'f2\'ea\'e0\'ed\'e8: \'ed\'ee\'f1\'ee\'e2\'ee\'ec \'ef\'eb\'e0\'f2\'ea\'e5, \'ec\'e0\'f0\'eb\'e5, \'f1\'e0\'eb\'f4\'e5\'f2\'ea\'e5 \'ee\'f2\'e2\'e5\'f0\'f1\'f2\'e8\'e5 \'e4\'e8\'e0\'ec\'e5\'f2\'f0\'ee\'ec 3-5 \'f1
+\'e0\'ed\'f2\'e8\'ec\'e5\'f2\'f0\'ee\'e2, \'ed\'e0\-\'ea\'f0\'fb\'f2\'fc \'e5\'fe \'eb\'e8\'f6\'ee \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee \'f2\'e0\'ea\'e8\'ec \'ee\'e1\'f0\'e0\'e7\'ee\'ec, \'f7\'f2\'ee\'e1\'fb \'ee\'f2\'e2\'e5\'f0\'f1\'f2
+\'e8\'e5 \'f1\'ee\'e2\'ef\'e0\'eb\'ee \'f1 \'e5\'e3\'ee \'f0\'f2\'ee\'ec. \'c7\'e0\'e6\'e0\'f2\'fc \'ed\'ee\'f1 \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee \'e1\'ee\'eb\'fc\'f8\'e8\'ec \'e8 \'f3\'ea\'e0\'e7\'e0\'f2\'e5\'eb\'fc\'ed\'fb\'ec \'ef
+\'e0\'eb\'fc\'f6\'e0\'ec\'e8, \'e3\'eb\'f3\'e1\'ee\'ea\'ee \'e2\'e4\'ee\'f5\'ed\'f3\'f2\'fc, \'ef\'eb\'ee\'f2\'ed\'ee \'ef\'f0\'e8\'e6\'e0\'f2\'fc\-\'f1\'ff \'e3\'f3\'e1\'e0\'ec\'e8 \'ea \'e5\'e3\'ee \'e3\'f3\'e1\'e0\'ec, \'f1\'e4\'e5\'eb\'e0\'f2\'fc \'f1
+\'e8\'eb\'fc\'ed\'fb\'e9 \'e2\'fb\'e4\'ee\'f5 \'e2 \'e5\'e3\'ee \'f0\'ee\'f2. \'cf\'ee\'f1\'eb\'e5 \'ef\'ee\'e4\'fa\'e5\'ec\'e0 \'e3\'f0\'f3\'e4\'ed\'ee\'e9 \'ea\'eb\'e5\'f2\'ea\'e8 \'f1\'eb\'e5\'e4\'f3\'e5\'f2 \'ee\'f1\'e2\'ee\'e1\'ee\'e4\'e8\'f2\'fc 
+\'e3\'f3\'e1\'fb \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee \'e8 \'e4\'e0\'f2\'fc \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'fc \'e2\'ee\'e7\'e4\'f3\'f5\'f3 \'e2\'fb\'e9\'f2\'e8 \'ed\'e0\'f0\'f3\'e6\'f3.
+\par }\pard \qj \fi288\li5\ri10\sl-245\slmult0\nowidctlpar\faauto\rin10\lin5\itap0 \cbpat8 {\f1\fs22\insrsid15738386\charrsid7370335 \'c2 \'f0\'ff\'e4\'e5 \'f1\'eb\'f3\'f7\'e0\'e5\'e2 \'ef\'f0\'e8\'f5\'ee\'e4\'e8\'f2\'f1\'ff \'e2\'fb\'e4\'fb\'f5\'e0\'f2\'fc 
+\'e2\'ee\'e7\'e4\'f3\'f5 \'f7\'e5\'f0\'e5\'e7 \'ed\'ee\'f1 \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee. \'c4\'eb\'ff \'fd\'f2\'ee\'e3\'ee \'ed\'ee\'f1 \'ee\'e1\-\'f5\'e2\'e0\'f2\'fb\'e2\'e0\'e5\'f2\'f1\'ff \'f0\'f2\'ee\'ec, \'e8 \'ef\'f0\'ee\'e8
+\'e7\'e2\'ee\'e4\'e8\'f2\'f1\'ff \'f1\'e8\'eb\'fc\'ed\'fb\'e9 \'e2\'fb\'e4\'ee\'f5.
+\par }\pard \qj \fi283\li5\ri14\sl-245\slmult0\nowidctlpar\faauto\rin14\lin5\itap0 \cbpat8 {\f1\fs22\insrsid15738386\charrsid7370335 \'c2 \'f7\'e8\'f1\'eb\'e5 \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e8\'f5 \'ec\'ee\'e3\'f3\'f2 \'ee\'ea\'e0\'e7\'e0\'f2\'fc
+\'f1\'ff \'eb\'fe\'e4\'e8, \'ea\'ee\'f2\'ee\'f0\'fb\'e5 \'ef\'e5\'f0\'e5\'ed\'e5\'f1\'eb\'e8 \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'fe \'ed\'e0 \'e4\'fb\'f5\'e0\'f2\'e5\'eb\'fc\-\'ed\'fb\'f5 \'ef\'f3\'f2\'ff\'f5, \'e8 \'ef\'ee\'fd\'f2\'ee\'ec\'f3 \'ee\'ed\'e8 \'e8
+\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'fe\'f2 \'e4\'eb\'ff \'e4\'fb\'f5\'e0\'ed\'e8\'ff \'f1\'ef\'e5\'f6\'e8\'e0\'eb\'fc\'ed\'f3\'fe \'f2\'f0\'f3\'e1\'ea\'f3 - \'f1\'f2\'ee\'ec\'f3. \'d2\'e0\'ea\'e8\'ec \'ef\'ee\'f1\'f2\-\'f0\'e0\'e4\'e0\'e2\'f8\'e8\'ec \'ed\'f3
+\'e6\'ed\'ee \'e7\'e0\'ea\'f0\'fb\'f2\'fc \'f0\'ee\'f2 \'e8 \'ed\'ee\'f1, \'e0 \'e2\'e4\'ee\'f5 \'e4\'e5\'eb\'e0\'f2\'fc \'f7\'e5\'f0\'e5\'e7 \'f1\'f2\'ee\'ec\'f3.
+\par }\pard \ql \li288\ri0\sl-245\slmult0\nowidctlpar\faauto\rin0\lin288\itap0 \cbpat8 {\f1\fs22\insrsid15738386\charrsid7370335 \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'e4\'fb\'f5\'e0\'f2\'e5\'eb\'fc\'ed\'fb\'f5 \'f6\'e8\'ea\'eb\'ee\'e2 \'e4\'ee\'eb\'e6\'ed
+\'ee \'f1\'ee\'f1\'f2\'e0\'e2\'eb\'ff\'f2\'fc 10 -12 \'e2 \'ec\'e8\'ed\'f3\'f2\'f3.
+\par }\pard \qj \fi288\li0\ri14\sa298\sl-245\slmult0\nowidctlpar\faauto\rin14\lin0\itap0 \cbpat8 {\f1\fs22\insrsid15738386\charrsid7370335 \'d1\'ef\'ee\'f1\'ee\'e1 \'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e3\'ee \'e4\'fb\'f5\'e0\'ed\'e8\'ff \'e8\'e7
+\'ee \'f0\'f2\'e0 \'e2 \'f0\'ee\'f2 \'f1\'f7\'e8\'f2\'e0\'e5\'f2\'f1\'ff \'f1\'e0\'ec\'fb\'ec \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'fb\'ec, \'ee\'e4\'ed\'e0\'ea\'ee \'f1\'f3\-\'f9\'e5\'f1\'f2\'e2\'f3\'fe\'f2 \'e8 \'e4\'f0\'f3\'e3\'e8\'e5. \'c8\'f1\'ea\'f3
+\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e5 \'e4\'fb\'f5\'e0\'ed\'e8\'e5 \'ec\'ee\'e6\'ed\'ee \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'fc \'ef\'ee \'ec\'e5\'f2\'ee\'e4\'e0\'ec, \'ef\'f0\'e5\'e4\'eb\'ee\'e6\'e5\'ed\'ed\'fb\'ec \'d1\'e8\'eb\'fc\'e2\'e5\'f1\'f2\'f0\'ee
+\'ec, \'d8\'e5\'f4\'f4\'e5\'f0\'ee\'ec, \'cd\'e8\'eb\'fc\'f1\'ee\'ed\'ee\'ec, \'ca\'e0\'eb\'e8\'f1\'f2\'ee\'e2\'fb\'ec \'e8 \'e4\'f0., \'e2 \'ee\'f1\'ed\'ee\'e2\'e5 \'ea\'ee\'f2\'ee\'f0\'fb\'f5 \'eb\'e5\'e6\'e0\'f2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'e5 
+\'ef\'f0\'e8\'e5\'ec\'fb \'f1\'e6\'e0\'f2\'e8\'ff \'e3\'f0\'f3\'e4\'ed\'ee\'e9 \'ea\'eb\'e5\'f2\'ea\'e8. \'d1\'ef\'ee\'f1\'ee\'e1 \'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e3\'ee \'e4\'fb\'f5\'e0\'ed\'e8\'ff \'e2\'fb\'e1\'e8\'f0\'e0\'e5\'f2\'f1
+\'ff \'e2 \'e7\'e0\'e2\'e8\'f1\'e8\'ec\'ee\'f1\'f2\'e8 \'ee\'f2 \'ea\'ee\'ed\'ea\'f0\'e5\'f2\'ed\'fb\'f5 \'f3\'f1\'eb\'ee\'e2\'e8\'e9 \'e8 \'f1\'ee\'f1\'f2\'ee\'ff\'ed\'e8\'ff \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee. \'cf\'f0\'ee\'e2\'ee\'e4
+\'ff \'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e5 \'e4\'fb\'f5\'e0\'ed\'e8\'e5, \'ed\'e5\'ee\'e1\-\'f5\'ee\'e4\'e8\'ec\'ee \'e5\'e6\'e5\'ec\'e8\'ed\'f3\'f2\'ed\'ee \'ef\'f0\'ee\'e2\'e5\'f0\'ff\'f2\'fc, \'ed\'e5 \'ef\'f0\'ee\'e8\'e7\'ee\'f8\'eb\'e0
+ \'eb\'e8 \'ee\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e0 \'f1\'e5\'f0\'e4\'f6\'e0. \'c5\'f1\'eb\'e8 \'ef\'f3\'eb\'fc\'f1\'e0\'f6\'e8\'e8 \'f1\'ee\'ed\'ed\'ee\'e9 \'e0\'f0\'f2\'e5\'f0\'e8\'e8 \'ed\'e5\'f2 - \'ed\'e0\'e4\'ee \'ed\'e5\'ec\'e5\'e4\'eb\'e5\'ed\'ed\'ee 
+\'ed\'e0\'f7\'e8\'ed\'e0\'f2\'fc \'ed\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0, \'f1\'ee\'f7\'e5\'f2\'e0\'ff \'e5\'e3\'ee \'f1 \'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\-\'ed\'fb\'ec \'e4\'fb\'f5\'e0\'ed\'e8\'e5\'ec.
+
+\par }{\insrsid15738386 
+\par }{\insrsid13844926 \sect }\sectd \sbknone\linex0\sectdefaultcl\sftnbj \pard\plain \ql \li0\ri0\nowidctlpar\pvpara\phmrg\posx158\posy0\absh3087\dxfrtext10080\dfrmtxtx10080\dfrmtxty0\nowrap\faauto\rin0\lin0\itap0 
+\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\fs24\insrsid10845627 {\*\shppict{\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15543\pich5443\picwgoal8812\pichgoal3086\pngblip\bliptag-173580044{\*\blipuid f5a760f4001c455aa7a9fa41d87e39c8}
+89504e470d0a1a0a0000000d4948445200000396000001420100000000a2407fc30000000970485973000017120000171201679fd25200001ea249444154789c
+ed9d5f8c24c579c0ab7796eb75385f5f040a8b7cba5e0724fc64b02e720e79bdbd0e96cec98383923c5849648ed8327989ee089239e4f576afcf66716c18125e
+8c8c192422f925928d51621c2cb68fbd78b0726690f2609260a697218c2530dbe3c5d91eb6b62af5d59ffe3353fda7f6ce7e4a49b7b73bdd5dbfaeafbefabeaf
+fe0ea2074e817fc00791fee3c8a97d12a3fa7b8c98a855fb64ec9ebfa24c62877edd9311ddbaa24cec256edd931768e29b9062ab9a9978b4b6b2d629f14c9821
+f22b9931a59b355910d79019246e2533a27450c76440b7e69ec2fd4e2a3a3df322a5a39a3c3063b60d98ecfe6e25f3cbac4aebf2f029ed193099c229d1e9995f
+67b2f06bf260ffbad5b714529c894ecf3c5ecf1c19324799e8f4cc25bf9639a6f57a964f03511da54c024caf3a0f30085794e979b54686990dfab401b34bd362
+e8997e07eabc32c52ea58f5c412666ccb0260ff076d71830a15db995cc3e4dad63490a6d4a4f5c5926ae63068c799719134c5705b39720af86695172ca80f955
+a17615cceda886192364cc8c6b982172ab724810423e36b1438f32b5ab66765135334467e7ddb12133ac663ede0a2a858bd0ca923336f12bdf622ae056315717
+eda02af44b6e41feaa3d36f19fdfa244894ecf5c39eb04a72b0a1a9f433e698d3b464c3c7bac8a79f71b6e10de581e865d8819138d5d03e6d769725846e17ae6
+5d6d77ed05bb3c66761260de67c2bc44a363b2baf436fe8847b703bb3424221e3319c45ef40c982fd2e79796ad0ae6499f5d5957fe6e2a611fcc94f7aa09f347
+d4f6026150f5ccbbe1caa1ff754b9e4f28378d6f9b305f27ee4628d4525f9f77322eb24b63c91dd62963eff39a09f37f98d4822aa6259865b1c790e26537b32b
+8dd28005018168a17ad9ce41f7d22e8dab7b3459763cb34eeff0dfc17a39a54c7a94d245c62c8bab3bd0e1dda00f9930bb0e131dcbb394c90a78925d2f535c97
+fe1cd91da3ae038ddc3aa6478059126fb28f1334e31a85d43406e108a350d21774c939782757cff4e17197d8264c5621cce95ae5ccc4c167adabca3a5e98fb6c
+27311bc3a863d27612237ba3447a82d98dfa464c17e21954c1ecc64741af87da8b6368496858d7139f48efaf630e62346b977548803987ee36ab4eba4617aa99
+5b9b5caff546618fcbf69ce19054c49a0ae246be8439ba9f33f5466157305d33e61bb886991ce14cbd511872a66786a4dd73c0f4ca99649133f51ddf83317b41
+0d13141374449bf1c198ed10986e0533113ea0a3bbc6c2da64d998d9a965c682a935443dfe4aae21d36bc2b4cb987dba7f60a653cf5cd75deb5c4639ab989160
+6a0d2e6392595326114cbb9ea9357e1eddc74f1833576b99a110c38e9e89e94563a6df84699733c9be717d62c16c55322d606a8d3c0cccbd63cca4b5cc409453
+c70483e8ffe5019956055396735cc2f4b02933a967ca72ea9c1930378c9963c14435cc5e05933cf16b613aed7266079f3564eed0a08e89d061d623d132c1916f
+f0714d2326a92d2798468f87955a6687fead2173b8dfa09c35cc1d536613d9ce1cf2f54ce8c5f4e9c890d96bc24487fd9220cc3918f3811a26c4a287d9ffffa4
+61e21b2087970d991dc1acb0098af996e65ab2e8d3deaed18014677ea301738eeadb4adcf1a177ef99313d3a5fc38498fb3decffef6aae0db63a8c393665925b
+1a30e1b26e8ab98befa6dbe9e07ac344fce7166a74084b57f7654dce6dbae81b3331c5a791ecb094f557441841e6dde96bc7e9ba3bfcf531f1a626c0f5e86873
+6838b1ccdc0a0e9b3147ebd3012e83e1a3bba6cc118d851df24a99b1600e1c2d93b64bc771cad28e749f354ca6435ff7a6c78dc11c6ead9b4da08389b704d32d
+5f6f2298b7523d139f28e9b29533b1db8c493e43d7a6997df6e323a6ccde965fc70c3973dcd531a9609a4cae3047d423754cd0b10f31bfdc0fa62e7113fcac29
+b3e3bdbbdc80791f7dd1a325cc47cbc6abcad2e37e6d39e1ea393a4f77a7c78539f367a6cc458a83064cbc78826e4f33797d5e2ae93e95a65b6b9920078ba053
+f43b1ae61decc7db3966134f4a4ed0710d53b832b8ae61c227bb7ed69509acc95b34cc7be9a88699f0a602ae639a49bec07eecf869088151591c977fe80cdda9
+b1b7920985f0a61e87b7d8db48c3d0d86d205cd2ab61624b9878d6f9ec6b98bfcf7eec77d271b9c8276e2d13f7e8a0921923603aa0253dcd1c8a27f200c7f22e
+82b5680d2620921eed0655fe730b83b97587d002354c18db2043ee58606268bdc99a9e719fb62b995d3ed2ea8103d5b44f7a3ffb88dc03a54ba0069c26eb6b46
+3dfacd6a263753ab737ccc6a9a19f87b7cd9479b7b02f2befab5634ccf7bd40baae2be2e3743ab9ecbf45353cef00cfbf114a53fe2792c2ee8471d2698dbf483
+354c28c03c30dfd49433e2602a838dc39f5b75935aea709b887296c5d482895c8fd25f4cfb151a7f7e7f9b0e7d1af26a479f3ced626dec9da59f30266ec09cdb
+7c087ed730931beff8feeed0a3eb31677efab6365ea95c17cb5ac1a9dd7dd1ff2c1b937add61178fbe79097e9f8e1398039869f777fbd4e6d2983dee7430aa5a
+17cb357207772a991164b630de2a61d2e0b6ab4eed0e89cd33b18ff92e4655cbaac090a26bb0c3a55236c6b805a1e6da185a407feafd439749fef8999d1df2c7
+bc9c0ef13b49ab6ac99aa8c7f143fcffb231e34df66a968d794b9f88a9f722a605213aeced8d1331a80f3396498b1c2f658a98e4aae052205d59890e25e8500b
+cc1bdd28e886c3dff9383c3a26961b49a697b4e2f269082e5a56ed0bc1f194d99fba0b8cdab15b7960577419e824d301d0d6c3d73135f438f3107b3160ba53d9
+c8249a31a2b7a015a4e674a6a6f71297f9e1733ef7166a39154f20a504dd0cdae711d68a22614077597d962f1f3b2b90c87fa085919c2f9b9e21662e336e25c2
+7f14d431f928622f6ded8144891f50d13ee94e276e69fa18f08e9e1c1482020692b9415134b9608ea0052f62e68c00b3a042c88f98de45e808ba8a312d55ce9d
+4e843cdd02a708d95821918b5a50b31ecb01059f99b813a3659b5da778721e892027b819d01434c747b29cded3bd502e029814d8712b4999f6b53cfa986777a2
+e09e893b454e825950217c582dd70a90bdeb2966eb9bbdc0990e6158b269743a65b6ac96bc9fa26fdc3d251148277d98962f746c132672f15bc822df0d245b41
+6b73a00f36b123dba62a29cf79e6368ae6ef9b9488d4b3d89918ee4bcea8f012aa95316565bd5932940be1e034133d42d1b1157e0349274cc40d963bc58c9597
+0c4e33661ff997a476a8b5821369392b004fa78039f3c0fb81c9f38d85a895d940adf3b0d835c997604bc620503c1b986fcbcc96b548bed720c7b4ba21fc772d
+eb1f1c5fe56f69f9f405f64968c592b9153266946f029b922982df1ef276957ae89044b8ad9c687ba1603326842034b62909fd57b23b5a348035115b4f7c2ccd
+a52bbb4511676e237b4fe5362d56e6085aeb45664b30e74fb17e90076d30f0036e0b9f548dd8e2cced186501d1fa04139d53d9f979de0637b18b68d599600e39
+f3cecf30666793d59bcdfab722058a39cb9ee925b9659b8e8c63e151dbdfcd65e7e665daa2af2307239b6b73ee266b1bb29ef9326b9f6e7f0b5676a53e376582
+7b7d18d14fa419ba9c49968438f34c8be254be182d404d06cb88d2ac7d2eb37fb2f3c0f4d619267e98b3d18a4980c9fa06a16212c14c589ec094dd2c9982548f
+12e64802e444e8e61c939bf79be0096b9695a63d20279949712698486c7122ce8594e97166809e00e6ee5e8189a2944902465a9e157293576d808bf8e9b79619
+730ceb622fa4f51116987bedd4c860ce24d6b39c499302d24987565f16eb89c553aa9c3664db82df669e98634ce2772976a798cb9cb9bffe7ccaf4692b400f1f
+dabb1d32f17181e91325280b14325528f54ad0a85bf20f8ad661102d178687693e3c97f5b43e139f17cdff6761137058602a85606a906f3aaa3ec7af28e6c233
+c0ece6df8c5b2348b708e6f9405d4be05d7f883efbd3a3c0dc26dc60d92953d60e5e0af22642bdfe7e8fa90ffff5cf177cd4a5a3a57cf0a798670533485b7ccc
+a4e1d3e4d9af7c97979388a539b2b4e9ac08f60b7e21cf4c658236598bba43c33c2d99966af123ca5dc0bd7f21644b56d97f77486f8b889b286914a6d864662e
+7df1b442063e1a505288618bcc7fbd3f58504c1ead25fe2f3e25982230945a12b524735c64062973a5c8cc0b83fe5c5e5ae0ccb7dba125995b5cb9e33bf6e6d8
+d5abe0293eb22985bb7c4e4943c75ca4aff8c80699b4c2651f8d4a98085dcdfefa5e3b44320e1bf02618ffe77ea2cac9872e4441ed58eac480ee6b9984593c3e
+ea7491b595f104f362ca74b6097de6c1704e8a7e3386fbb6fcff7a09183f654f8991cd58e890646e16bbdc520a4b978efbc8e5c6289cf759805764be9e3159b9
+1e65e54c99f0f3b5e7ce08bdc56abf18e4e450d556ba45a62ce752f4907f9207d84e783b4518d672689973ecf363eb7f30ebcadc787f74f35ee1cb7a381ba249
+4e6fa48fb70b4c7c92e7642d7dee8d95c525be702662b68fbd6f19f36794ce3ba172a05d582be977fb5c016dd8fca94653f3d3584e81f99aaced0eb967717589
+750310eb5831a6575cdcf65aca9cbd99be3b7fdd272c29dbee3a67d297792e175bb9115c377d9a39bc3cd3160dd41dd02f3c4c3d0fa28e88f93232c1fc65c63c
+c334c35d9eb1734c7aff997049d4766e5828c7f458c5a69a1bcb30d28ffde72cdaf112e6cd5f633e9b1137f80dd203c6473325fa0145ef0b1f90bb71babcbced
+2fae7179814d4a99d9781fab29b8da172f0037fd0b1f95851f6d276675c24249c45e52300321c3783e65dadf799a957356e6289cda43dfe7f2ba0e7e4f279eb3
+f13e666ee79087456722d779dd650dab6b41cf780b986dd1d326b3c298470b29f3d0de7718f3f06de23111ad3ff86918c31099a516271bef63ce67e5191ffcc1
+dcc39f9aa1b934a003e6ab7c51ce36ed6d40e8c45cc40ccb2b7c2065ce5c5c475721f424cdbd75fb198faae18094990d9a24ac8aa0f8e83a6658efc83377e8e8
+01b01d119313ed26dc8c2068c04cbc6bc75266ebfe1ec40bbfadb283f4b5dc4c7e6a4cb2c692c8683ff2e9441ad3a40bf9b36e1063461c008f41c4f80fc201b0
+3084fd73103a6a157a7af7bfa46166ddd4248dbc2713a6f82668e12cbe4220e074ea80e9ee4dab427f420826fe88f58bd107f28f76f21bc155f13e957ac3711a
+794f317dee7fa1352110709ad84b9c1026d281d2cfc130c0b58561c6f3f91c0533caf558c6b9adc2c544f27b881337f732ac831d71597bb27fc634eb64fed1f6
+a9dc1f2e6bfe581a08c5f4cb6604bcf4b7897130e8dc3860c455279a95e2a5fc0d0fe64752daa21a729f8c93d25988ac68134c6629b6a5b0c0fab1ba49acd37e
+1e93cf115ecefa9bfcf3c9a874a2bb53c6541e8f6378ec81e716ca9957d389fe6eb245cb6678b239da296634d96f2e96f3c13c737a0a3419942e22c8546b8a89
+0b31314bc1efe5996d579fa362764b37bd642f583fa71714a63bfeceabbc193ba59b7bb24656cf0cafcd339faf65ca46f6577b139732f354cf8c67f3cc92b1a0
+34b9854e622777258b1f1a303f5060fa25b7e56e9949c08221154ec894c9bc9e9914da8ac11918026aedc340c11aca8daed433f17c73cc74ba3d1374f632b54f
+9106d3d515e939e6fb995add9cfba8418697c73c5886baa9a45f37d368ebda15625ef1f4ff4c3a31d070398914865bab9851d5c58a09cfe99414e681abb20d2a
+d6dd9badc98fbdc24055c59d4ec56ecbd83711fc85c2313f154c16aa966f43dc345a9bb55ee809573093aa0516ed068b2ff277e7478d2a9871d5e13c6eedc13d
+c5bbf3833315ccadb2fd82542c4e2dbba6bd3b1f0d56334b0fca01a057724d7fb7db88f96fb43456e582ed1831737757307f4ccb17bc821a36df9e0d014d6ea9
+650573ad9a499a2fd89c3893a9820923ec9d926b10ac4e4e8457339b95139865f21b1831276aa282d9aa608211baa93113cc47ce541e9009b5738309336fba2b
+987685070566f3d3874634378957c9bc860fe6e81394bff969528c19e73ab5d5b2d52e3b3810336ac6b46140ae826924db3037b25529dbf2838f80d95c6fc730
+07d6a88fd4aa084ec0991bb54f3b9757956c312add2c07dd501326b183d9541fab985b6b4929d331b37d89f356908ee15530ddf66629334466cc511ba3b37e2d
+932cba83d2232fc2232efd766326a6837e82d2c1aa7226be930e4b6d42e85906fd35ecafd318f9ca1455305b15762874bfe4345f944f7c3880837ea896492cbe
+0c459f02b7bb63c05cf1585bf7abcf29e4e9437cc8b084e96de3fa235555c267a1f3b35179969e48e0f5cad6d5ae316679c76232913b85a6bbb54c8805d29502
+1329f04d626a104980526f5cc104bd0ca6f75df1e456c4dbd3095423389ac661154c782ba49f44809a31d9ec35a2fb50ce412d93c98f20fde26c6e870d985bb0
+93241d66ac608670e48fbed6c2ed66db56547acde39355b896f91aeb07217dadb587d0eb6dce8c60ea24edfe5430f9714aef6a7376f7cc0ef48c617d3055d551
+d5b7779318696b8df8fb867ba07a1739d3ad67c2cbe998092586fbcb06019aa5aa2b52c584d35eb4bda411ac2f303a352b469cd9af65de3fcb981dcd851dbafb
+9cd97e41c9ecd532c379c6d4897048c78f799e21f348236674b684d9a3f89523be099369c6d1464c7e70a78ed9a1f40f8dc6de60360f82ea6133a6ae49b8c683
+d78cf98fcd98919e09d6ddf0a0ae50cc3b3460425bd1442060c24cac10e5339c9f6cc68cf44c30d566bb22617ee768fa546d3935c37ae06b4c46fb387379b639
+53e340c7b4c956ab0926afcf86ccfde98fa18cba8332ca1331636a328727eb8ecc2e268cf2470bfde698d025d8ad67067080f074e6f0a4d9767b603ee9ab1676
+10266f6546cc84e534e337b60965cc8e1113c15a4615e01ea49cfc4953978dfe8c2a8b59cbd40891338d4213c6b46001fe530766f68c99cc885a8c47ce5e1ed3
+28ec638af1b1a719336ec8ece899bb864c04038daffb97c534722ce1ac65ddc5def3d57a26b4158d821e8089fee4e85728dd7eae21735a59faf0c3c8b1ac5dfb
+f0354cdbdbbe57cb04d96e4c337bc6ccd9f9ce89753844a19e09e5f4a61594334da6cbe8354797ac809291e815d431895fc23472a033d7903f3de98f860767f6
+e187893323d6fb4977c91b764423a863628d821a33f1076f823303ddcb60f2074d9c193ee2b0ba88ef960daf9e39b9c64ab51e13e6bd5783ceadcb47eb98ba6d
+ed7de8f29a38d0c455d3c28d98632d1396b71b3063d793017123d9ee68981d2e5813e6922743a1fe65303b460e345a941b329ae96d09b36fc40c8fa9a1840330
+897ab067e4b42fdeaaaae2004caa1e1c1a311f38a19ad681997d1e251838d02fdda0cc96db8439d433f78c98876e52bbb11a3175e5ec716673074a6e74941bf2
+9a30077adb874d1c28f940bac3a421735a863d719c7b73e6c73d990b69c47c52c3dca6e26cd8a64c7c8b27b5bc2973ba4dc0279e09f3b4272d88d0a47abd9d9e
+460166a7b9330b60334587539b31bf9d4c9713a4dd6f6ce4612ce138f5f86630a177b5e5bc30cd1c5372bbd3b837085b191c5640981a6ec68cbce9250163d6b5
+3bd598c97ad8ab37b0a6f24bb731134feb2d46d7c1e28566f39ffc10f14799c7ded95476a456b66bd34c723d42ef6b68e4a1365d7a81f14683a6cc5033b58a11
+dafe49c361467e06068dae674feda940bcaebf12fad37615b672bdd1d0c8077cc178741f7b6a9c31353345adec81aec696c393effa8d8c3c16836e173053ddfb
+321d3ae94dde283644f538b3a7c91a3ed96fc604d132a9ac25fe29725f6a13f09c3bfd6e607bce4be6b42de7638c5e6e7b59c9f78ec596d85543c1558cc9ad29
+3351fb75b35bc5186480dc1226af4837ab94a8e49425d64af84e007ea417261f852f98e2e70fc5e9267e9542ae6a740e367c5ba5cc7636e41704dae974dc127b
+9aac08f223ab8bace52cb7f619737461d29e88ad11a11b6cb25fda65cc2e37f20154839d3b222097624fed2be175bab228cf0504e644a0ca5fce26883e2a4e7d
+9bf6599c3954fb463ce2e8bfa42fa2d9be92c3ac282b72ecd8475b5b13368cdfd7c22792afc28859a7ac9c6fc23ae4656ebf6fd6eff6b890637e91d2a758467b
+6fc14b4e33237e13be0fff18bea365a38cc93e9e15624b5a5affbddf2a327fc0746e0c99bb6867a466d3e576cd80dfb442f1250cc7b9943189daa082e235ed08
+329c8fa2ead38eff9b3eca32fae5cb9c394ab29352f8db8abb1629b9b4c2985e29d3a796d8957cf6d63dea4e7d2b033fed49319d3dcc981fdf38f473c1c43144
+9304d967f998b9dcb47f8cf29303269871c6645aeb882c67be68513822ac98d0112f6382b4be416ef8a777162493efce8f5a011ce8919e7371d8a7c92a2f7a9e
+093ba0d4778c7528df5888d06c62d1b5b0b044ee0556432b05e63e7d8c58378a3fd088c02139047199a6ed09604132c57cde81771286b64f5d51f5d618ce86c7
+992d2222673f275bce943ba33c34a2ac134c433b71e9ab2be2c82f7185b623ceccc7eb5dd08797aee7bf6f13379477eec0a6e7ac42237414b5f8b6d2ac9c7bc0
+1455014c17162c2e293b2da9ac61f2336d0aee03b763b028c2ea8c124f3107b04e44b97037815312c4d906aa08dede0e7d6c55fd8162da0efcc04e77bbcafdf6
+565b9cd452988d8b1df8da2aa94938f61573c898037520067c74fb31b9f15a55d4de2e3da90e1e715142372364656af78ebc7297d8055f087ba2169fdf151680
+583463223f9813f7b052ce886fcdcc337fd0252b79e616665e2bd50055059e3a8c2167a606e171be017d83ff752165de054c5939093ecaf2fa5531337fa34fb0
+92ad83b09f50380c6f9229be2aca2a2c4aeeca23d67a05a6c399b1648ee897e854661eed93c53c13d3e3b9c6355657243377ac0c53cd50e6cb052745678f9fa6
+69ed90567e1d625680fe7eae9cc4235e7e1bb062da32aec8bb0c47ce36245cc2b1ccd2da7f5a9e4fc1ab7321bb3fd73eb7f752a60de727a0fc4e73c554b14c4e
+6d89ab148a3f10fbd266ad3c82d18a5cea9ae4b77b67369e6eff0afb79666123ab6222ee600a2b24b11acd1276225167f32c3e8a5bf4129562cf8700ca97b51e
+d9ddce31a95bec04a44c4f9436573b899f66e8c19feeabe2cef7fe305ba73b28741153e6f5bb7d2c3cd6490db370aed0a295d788241b70ebc39df650be38ac19
+94a95b60a6a77091c43f29cab908cc76b1835560622bc9ce0783aa55cc21bff32999a39f35b5b69689b6237ccc97e26b4d31495060e6ddca20639e2fbc9d9de9
+4d9119a93bfab761301b889f57080b678acc1cd25ab52879c157973653667c6be1ce99ac02d4e91a22b552284d9673cc6eb13e0b4ccf92e7b6f1d44d99db1377
+bae9d30566d48183b0df0b7744684b982d3f64ccc14487395f9ff6df53eaa76b5359e8ceb7c83e3bf57619337f5a0a3f32ea317590a890341c0407cc628739cf
+6cadd1dcb20016241ce22c7f638269a94dd4d8cf95535954281f485f7484a2162c6229769891748b9c19b012ec29a62b74e23075bdc95a40fba2ac093009c7c6
+69a5c053f084f84e346026134c2beb65206b0d72eaa47283f33559a12e7a531241e28819d684f999b3740fa1f47893589693f0fe5ecc99225e559270ee8ab29c
+dcad3c93555084ae1e28071ae499e2db0a462c9f1badef3d87f22722a82fc5e0613667629fc72e2fc96f9823ae9f2b800b6e4576dcb03c777247310b352fcebb
+19c9b3c6827cb82b3bf83225c03c29def798d8b88d4f7e9e64c2a5fb6dbaa798be08beb44c47ac8d1dd0687ad848c49e05a652bd04cefba2d117e8b63a57957d
+f8f830f5da8934714339bc287468560a44dcd6a5e75d3a95505ed498d95b381c30e12e3401df1d6cd3bdd4aa5964f99ef46498446e1e50f549f8c16bd931ff0e
+673a1a2617a4af4aed32e64399e059af6e8e999a77fc40ea477cf7386d9f8984a7ccf5388270bfc0c44bde343344287faa41b16b137bd13cf5e9e77d55591f81
+c052be7922c39475c53cc55d772495cd834cdbc98a8629f4e3363d13c3e463cc272662f9fa8cd9914cb15a04cae30926f739c22fbb117c3d166dc7bac5d0d275
+ab2b135db8c0c6abac3e7de5a99cf48c35bed18327372d27cf3f3547d048da5bbae9089cd6b98e09dbd8fe5a843b81d4b68c294eca85ea154c5b04f44222366f
+f0edae8ec95fcb264a75a7c718d1c67f042913d9ac8f275b9cdc7e07cc8e783bb50e9cbd5becc582a95d6c187091a975a5d3cc08ad0a43255acb3b2db51e5432
+9940455f9338d26fe1acaada6ded68a7b0b8e57b49d4a9b491aca6ccef388a1909a69bfacab4efd976b5a3ba62e458a9976efc36a48ae976e8d7b05fcc86bded
+795ec3b1972ef04eb7b9bce8e947cc63de04bc72a6cc5b9e2c44bc621531a6d3a5e26c8e8eca326396cd0c80706b995875293ac5cd3a893cd818fa720a901e9c
+75d12f6342766e1d333daebe57648e99d188d10caff5b49f207363118a4bf509af06c7eb992a0da3c29f23567b72f839632a258a4b773a131f1fb90c66a62669
+f4968aa2741d276bcb6a376903e6a8c8dcc94d20a51a9d2a51e16bb0f6c7efc9fe74d3dd270d98e3d727984eeef74994688397b200c2de43f65d7b336f9d71d2
+e5c30d98b8b83b6627774855da8ad2cf920b01caa5d91c3c7daa0193a41b1a791ae4aa4c74f2c385cc6748b735f3bb9f25c2220630e2667d78ede1329fad677e
+b8c8cc79c8dc51ed29d3f2eb66d21a30e9ef1499396f257c67abf98ebac6ccc78bccbc29dc4b879fae30b3f8dd2403c3e5f8076316b78dec186e753818b39846865b3aae04336ebea7f68a317383e0bf39a6fb9b679aadc6d7a5ff03ba890181322181ac0000000049454e44ae426082}}{\nonshppict
+{\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15543\pich5452\picwgoal8812\pichgoal3091\wmetafile8\bliptag-173580044\blipupi150{\*\blipuid f5a760f4001c455aa7a9fa41d87e39c8}
+0100090000033e49000000001949000000000400000003010800050000000b0200000000050000000c02cf004c02030000001e00040000000701040019490000
+410b2000cc004201960300000000ce004b0200000000280000009603000042010000010001000000000000000000000000000000000000000000000000000000
+0000ffffff00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3fffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc1fffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffff0c7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffff1c3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0fffffffffffffffffffffffffff3e3ffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff807fffffffffffffffffffffffffe3f1ffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffff9e7fffffffffffffffffffffffffe3f1fffffffffffffffffffffffbfffff5ffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffff167fffffffffffffffffffffffffe3f8fffffffffffffffffffffe00000000000307ffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe367fff
+ffffffffffffffffffffffe3fc7ffffffffffffffffffffc0000000000000000001ffffffffffffffff800017fffe7ffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe707fffffffffffffffffffffffffe3
+fe3ffffffffffffffffffff817ffffffffc02000001ffffffffffffffff8000000000000022264fe00007fffffff8000080000013681900fffffffffffffffff
+fc01fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcf07ffffffffffffffffffffffffff3fe1ffffffffffffffffffff1
+fffffffffffffffffe1ffffffffffffffff8c180000000000000000000000000040000000000000000000007fffffffffffffffffc01ffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffff9e4fffffffffffffffffffffffffff3ff0ffffffffffffffffffff3fffffffffffffffffc3fffff
+fffffffffffc7fffffffffcc0000000000000000000007fb000767fb02ec6f0ffffdfffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffff1e0fffffffffffffffffffffffffff3ff8fffffffffffffffffffe3fffffffffffffffff0fffffffffffffffffc3fffffffffff
+fffffffffffffdf9093fffffffffffffffffff1ffff07ffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+e7e0fffffffffffffffffffffffffff1ffc7ffffffffffffffffffe7ffffffffffffffffe1fffffffffffffffffe3fffffffffffffffffffffffffffffffffff
+fffffffffffffe7fff803ffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7e0ffffffffffffffffffff
+fffffff1ffe1fff800000001ffffffcfffffffffffffffff87fffffffffffffff0ff1ffffffffffffffffffffffffffffffffffffffffffffffffe7ffc0e1fff
+fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff80ffffffffffffffcfe1fffffffffffffffffffffffffff9fff07ff000020000
+1fffffcfffffffffffffffff1fffffffffffffffe07f1ffffffffffffffffffffffffffffffffffffffffffffffffc7e801e1ffffffffffffc01ffffffffffff
+fffffffffffffffffffffffffffffffffffffffc0001ffffffffffff9fe1fffffffffffffffffffffffffff8fff83fe01ffffff803ffff8ffffffffffffffffc
+3fffffffffffffffc47f8ffffffffffffffffffffffffffffffffffffffffffffffffc0001ff1ffffffffffffc01ffffffffffffffffffffffffffffffffffff
+fffffffffffffff8000007fffffffffe3ff1fffffffffffffffffffffffffff8ffff0fc7fffffffe00ffff9ffffffffffffffff0ffffffffffffffffce3f8fff
+ffffffffffffffffffffffffffffffffffffffffffff00000fff3ffffffffffffc01ffffffffffffffffffffffffffffffffffffffc0ffffffffffe00000001f
+9fff8bfc7fe3fffffffffffffffffffffffffff8ffff83cffffffffff03fff1fffffffffffffffe1ffffffffffffffffce3fc7ffffffffffffffffffffffffff
+fffffffffffffffff000001ffffe3ffffffffffffc01fffffffffffffffffffffffffffffffffffe00001fffffffffe000000000000000f1ffe3ffffffffffff
+ff0ffffffffffffc7fffe00ffffffffffe1fff3fffffffffffffff87ffffffffffffffff8f1fe3fffffffffffffffffffffffffffffffffffffffffe0000001f
+fffc7ffffffffffffc01ffffffffffffffffffffffffffffffffffe0007e03ffffffffc0000000000001f403ffc3fffffffffffffe07fffffffffffc7ffffc0f
+fffffffffe0fff3ffffffffffffc00007fffffffffffffff8f8ff3fffffffffffffffffffffffffffffffffffffffff00000000ffff8fffffffffffffc01ffff
+ffffffffffffffffffffffffffffff00bfd380ffffffff80000000000007fc0fffc7fffffffffffffe07fffffffffffe3fffff9ffffffffffe0ffe7fffffffff
+ff00000003f03ff00fffffff8fc7f1ffffffffffffffffffffffffffffffffffffffff800000000fff81fffffffffffffc01ffffffffffffffffffffffffffff
+fffffe0f68fff8ffffffff800000000003ffff7fffcffffffffffffffc63fffffffffffe3fffffbffffffffffe07fe7ffffffffff0000000000007c00fffffff
+8fc7f8fffffffffffffffffffffffffffffffffffffffe0000000007fe03fffffffffffffc01ffffffffffffffffffffffffffff8007fc7efffbfc7ffffffc00
+000000000ffffe7fffcffffffffffffffc61ffffffffffff1fffffbffffffffffe47fc7ffffffffe000000000000000007ffffff8fe1f8ffffffffffffffffff
+fffffffffffffffffffffc0000000000001ffffffffffffffc01fffffffffffffffffffffffffffc0000f8fff07ffc7ffffff000000000001ffffe7fff9fffff
+fffffffff870ffffffffffff0fffff3ffffffffffe47fcfffffffff800000000001fe00f8fffffff8ff0fc7ffffffffffffffffffffffffffffffffffffff800
+00000000007ffffffffffffffc01fffffffffffffffffffffffffff03fe018ff7fff767fffff0000000000003bfffe7fff1ffffffffffffff8f87fffffffffff
+87ffffbffffffffffe47f8ffffffffe000000000001ff83f0fffffff8ff87c3ffffffffffffffffffffffffffffffffffffff0000000000043ffffffffffffff
+fc01ffff8efffffffffffffffffffc03fffe08cffffff47f8080000000000000f071f9fffe3ffffffffffffff8fc3fffffffffffe3ffffbffffffffffe87f0e0
+007fff8000000000001fffff0fffffffc7fc3e3fffffffffffffffffffffffffffffffffffffc0000000000ffffffffffffffffffc01ffff000ffff80001ffff
+fff80007ffff80effffbfc000000000000000001fe4073fffc3ffffffffffffff8fe1fffffffffffe3ffffbffffffffffe0700000000fe0000000000001fffff
+0fffffffc7ff0f1fffffffffffffffffffffffffffffffffffff80000000007ffffffffffffffffe1c01fffc00000000000001fff800005fffffe07bffef7000
+0000000000000001ff9ee7fffc1ffffffffffffff87f03ffffffffffe7ffff3ffffffffffe0000000000040000000000001ffffc1fffffffc7ff831fffffffff
+ffffffffffffffffffffffffffff0000000003fffffffffffffffffc0401fffc388000000000001c00002ffffffffc3876fef0000000000000000000fffd8fff
+fb8ffffffffffffffc7fc1fffffffffff3ffffbfffffffffff0000000000000000000000000ffff83fffffffe3ffe0c7ffffffffffffffffffffffffffffffff
+fffe000000001ffffffffffffffffff80001fffc7ff000ffffffd000003ffffffffffe1f7fff000000000000000000001ff87fffff8ffffffffffffffc3fe01f
+fffffffff3ffffbfffffffffff00000000000000000000000003ffe0fffffffff1fff807ffffffff8000fffffffffffffffffffffffc00000000ffffffffffff
+fffffff80001fff8fff3fffffffffe003fffffffffffff0f67e0000000000000000000001fe1ffffff9ffffffffffffffe3ff807ffe0000be3ffffbfffffffff
+ff800000000000000000000000003f83fffffffff1fffe002401b2be00000003fffffffffffffffffffc00000003ffffffffc00ffffffff00001fff8ffe3ffff
+ffffffffffffffffffffff01fff000000000000000000001811fffffff9ffffffffffffffe3fff00c000000001ffc43fffffffffff0000000000000000000000
+00000207fffffffff8ffff9f80000000fffb000002fffffffffffffffff00000000ffffffffe0000fffffff00001fff1ffe3ffffffffffffffffffffffffff00
+7fc000000000000000000003801ffffffb3fffffffffffffff1fffe0000000000cff1f3ffffffffffe000000000000000000000000fd001ffffffffff87fffbf
+fffebffffffffff00003ffffffffffffffe00000003ffffffff800000fffffe00001ffe3ffe7ffffffffffffffffffffffffff00000000000000000000000003
+81fffffffe3fffffffffffffff0ffff806fffffffe007fbffffffffffe0000000000000000000001ffffe07ffffffffffc7fffbfffffffffffffffffff003fff
+ffffffffffc00000000ffffffff0000000ffffe00001ffe3ffc7ffffffffffffffffffffffffff0000000000000000000000000791ffff7fc07fffffffffffff
+ff8ffffe2fffffffffbbfffffffffffffe000000000000000000001ffffffffffffffffffe3fff3ffffffffffffffffffff807ffffff9cffff800000000001ff
+ffe000000001ffc00001ffc7ffe7fffffffffffffffffffffffffe0000000000000000000000013f01fffe0003ffffffffffffffffc7ffffcfffffffffffffef
+fffffffffe000000000000000000001ffffffffffffffffffe1fffbfffffffffffffffffffffe09ffc8000000d00000000e000e1ffc0000000007fc00001ffcf
+ffc7fffffffffffffffffffffffffe0000000000000000000000017e01fffec87fffffffffffffffffc3ffffcffffffffffffff039fffffffe00000000000000
+0000020fffffffffffffffffff1fffbfffffffffffffffffffffff03e00000000000000000fff8407f80000000003f800001ff8fffc7ffffffffffffffffffff
+fffffe800000000000000000000000fc01fffcffffffffffffffffffffe3ffffcfffffffffffffff83fffffffc0000000000000000000707ffffffffffffffff
+ff8fff9fffffffffffffffffffffffe00000000000000000df43fc007f80000000003f800001ff8fffc7fffffffffffffffffffffffffc000000000000000000
+000000fc01f841fffffffffffffffffffff1ffffcfffffffffffffffe7fffffffc00b1000000000000017f03ffffffffffffffffff8fff9fffffffffffffffff
+fffffffc0000000000000000efe0fc1c7f00000000003f000001ff1fffe7fffffffffffffffffffffffffc0000000000000000000000003c01f80fffffffffff
+fffffffffff8ffffcfffffffffffffffdffffffffc07e700000000000007fe61ffffffffffffffffffc7ff9ffffffffffffffffffffffffc0000000000000001
+fef87f387f00000000003c000401ff1fffe7fffffffffffffffffffffffff900000000000000003f0000000001ff0ffffffffffffffffffffff87fffcfffffff
+ffffffff3ffffffff81fde0000000000000dbcf01fffffffffffffffffe3ff9ffffffffffffffffffffffff8000000000000000319f7dffcff00000000003800
+0401fe3fff807ffffffffffffffffffffffff90000000000000000ff8000000001ffc7fffffffffffffffffffffc7fffc7fffffffffffff8fffffffff87ffc00
+00000000003c99fc03ffccfffffffffffff1ffcffffffffffffffffffffffff8000000000000000393f7effc7f000000000000000401fe3fff0001ffffffffff
+fffffffffffff90000000000000001ffc000000001fff1fffffffffffffffffffffe1fffe7ffffffffffff01fffffffff07ff80000000000007c93fc007c001f
+fffffffffff8e007fffffffffffffffffffffff00000000000000007ffeff5fc7f000000000000000401fe3ffe3f0007fffffffffffffffffffff90000000000
+000007ffc000000001fff87fffffffffffffffffffff0ffff7fffffffffff817fffffffff0fff0000000000001fdb3fe0000000ffffffffffff80020ffffffff
+fffffffffffffff0000000000000000fffeffbfc7e000000000000000401fc7ffcff1e003ffffffffffffffffffff9000000000000000ffff000000001fffc1f
+ffffffffffffffffffff87ffc0fffffffffff1ffffffffffe0ffe0000000000007f9b3ff0001fc00fffffffffffe03f80ffffffffffffffffffffff000000000
+0000001fffdffdfc7e000000000000000c01fc7ff8ff9ff803fffffffffffffffffff0000000000000001ffff000000001ffff0fffffffffffffffffffffc7f8
+003fffffffffcfffffffffffc1ffc000000000000fff67ff007ff0007ffffffffffff1ff82fffffffffffffffffffff0000000000000003fffdffe3c7e000000
+000000000c01f8ffe1fc001f800ffffffffffffffffff0000000000000003ffff000000000ffffc7ffffffffffffffffffffe3c01e17ffffffffbfffffffffff
+c1ffc000000000003fff67ff007f80007ffffffffffff8fc100ffffff5fffffffffffff0000000000000007fbfdffefc7e000000000000000c01f8ffc3e00001
+fc00fffffffffffffffff40000000000000067fff200000000ffffe7ffffffffffffffffffffe003ff81fffffffe7ffffffffffe01ffc000000000003fffe7ff
+007f8008fffffffffffff8000002ffff8007ffffffffffe0000000000000007fb9c7fe7cfe000000000000001c01f0ff8f807f8007e007ffffffffffffffe400
+0000000000018ffff380000000fffff1fffffffffffffffffffff00fffe01ffffff0fffffffffffcf07fc000000000003fffe7ff807fe3f8fffffffffffffc00
+000000501c007fffffffffe0000000000000007ffbf7ff38fe000000000000001c00f1ff1f07fffc003e007fffffffffffffe0000000000000019fffcfc00000
+007ffff9fffffffffffffffffffffc8ff00001ffffc1fffffffffff1f83fc000000000003fffe3ff807fffe3ffffffffffffff1ff8000003c0f000ffffffffe0
+000000000000003ffbf3ff9c7e000000000000003c01f1ff3e3fffffc007f81fffde7c1fe00000000000000000003fff8fe00000007ffff8ffffffffffffffff
+ffffffc700000007d019ffffffffffeffe1fc000000000003ffff3ff800fff87ffffffffffffffffffe000100003e007fffffff0000000000000001ffffbff9c
+fe000000000000023c01f1fe7c7ffffffe00ff00000000f0000000000000000000007fff80f80000007ffffcffffffffffffffffffffffc20ffff80000f9ffff
+ffffffdfff1f80000000000001f9f3ff8000fc0ffffffffffffffffffffe000000001f007ffffff0000000000000000ffffdff9cfe000800000000003c01f1fc
+78ffffffffe003800020000007fff80000000000000c7ffff87e0000007ffffcffffffffffffffffffffffe03fffff8007f1ffffffffff9fff0fc00000000000
+04f801ff81c0003fffffffffffffffffffffffc8ff80007c3ffffff0000000000000001ffffdff9cfe012400000000001c01f1fcf0fbfffffffe00077000000f
+fffffe0000000000001cfffffe7e0000013ffffcfffffffffffffffffffffff0fffffffffff3ffffffffff3fff0ff00000000000027d01ff1ffc00ffffffffff
+ffffffffffffffffffff000e3ffffff0000000000000001ffffcff98fe23acf4200000001c01f1f8f1fffffffffff00000007fffffffff0000000000003cfffe
+cc7c0000013ffffcfffffffffffffffffffffffffffffffffff3fffffffffe7fff01fe00000000007039fbff1fff87fffffffffffffffffffffffffffffff000
+1ffffff0000000000000000ffbfcff99fc44bf06e80000001c01f3f1e3ffffffffffff0002ffffffffffff8000000000007cfffcccfc0000011ffffcffffffff
+fffffffffffffffffffffffffff3fffffffffeffff00000000000000f081fffe3fffffffffffffffffffffffffffffffffffffc00ffffff00000000000000007
+f0dbff99fcfffff2d80000001c00e1e1c7ffffffffffffffffffffffffffffe00000000000fc79fcc9f8000001bffffcffffffffffffffffffffffffffffffff
+fff3fffffffffcffff04000000000001f803fffe7ffffffffffffffffffffffffffffffffffffffd03fffff800000000000000007dffffb9fc7ffff9e0000000
+1c01e1e1c7fffffffffffffffffffffffffffff80000000003fc33f889f00000019ffffcfffffffffffffffffffffffffffffffffff3ffffffffebffff0ffe40
+0000000ffc2ffff87fffffffffffffffffffffffffffffffffffffffc1fffff800000000000000007dffffb1fcfffffbec0000003c01f1c1cfffffffffffffff
+fffffffffffffffc0000000007fe00ff99f00000000ffffe7ffffffffffffffffffffffffffffffffff3ffffffffe7ffff1ffff80000003ffe0ffff0ffffffff
+ffffffffffffffffffffffffffffffffe0fffff800000000000000000cffff007cfffffe000000007c01f1c18fffffffffffffffffffffffffffffff00000000
+0fffc01f80c30000008ffffcfffffffffffffffffffffffffffffffffff3ffffffffc7ffff3fffff800007ffff07ffc1ffffffffffffffffffffffffffffffff
+fffffffff03ffff0000000000000000001ffff7c3cfffffe00000001fc01f0c11fffffffffffffffffffffffffffffffc00000003fffff080007000001cffffc
+fffffffffffffffffffffffffffffffffff3ffffffff8ffffe3fffffffffffffff808003fffffffffffffffffffffffffffffffffffffffffc03fc0000000000
+01e000003ffffe7e3cfffffe4003fdfffc01f8011ffffffffffffffffffffffffffffffff0000000ffffff80001f800000cffffcffffffffffffffffffffffff
+fffffffffff3ffffffff1ffffc7fffffffffffffffe0000fffffffffffffffffffffffffffffffffffffffffff00000f0000000001f8000007fffcfe3dfffffc
+7e07fffffc01fc081ffffffffffffffffffffffffffffffffc000007ffffff83ffff800000cffffcfffffffffffffffffffffffffffffffffff1fffffffc3fff
+fcfffffffffffffffff8007ffffffffffffffffffffffffffffffffffffffffffff001ffc000000001ff0000e3fff9fe39fffffc7ffffffffc01ff383fffffff
+ffffffffffffffffffffffffff00003fffffffcfffff800000cffff9fffffffffffffffffffffffffffffffffff9fffffffd7ffff9ffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffff800000001ffff81f87f47fe79fffffc7ffffffffc01fffc7fffffffffffffffffffffffffffffff
+ffff03ffffffffffffff800000c7fff9fffffffffffffffffffffffffffffffffffcfffffffa7ffff9ffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffc00000000ffffc1fc000ffc79fffff8fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff8000
+00c07ff9fffffffffffffffffffffffffffffffffffc01ffffe6fffff3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ff800000007fffe079fffffcf9fffffcfffffffffc00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000c00ff3ffffffffffffffff
+fffffffffffffffffffc0000efcdffffe3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff80000003fffe019fffffc
+fbfffffcfffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000e781f3fffffffffffffffffffffffffffffffffffe1900
+001bffffe7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000001fffc1c3fffff1e3fffff9fffffffffc01ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffc00000e0fcf3fffffffffffffffffffffffffffffffffffc0017ff03ffffc7ffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000fff99f1fffff3c3fffff9fffffffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffc00000e03fb3fffffffffffffffffffffffffffffffffff9f0000047ffff8fffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffff0000027e23f9fffff21ffffff8fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffc00000e7c1e7fffffffffffffffffffffffffffffffffff9fffe500fffff8fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffe00000000ffc7fffe07ffffff8fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000a7f8e7ffffffff
+fffffffffffffffffffffffffff3ffffffdfffff9ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000001e
+ff3fffc1fffffff8fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000e7ff07ffffffffffffffffffffffffffffffff
+ffe7ffffff9fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8000003fff9fffcffffffffc7fffffff
+fc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000a3ffe7ffffffffffffffffffffffffffffffffffe7ffffff3ffffe7fffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc603fffcffffffffffffc7ffffffffc00ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffc00000a3fff3ffffffffffffffffffffffffffffffffffefffffff7ffffe7fffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffc303fffe7fffffffffffe3ffffffffc00ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffc00000e3fff3ffffffffffffffffffffffffffffffffffcffffffe7ffffcffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffe443ffff3fffffffffffe3ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000e3fffb
+ffffffffffffffffffffffffffffffffffcffffffcfffff8ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffe281ffff9ffffffffffff3ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000f3fff9ffffffffffffffffffffffff
+ffffffffffcffffffbfffff9fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe240ffffcffffffffffff
+3ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000e7fff9ffffffffffffffffffffffffffffffffffdffffffbfffff3
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff06277ffc7fffffffffff1ffffffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffc00000f3fff9ffffffffffffffffffffffffffffffffffdffffff7fffff3ffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8223fffe7fffffffffff1ffffffffc01ffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffc00000f3fff9ffffffffffffffffffffffffffffffffff9fffffe7ffffe7ffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff8833ffff3fffffffffff9ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc000
+00f3fff9fffffffffffffffffffffffeffffffffff9fffffcfffffe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffc439ffff9fffffffffff9ffffffffc00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000f3fff9ffffffffffffffff
+ffffffffffffffffff9fffffdfffffcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01cffffdfff
+ffffffff9ffffffffc00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000f3fff9ffffffffffffffffffffffffffffffffff9fffff
+9fffffcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe03c7fffc7ffffffffff9ffffffffc00ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffc00000f3fff9ffffffffffffffffffffffffffffffffff9fffff3fffff9fffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff03e3fffe3ffffffffffdffffffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffc00000f9fff9ffffffffffffffffffffffffffffffffffdfffff7fffff9fffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffff01f3ffff1ffffffffff8ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffc00000f8fff9ffffffffffffffffffffffffffffffffffdffffeffffff9fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffff81f1ffff8ffffffffffcffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000fcfffbffffffff
+ffffffffffffffffffffffffffcfffffffffff3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc77
+0bfff8ffff87ffffcffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000fcfff3ffffffffffffffffffffffffffffffff
+ff9fffffffffff3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0e0ffffcfff071ffff8fffffff
+fc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000fcfff3ffffffffffffffffffffffffffffffffffdffffffffffe7fffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc2e27fffe7fc01f9fff9ffffffffc01ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffc00000fe7fe7ffffffffffffffffffffffffffffffffffdffffffffffe7fffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffe0121fec73e3fe79fff9ffffffffc00ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffc00000fe7fe7ffffffffffffffffffffffffffffffffffcffffffffffcffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffff0213fe53387ff1e7ff1ffffffffc00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000ff3fe7
+ffffffffffffffffffffffffffffffffffcffffffffff8ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffff13103e0180fffef1ff1ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff800000ffbfcfffffffffffffffffffffffff
+ffffffffffcffffffffff9ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff04189f3387ffff3cff
+3ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000ffffcfffffffffffffffffffffffffffffffffffdffffffffff9ff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff81149013c7ffff8f7f3ffffffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffc00000ffff8fffffffffffffffffffffffffffffffffffcffffffffff3ffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc000521085ffffefbe7ffffffffc01ffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffff800000ffff9fffffffffffffffffffffffffffffffffffcffffffffff3ffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffc004010167fffff7de7ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff8000
+00ffff9fffffffffffffffffffffffffffffffffffcffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffc0000000f1fffffce47ffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff800000ffff3fffffffffffffffff
+ffffffffffffffffffcfffffffffe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0000041b3
+fffffef0fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff800000ffff3fffffffffffffffffffffffffffffffffffcfffff
+ffffcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000001b1fffffe70fffffffffc00ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffff800000ffff3fffffffffffffffffffffffffffffffffffc7ffffffffcfffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000118ffffffb1fffffffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffff800000fffe7fffffffffffffffffffffffffffffffffffc7ffffffff8fffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffff000000054ffffffc3fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffc00000fffe7fffffffffffffffffffffffffffffffffffe7ffffffff9fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffff80000003cffffffc7fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff800000fffe7fffffffff
+ffffffffffffffffffffffffffe7ffffffff3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8
+800000027fffffe7fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffff800000fffe7fffffffffffffffffffffffffffffffff
+fff7fffffffe3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc000000a37fffffe3ffffffff
+fc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000fffcfffffffffffffffffffffffffffffffffffff3fffffffe7fffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0000000ffffffff7fffffffffc00ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffc00000fffcfffffffffffffffffffffffffffffffffffff3fffffffe7fffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000007fffffff3fffffffffc01ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffc00000fffdfffffffffffffffffffffffffffffffffffff1fffffffcffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffe00000000fffffff3fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000fff9ff
+fffffffffffffffffffffffffffffffffff9fffffff9ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffff00000000fffffff3fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00000fff1ffffffffffffffffffffffffff
+fffffffffff8fffffff1ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00004004fffffff3
+fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffe00000fff3fffffffffffffffffffffffffffffffffffffcfffffff3ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000010fffffff3fffffffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffc00000fff3fffffffffffffffffffffffffffffffffffffe7fffffe3ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8000004effffffe7fffffffffc01ffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffe00000ffe7fffffffffffffffffffffffffffffffffffffe3fffffc3ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffc0000000ffffffe7fffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffffffff000
+00ffe7ffffffffffffffffffffffffffffffffffffff1fffff81ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffc00000a4ffffffe7fffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000ffcfffffffffffffffffff
+ffffffffffffffffffff9fffff49c0ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0000001
+ffffffe7fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffe0700000ffcfffffffffffffffffffffffffffffffffffffffcfff
+fcdc0e7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000010ffffffcffffffffffc01ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffc0180000ffcfffffffffffffffffffffffffffffffffffffffe7fff99c3f3fffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000effffffcffffffffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffff86040000ff9ffffffffffffffffffffffffffffffffffffffff3fff7beff9fffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffff0000004ffffffcffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+ff8fc00000ff1ffffffffffffffffffffffffffffffffffffffff1ffff7fff8fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffff0000004ffffffdffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffff1fe00000ff3fffffffffff
+fffffffffffffffffffffffffffff8fffeffffcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+e3800004ffffff9ffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffff1ff8f000ff3fffffffffffffffffffffffffffffffffff
+fffffe7ffdffffe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcfc40000ffffff1fffffffff
+fc01fffffffffffffffffffffffffffffffffffffffffffffffffffffe3ffff800fa7fffffffffffffffffffffffffffffffffffffffff1ffbffffe3ffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff01fe00000ffffff3ffffffffffc01ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffe23ffffc00fc7fffffffffffffffffffffffffffffffffffffffff8fe7fffff07fffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffe03ff00000fffffe7ffffffffffc01ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffc07ffffc00f8ffffffffffffffffffffffffffffffffffffffffffc0effffff83fffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffe23ff80000fffffcfffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff807ffffe00f9ffff
+fffffffffffffffffffffffffffffffffffffff01fffffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffe1fff98000fffff9fffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff8fffffff00e3ffffffffffffffffffffffffffff
+fffffffffffffffe3ffffffe3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1fffd8000ffffe3ff
+fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffc7ffffff8087ffffffffffffffffffffffffffffffffffffffffffff1ffffffc
+7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe01ffff8010ffffc7fffffffffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffe3ffffffc01fffffffffffffffffffffffffffffffffffffffffffff807ffff8ffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc03ffff8000ffff8ffffffffffffc01ffffffffffffffffffffffffffffffffffff
+fffffffffffffffff1ffffffc07fffffffffffffffffffffffffffffffffffffffffffff813feffc07ffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffe61ffffc000ffff1ffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff31fffff8
+e1ffffffffffffffffffffffffffffffffffffffffffffff803feffc03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffc70ffffe000bffe3ffffffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffe01fffff007ffffffffffffffffffffff
+ffffffffffffffffffffffff801fc7f3f3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7c3fffe000
+7ff8fffffffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffc03fffff00fffffffffffffffffffffffffffffffffffffffffffffff
+c01f820ff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7f1ffff000ff31fffffffffffffc01ffff
+fffffffffffffffffffffffffffffffffffffffffffffffc61ffe7f00fffffffffffffffffffffffffffffffffffffffffffffffc03f01ffc7ffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc7f87fff0007f07fffffffffffffc01ffffffffffffffffffffffffffff
+fffffffffffffffffffffffe3c1fe3f80fffffffffffffffffffffffffffffffffffffffffffffffc00e1fffa7ffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffcffe3dff800fe1ffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+1f8fc3f81fffffffffffffffffffffffffffffffffffffffffffffffc000ffff67ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffff8fff18ffc00707ffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff07e181f81fffffffffffffff
+ffffffffffffffffffffffffffffffffe00fffff67fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8ff
+f80fec8080fffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff07fc00f01fffffffffffffffffffffffffffffffffffffff
+ffffffffe07fffff67fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9fffe0780040fffffffffffffff
+fc01ffffffffffffffffffffffffffffffffffffffffffffffffffff03ff80001fffffffffffffffffffffffffffffffffffffffffffffffc3ffffff67ffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9ffff0780001ffffffffffffffffc01ffffffffffffffffffff
+ffffffffffffffffffffffffffffffff13ffe0003fffffffffffffffffffffffffffffffffffffffffffffff8fffffff27ffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffff9ffff8380007ffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffff
+ffffffff07fffc003fffffffffffffffffffffffffffffffffffffffffffffff8fffffff33ffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffff1ffffc001fffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff03ffff803fffffff
+ffffffffffffffffffffffffffffffffffffffff8fffffffb3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffff1ffffe003fffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff13fffff00fffffffffffffffffffffffffffffff
+ffffffffffffffff8fffffffb3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1fffff003ffffffffff
+fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff07fffffe0fffffffffffffffffffffffffffffffffffffffffffffffc7ffffff
+33fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1fffffc07fffffffffffffffffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffffffffff03ffffff8fffffffffffffffffffffffffffffffffffffffffffffffc7ffffff23ffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1fffffe07fffffffffffffffffffc01ffffffffffffffffffffffffffffffffffff
+ffffffffffffffff03ffffff8fffffffffffffffffffffffffffffffffffffffffffffffe7ffffff27ffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffff1ffffff0ffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff83ffffff
+8fffffffffffffffffffffffffffffffffffffffffffffffe3ffffff67ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffff9ffffff8ffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff83ffffff9fffffffffffffffffffffff
+fffffffffffffffffffffffff3ffffff67fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8ffffffcfff
+fffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff81ffffff1fffffffffffffffffffffffffffffffffffffffffffffff
+f9fffffecffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8ffffffc7fffffffffffffffffffc00ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffc9ffffff1ffffffffffffffffffffffffffffffffffffffffffffffff9ffffff8fffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff87fffffcffffffffffffffffffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffc5fffffe3ffffffffffffffffffffffffffffffffffffffffffffffff8ffffff9fffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffc7fffff9ffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+e1fffffe7ffffffffffffffffffffffffffffffffffffffffffffffffc7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffc7fffff1ffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffe1fffffc7fffffffffffffff
+fffffffffffffffffffffffffffffffffe3ffffc7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe3f
+fffe3ffffffffffffffffffffc01fffffffffffffffffffffffffffffffffffffffffffffffffffff0fffff8ffffffffffffffffffffffffffffffffffffffff
+ffffffffff1ffff8ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1ffffe7fffffffffffffffffff
+fc01fffffffffffffffffffffffffffffffffffffffffffffffffffff8fffff1ffffffffffffffffffffffffffffffffffffffffffffffffff8ffff1ffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8ffffcfffffffffffffffffffffc01ffffffffffffffffffff
+fffffffffffffffffffffffffffffffffc3fffc3ffffffffffffffffffffffffffffffffffffffffffffffffffc3ffe7ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff87fff9fffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffff0ffe07fffffffffffffffffffffffffffffffffffffffffffffffffff07f0fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffc1ffc3fffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffff80001fffffffff
+fffffffffffffffffffffffffffffffffffffffffffc001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffff03f07fffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffe000ffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffc0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8000fffffffffffff
+fffffffffc00fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe007ffffffffffffffffffffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc7ffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff81ffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01ffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffe00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffbe000002f000002ffffffffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffc187fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffff5000000000000000000000fffffffffffffffffc00fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8207fffff
+fffffffffffffffffff87fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000001fd000001fe
+810000007ffffffffffffffffc00fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0287fffffffffffffffffffffffe07fff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe002f8000800000000000000000ffffffffffffffffffff8ffffffffffffffff
+fc01fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0047fffffffffffffffffffffffe03fffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffff1ffff800000000000000000000009ffffffffffffffffffffffff9fffffffffffffffffc01ffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffc0147fffffffffffffffffffffffc23fffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffc0ffff000000000000062fbfffffffffffffffffffffffffffffff3fffffffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffff80807fffffffffffffffffffffff8a3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0ffff8ffffffff
+ffffffffffffffffffffffffffffffffffffffe3fffffffffffffffffc00fffffffffffffffffffffffffffffffffc8007ffffffffffffffffffffffffffff80
+347fffffffffffffffffffffff8f1ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8c7fffc7fffffffffffffffffffffffffffffff
+ffffffffffffffe7fffffffffffffffffc01ffffffffffffffffffffffffffffffffe0000003ffffffffffffffffffffffffff01607fffffffffffffffffffff
+ff8d8fffffffffffffffffffffffe7fffffffffffffffffffffffffffffffffff8e3fffe3fffffffffffffffffffffffffffffffffffffffffffffc7ffffffff
+fffffffffc01ffffffffffffffffffffffffffffffff8000000000007fffffffffcffffffffffc08207fffffffffffffffffffffff8f8fffffffffffffffffff
+ffffc00bff03fffffffffffffffffffffffffffff8e1fffe1fffffffffffffffffffffffffffffffffffffffffffffcffffffffffffffffffc01ffffffffffff
+fffffffffffffffff00007efffe0000007ffff00000004ffe3fff801607fffffffffffffffffffffff8f8fffffffffffffffffffffffc0000000016dffffffff
+fffffffffffffffff8f1ffff1fffffffffffffffffffffffffffffffffffffffffffff9ffffffffffffffffffc01ffffffffffffffffffffffffffff00003c00
+0fc0000000fffc000000000000ffe000d0ffffffffffffffffffffffff8d87ffffffffffffffffffffff8f000000000007fffffffffffffffffffffff9f8ffff
+8fffffffffffffffffffffffffffffffffffffffffffff1ffffffffffffffffffc01fff81ffffffffffffffffffffffc000038e0e0000000003ff00000000000
+003fc00038ffffffffffffffffffffffff8f47ffffffffffffffffffffff1ffffdfffc000000000ffffffffffffffffff9fc7fff8fffffffffffffffffffffff
+ffffffffffffffffffffff3ffffffffffffffffffc01ffe007fffffffffffffffffffff01fff338000000000000fe00000000800001f001480ffffffffffffff
+ffffffffff83e3ffffffffffffffffffffff3fffffffffffe0000007fffffffffffffffff9fc3fffc7fffffffffffffffffffffffffffffffffffffffffffe3f
+ffc7fffffffffffffc01ffe003fffc0000ffffffffffffe0ffff277e000000000007c0000003004a0018000028ffffffffffffffffffffffff9fe1ffffffffff
+ffffffffffff3fffffffffffffff580ffffffffffffffffff9ff0fffe3fffffffffffffffffffffffffffffffffffffffffffc7fff03fffffffffe3ffc01ffc7
+e000000000003ffffffffc07ffff927c00000000000380000003800f0000100101ffffffffffffffffffffffff86d0fffffffffffffffffffffe7fffffffffff
+fffffe1ffffffffffffffffff8ff87fff3fffffffffffffffffffffffffffffffffffffffffffcfffc27c3fffffff01ffc01ffc7f80000ffff0000ffff80000f
+ffff811c0000000000000000000386cf0000400011fffffffffffff8ffffffffff8bf8fffffffffffffffffffffe7ffffffffffffffffc3fffffffffffffffff
+f8ffc3fff1ffffffe07ffffffffffffffffffffffffffffffffff9fff8c7000ffffff00ffc01ff8fffcfbffffffc003fc000023fffffc0880000000000000000
+0002c48700050000a3fffffffffffff03fffffffff8fb83fffffdffffffffffffffcfffffffffffffffff87ffffffffffffffffff8ffe0fff8ffffff00170000
+805ffffffffffffffffffffffffff3fff1880000ffffe007fc01ff8fffdffffffffffe04007fffffffffe02000000000000000000006fbaf001f400c43ffffff
+ffffffe03fffffffff8d5e1fffc0003ffffffffffffcfffffffffffffffff1fffffffffffffffffff8fff07cb87ffff0ffc008905802ffffffffffffffffffff
+ffffe3ffe30030007fffe003fc01ff1fffbfffffffffff800ffffffffffff01800000000000000000007afb3001f4004c7ffffffffffffc21fffffffff8eb707
+ff00000017fffffffff8ffffffffffffffffe3fffffffffffffffffffc7ffc08003ffc01fffffffffff03ffffffffffffffffffff7ffe7ffc701f0001fffe103
+fc01ff3fffbfffffffffffe0fffffffffffff0100000000000000000000fb9ff001bc08847ffffffffffffc70fffffffff8f7d81fe0000000003fffffff9ffff
+ffffffffffffc7fffffffffffffffffffc7fff00000000dffffffffffffe03ffffffb6000003fffc000003ff8f0ff00007ffe003fc00fe3fff3fffffffffffff
+fffffffffffff2000000000000000000046fffff001f400207ffffffffffffc787ffffffff866fc03e00000000000ffffff9ffffffffffffffff1fffffffffff
+fffffffffe3fffc1fffdfffffffffffffffff0fffff8000000007ff07fbe01ff9f3ff80003ffe221fc01fc3fff3fffffffffffffffffffffffffe20000000000
+00000000042ffffa181748010fffffffffffffc787ffffff7fc7ffd80000000007c403fffff3ffffffffffffffff1ffffffffffffffffffffe1ffff9ffffffff
+ffffffffffffff07ff00000000001fe3ff7b90ff3f3ff000007fe001fc01fc7fff7fffffffffffffffffffffffffe400000000000000000008ddffff180fc000
+3fffffffffffffc7c3ffffff7fc7df7c0000000007ffe1fffff3fffffffffffffffc3fffffffffffffffffffff0ffff9ffffffffffffffffffffffe2fe000000
+0000079ffe733c7e3e7fe000003fe000fc01fcffff7fffffffffffffffffffffffffe4000000000000000000087fffff1c8742041fffffffffffffc7e1ffffff
+ffc377ffc000000007cffcffffe3fffffffffffffff860bfffffffffffffffffff8ffff9fffffffffffffffffffffffc380000000000013e66e67c3c3effc000
+000fe008fc01f8fffe7fffffffffffffffffffffffffe40000000000000000000f3fffff998fc0000fffffffffffffc3f0ffffffffe2be6fb000000007fffc7f
+ffe3fffffffffffe0000000fffffc1ffffffffffffc7fff9ffffffffffffffffffffffff800000000000003ee08e7f383fff8000000fc050fc01f9fffe7fffff
+ffffffffffffffffffffc40000000000000000000feffeffb88dc0080fffffffffffffc3f07fffffffe17fdad000000007d7fe7fffe7fffffffffff000000000
+ffff00ffffffffffffc3fff9ffffffffffffffffffffffffc00000000000003ecc1e7f001ffe00000007c0187c01f1fffe7fffffffffffffffffffffffffe800
+00000000000000000bffffffb28fc0008fffffffffffffe3fc3ffffffff0d9fdf800000007fffe7fffc7fffffffffe000000000007f000ffffffffffffe3fffd
+ffffffffffffffffffffffff800000000000003cfffeff000ff800000003c400fc00e3fffe7fffffffffffffffffffffffffe80000000000000020000fffffff
+ee8fc0011fffffffffffffe1fc1ffffffff05ffb0800000005fffe7fffcfffffffffc00000000000004078fffffffffffff1fffcffffffffffffffffffffffff
+800000000000003cffdc7f0007e000000003c0407c01e3fffe0fffffffffffffffffffffffffc80000000000000060000fffffffba8680201ffffffffffffff1
+fe07fffffff87fed5800000007fffe7fff8ffffffffe000000000000e003f8fffffffffffff9fffcffffffffffffffffffffffff800000000000001fffce7c00
+00000000000000807c01c3fffc005fffffffffffffffffffffffc80000000000000060000fffffffff8001001ffffffffffffff1ff03fffffff8775bf0000000
+07fffe7e0000005fffe0000000000000fe1ff8fffffffffffff8fffcffffffffffffffffffffffff000000000000001fffce600000000000000000807c01c7ff
+f13e00ffffffffffffffffffffffc80000000000000070000fffffffff8000007ffffffffffffff0ffc07f7ffff8bb85b000000007fffe78000000003fc00000
+00000000fffff8fffffffffffffc7ffc7fffffffffffffffffffffff000000000000000ffdcf000000000000000000007c0187ffc7fff807ffffffffffffffff
+ffffc80000000000000030000fffffffff838007fffffffffffffff8fff00000bc0064d71000000007effef00000000007000000000000007fffc1ffffffffff
+fffc3e8007ffffffffffffffffffffff000000000000000ffdcf00000100000000005a207c0087ff9fffffc07fffffffffffffffffffc0000000000000000000
+0fffffffff87c01ffffffffffffffff87ff8000000007fb5f000000007fffcc00000000000000000000000007fff83fffffffffffffe000f007fffffffffffff
+ffffffff0000000000000003f9dc000003000000000020b8fc018ffe7fc7fffc1fffffffffffffffffffc00000000000000040000ffffffffd87c21fffffffff
+fffffffc7fff0380009006fb50000000077ffc000000000000000000000000007ffe0fffffffffffffff01fff807fffffffffffffffffffe000000000000000f
+fff000000300000000000000fc018ff9ff801fffc1ffffffffffffffffffc000000000000000fc000ffffffffb8ff01ffffffffffffffffc3fffe3fffffe01bb
+a000000007fff8000000000000000000000000000ffc3fffffffffffffffd8ffffe03fffff1ffffffffffffe0000000000000007ffc00000030000000002a008
+fc008fe3fe3800fff80fffffffffffffffff8000000000000000fc000ffffffffe0fc11ffffffffffffffffe3fffe3ffffff8000a000000007f7fb8000000000
+000000000000000000e0fffffffffffffffff8fe80fe000040047fffffffffff0000000000000007fe0000000780000000000a40fc010fe7f87fc003ff83ffff
+ffffffffffff8000000000000001fe000fffff80001fc01ffffffffffffffffe1fffe3fffffff8002000000007fff3800000000000000000000000008003ffff
+fffffffffffff870000080000fe0002ffffffffe0000000000000003fc0000002780000000010401fc011fdfe1ffffc03ff87fffffffffffffff800000000000
+0001ff000fffff9000ff481fffffffffffffffff1fffe3fffffffe3e0000000007fff7000000000000000000000001fffc07fffffffffffffffffc00200003ff
+ff804000fffffffe000000000000000040000000c780000000000021fc011f9fc3fffff807ff18ffffffffffffff8000000000000001ff040fffffcff880003f
+ffffffffffffffff0fffe3ffffffffffc0000000077ff700000000000000000000001ffffffffffffffffffffffffe03ffe4000ffc0007f01fffffff00000000
+0000000000000001ef80000000028403fc011f3f8fffffff807f8000003fffffa3fc0000000000000001ff800fffffeff000007fffffffffffffffff87fff3ff
+ffffffffe000000007ffef00007800000000000000007fffffffffffffffffffffffffbfffffc000003c007e0fffffff000000000000000000000003e7c00000
+00006163fc001e3f1ffffffff007fffec07fdc0000000000000000000003ff800fffffe7e1a041ffffffffffffffffffc7fff3ffffffffffe000000007ffef00
+07fb0000000000000007ffffffffffffffffffffffffffffffffff4001ffc00387ffffff000000000000000000000003cfc0000000001847fc011e7e3fffffff
+ff017fffc8000000c001f000000000000003e1c00fffffe003ffffffffffffffffffffffc3fff1fffffffffff000000007ffcf003ff70000000000000003ffff
+fffffffffffffffffffffffffffffffffffffe0003ffffff000000000000000000000007cfc0000000000001fc011c7c7ffffffffff00000000003fffffff800
+00000000000383e00ffffff81fffffffffffffffffffffffe1fff1fffffffffffc00000007ffdf007fee0000000000000040ffffffffffffffffffffffffffff
+fffffffffffffff001ffffff800000000000000000000001c7c0000000001401fc001c7cfffffffffffe00001fffffffffffff000000000000011ff00ffffffc
+7ffffffffffffffffffffffff0fff9ffffffffffff8060000fffdf007fcc0000000000001fe03fffffffffffffffffffffffffffffffffffffffffff40ffffff
+80000000000000000000000047e0000000028821fc011879ffffffffffffffffffffffffffffff800000000000007ff00ffffffc7fffffffffffffffffffffff
+f86ff8ffffffffffffffe0000fffbf00fffc000000000000ebf01ffffffffffffffffffffffffffffffffffffffffffff83fffff000000000000000000000000
+07e0000000000093fc019871ffffffffffffffffffffffffffffffe00000000000387ff80ffffffe3ffffffffffffffffffffffff83fe01fffffffffffffc000
+47ffbf00fff8000000000003c3e301fffffffffffffffffffffffffffffffffffffffffffc0ffffe00000000000000000000000007e0000000000243fc018073
+fffffffffffffffffffffffffffffff00000000000f8fffc0ffffffe1ffffffffffffffffffffffffc0c0003ffffffffffff800007f73f00fff0000000000003
+9bcf800f803fffffffffffffffffffffffffffffffffffffff07ffe060000000000000000000030103f0000000000003fc018063ffffffffffffffffffffffff
+fffffffc0040070003f8fffc0fffffff8ffffffffffffffffffffffffe000f802fffffff00ff000007ff7f00fff000000000003fb3cfc0000007ffffffffffff
+ffffffffffffffffffffffffff801e01f8000000000000000000071401f0000000180007fc00e067fffffffffffffffffffffffffffffffe00203fe01ff8fffe
+0fffffff87ffffffffffffffffffffffff007fe0000fffe0000e000507fe7f01ffe000000000007ff39fe0003f03ffffffffffffffffffffffffffffffffffff
+ffe00007fc0000000000000000001f0003f80000003f000ffc01fe07ffffffffffffffffffffffffffffffff803ffff003f8ffff0fffffffc0ffffffffffffff
+fffffffffff83d00c0000001fb00000007fe7f80fff00000000000fff39ff003ff83fffffffffffffffffffffffffffffffffffffffe003fff80000000000000
+00003f8003fc0000007fffbffc01ff07fffffffffffffffffffffffffffffffff81ffffc00787fff8ffffffff03ffffffffffffffffffffffffe000000f8002f
+000000033ffeff80ffe000000000007ff79ff803f8003fffffffffffffffffffffffffffffffffffffffffffffff70000000000000007f8803fc0000007fffff
+fc00ffdfffffffffffffffffffffffffffffffffff8ffff8001c39ffcffffffffe1fffffffffffffffffffffffff00380003fff00000000c17fdff803fe00000
+000006ffffbff803f0001fffffffffffffffffffffffffffffffffffffffffffffffffc0000000000000ff30007c0000003ffffffc01ffffffffffffffffffff
+ffffffffffffffffffc7fff8000603fee7ffffffbf0fffffffffffffffffffffffff0fff800000001e0000001ff9fe011fe00000000007ffff3ff803f0003fff
+fffffffffffffffffffffffffffffffffffffffffffffff80000000000041e20801e0000001ffffffc01ffffffffffffffffffffffffffffffffffffffc3fff8
+000107fce3ffffffff87fffffffffffffffffffffffffffffbe00001ffc0000c3ffbf9f89fc00000000007ffff1ff803fe1e7fffffffffffffffffffffffffff
+fffffffffffffffffffffffe00000000000580cc80000000001ffffffc01ffffffffffffffffffffffffffffffffffffffe1fff0000081f9f1ffffffdf83ffff
+ffffffffffffffffffffffffffffc01fffc0001e6ff3f3fe4fc0000000000ffe7f9ff803fff87fffffffffffffffffffffffffffffffffffffffffffffffffff
+800000000001f98e80000000000ffffffc00ffffffffffffffffffffffffffffffffffffffe0c000000020f9e1ffffffff81ffffffffffffffffffffffffffff
+ffffffffff80430547f7e7fe078000000000071c7f1ffc00ffc0fffffffffffffffffffffffffffffffffffffffffffffffffffff80000000013fc0f00000000
+0007fffffc00ffffffffffffffffffffffffffffffffffffffe40f00000010ebccffffffff81fffffffffffffffffffffffffffffffffffffe00028fdff7dfff
+07c000000000041e0f9ffc001f83fffffffffffffffffffffffffffffffffffffffffffffffffffffe00000000f3fc9f800000000003fffffc01ffffffffffff
+ffffffffffffffffffffffffffc7ffc0000008c38effffffff80fffffffffffffffffffffffffffffffffffff8245fb7f7e73fff87f000000000005e438ffc7c
+000fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000047f7fdff800000000003fffffc01ffffffffffffffffffffffffffffffffffff
+ffc7ffc0000000001f3fffffed80fffffffffffffffffffffffffffffffffffff076fdefffe77fffc0fc00000000004e601ffcffc07fffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffcdffe7effc3f800000000001fffffc01ffffffffffffffffffffffffffffffffffffffc7ffc0000000183f1fffff
+eb007fffffffffffffffffffffffffffffffffffe0ffffffffc0ffffc000000000000c667e1ff8fff9ffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffe7effe3f800000000001fffffc01ffffffffffffffffffffffffffffffffffffffc7ff000000007e3f1ffffffb807fffffffffffffffffff
+ffffffffffffffffc06fffffffb1ffffc600000000003c20fffff9fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3efff2e
+800000000000fffffc00ffffffffffffffffffffffffffffffffffffffc7fe000000007e080fffffff007fffffffffffffffffffffffffffffffffff807ffbff
+ff33ffff8fffc0000000fe1bfffff1fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3cfff3f800000000000fffffc00ffff
+ffffffffffffffffffffffffffffffffffc7fc000000003f0007ffffef807fffffffffffffffffffffffffffffffffff867ffffffe73ffff8ffff8000007ff0f
+ffffe3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1cfff9b8000000000007ffffc01ffffffffffffffffffffffffffff
+ffffffffffe1fce00000001fe7e7ffffff807fffffffffffffffffffffffffffffffffff0ffffffffee7ffff1fffff80001fff87ffffc7ffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffff9dfff8f8000000000007ffffc00fffffffffffffffffffffffffffffffffffffff000f00000000f
+fff3ffffcf807fffffffffffffffffffffffffffffffffff3ffffffffccffffe3ffffffa00ffffc1ffff8fffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffff8cfffc78000000000007ffffc01fffffffffffffffffffffffffffffffffffffffc01f000000007fff1ffffdf803fffffffffff
+fffffffffffffffffffffffe37fffffffd9ffffe7fffffffffffffe07ffe1fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fccfffe38000000000003ffffc01fffffffffffffffffffffffffffffffffffffffffff800000003fffcffffff803ffffffffffffffffffffffffffffffffffe
+7ffffffffbbffffcfffffffffffffff01ff83ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffecffff38000000000003fff
+fc01fffffffffffffffffffffffffffffffffffffffffff800000003fffc3fffff807ffffffffffffffffffffffffffffffffffe7bfffffff37ffff8ffffffff
+fffffffc0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe6ffff38000000000003ffffc01ffffffffffffffffffff
+fffffffffffffffffffffffc00000001ff001fffff807ffffffffffffffffffffffffffffffffffc7ffffffff77ffff9ffffffffffffffff8001ffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffe77fff18000000000001ffffc00fffffffffffffffffffffffffffffffffffffffffffe
+00000001fe0047ffaf807ffffffffffffffffffffffffffffffffffc5fffffffeefffff3fffffffffffffffff83fffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffe33fff98000000000001ffffc01ffffffffffffffffffffffffffffffffffffffffffff00000000fc3c33ffef807fff
+fffffffffffffffffffffffffffffffcffffffffccfffff3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffff39fffc8000000000001ffffc01ffffffffffffffffffffffffffffffffffffffffffff0000000078ff18fff7807fffffffffffffffffffffffffff
+fffffff8ffffffffddffffe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3cfffc80000000
+00001ffffc00ffffffffffffffffffffffffffffffffffffffffffff8000000079ffce3fff80fffffffffffffffffffffffffffffffffff8ffffffff99ffffe7
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9e7ffe0000000000001ffffc00ffffffffffff
+ffffffffffffffffffffffffffffffff8000000031fff31fdf80fffffffffffffffffffffffffffffffffff8ffffffffbbffffcfffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9f3ffa4000000000001ffffc01ffffffffffffffffffffffffffffffffffff
+ffffffffc000000003fff9c7ff81fffffffffffffffffffffffffffffffffffcffffffff3bffffcfffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffdfcffe0000000000001ffffc01ffffffffffffffffffffffffffffffffffffffffffffe000000003fffe63
+ff81fffffffffffffffffffffffffffffffffffcdfffffff3bffff9fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffcfe17f0000000000001ffffc01ffffffffffffffffffffffffffffffffffffffffffffe000000003ffff39ff83ffffffffffffffffffff
+fffffffffffffffc7ffffffc33ffff9fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7fc1f
+0000000000001ffffc00fffffffffffffffffffffffffffffffffffffffffffff000000003ffff8c3f83fffffffffffffffffffffffffffffffffffc7fffffe1
+87ffff1fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7ff010000000000001ffffc00ffff
+fffffffffffffffffffffffffffffffffffffffff000000007ffffe30f87fffffffffffffffffffffffffffffffffffe3fffff8f07fffe3fffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3ffc00000000000003ffffc01ffffffffffffffffffffffffffff
+fffffffffffffffff800000007fffff18787fffffffffffffffffffffffffffffffffffe3ffffc10f7fffe3fffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffff1fff08000000000003ffffc01fffffffffffffffffffffffffffffffffffffffffffff8000000
+07fffffcc38fffffffffffffffffffffffffffffffffffff3ffff1c3e7fffe3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffff9fffcc000000000007ffffc01fffffffffffffffffffffffffffffffffffffffffffff800000007fffffe181fffffffffffff
+ffffffffffffffffffffffff1eff871fe7fffc3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffcfffc6000000000007ffffc00fffffffffffffffffffffffffffffffffffffffffffffc00000003ffffff843fffffffffffffffffffffffffffffffffffff
+8fff3c7feffffc3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcfffc6000000000007fff
+fc01fffffffffffffffffffffffffffffffffffffffffffffc00000001ffffffc07fffffffffffffffffffffffffffffffffffffc7fc71ffeffffc3fffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7fbe200000000000fffffc01ffffffffffffffffffff
+fffffffffffffffffffffffffc00000009ffffffb0ffffffffffffffffffffffffffffffffffffffe3e19fffcffff93fffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3ffe300000000001fffffc00ffffffffffffffffffffffffffffffffffffffffffff
+fe00000008fffffff8fffffffffffffffffffffffffffffffffffffff09f7fffcffff83fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff3fff180000000001fffffc01fffffffffffffffffffffffffffffffffffffffffffffe0000000cffffffecffffff
+fffffffffffffffffffffffffffffffff83c7fffcff7f91fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffff9fff980000000001fffffc00fffffffffffffffffffffffffffffffffffffffffffffe0000000cffffffac7fffffffffffffffffffffffffffff
+fffffffffc23ffffcfffd81fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9fff88000000
+0001fffffc01ffffffffffffffffffffffffffffffffffffffffffffff0000000c7ffffffc7fffffffffffffffffffffffffffffffffffffff0fffffdffff11f
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcfff880000000000fffffc01ffffffffffff
+ffffffffffffffffffffffffffffffffff000002067ffffffcfffffffffffffffffffffffffffffffffffffffe3fffffdffff11fffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcfff800000000000fffffc00ffffffffffffffffffffffffffffffffffff
+ffffffffff0000000f3ffffffcfffffffffffffffffffffffffffffffffffffffc7fffff9ffff31fffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffe7ff800000000000fffffc01ffffffffffffffffffffffffffffffffffffffffffffff0000000f3fffff
+fcfffffffffffffffffffffffffffffffffffffffc7fffff9fff721fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffe7fd800000000000fffffc01ffffffffffffffffffffffffffffffffffffffffffffff00000c0f3ffffff8ffffffffffffffffffffff
+fffffffffffffffffc7fffffbffff01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3fe
+c00000000000fffffc01ffffffffffffffffffffffffffffffffffffffffffffff8000000f8ffffff8fffffffffffffffffffffffffffffffffffffffe7fffff
+9ffc701ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3ff800000000000fffffc01ffff
+ffffffffffffffffffffffffffffffffffffffffff80000007cffffff8fffffffffffffffffffffffffffffffffffffffe7fffffbffea01fffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9ffc00000000000fffffc01ffffffffffffffffffffffffffff
+ffffffffffffffffff80000007fffffff8fffffffffffffffffffffffffffffffffffffffe7fffffbffc001fffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffff9ffc00000000000fffffc01ffffffffffffffffffffffffffffffffffffffffffffffc00001
+07fffffff9fffffffffffffffffffffffffffffffffffffffe7fffff3ffc001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffff8ffc00000000001fffffc00ffffffffffffffffffffffffffffffffffffffffffffff80000007fffffff1ffffffffffffff
+fffffffffffffffffffffffffe7fffff7f5c001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffcffc00000000001fffffc00ffffffffffffffffffffffffffffffffffffffffffffffc0000107fffffff1ffffffffffffffffffffffffffffffffffffff
+ff7ffffe7ff4001ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcffc00000000003ffff
+fc01ffffffffffffffffffffffffffffffffffffffffffffffc0000007fffffff3ffffffffffffffffffffffffffffffffffffffff3ffffefd00001fffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc7fc00000000003fffffc00ffffffffffffffffffff
+ffffffffffffffffffffffffffc000000ffffffff3ffffffffffffffffffffffffffffffffffffffff3ffffcffc4001fffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7fc00000000007fffffc01ffffffffffffffffffffffffffffffffffffffffffff
+ffe0000007ffffffe3ffffffffffffffffffffffffffffffffffffffff3ffffdfca0001fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffe7ec00000000007fffffc01ffffffffffffffffffffffffffffffffffffffffffffffe0000007ffffffc7ffffff
+ffffffffffffffffffffffffffffffffff9ffffffe04001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffe3fc00000000007fffffc00fffffffffffffffffffffffffffffffffffffffffffffff0000007ffffff87ffffffffffffffffffffffffffffff
+ffffffffff9ffffff800001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3fc0000000
+000ffffffc01fffffffffffffffffffffffffffffffffffffffffffffff0000007ffffff8fffffffffffffffffffffffffffffffffffffffffdffffdf800001f
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3fc0000000000ffffffc00ffffffffffff
+fffffffffffffffffffffffffffffffffff000000fffffff8fffffffffffffffffffffffffffffffffffffffffcffffff800001fffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3fc0000000001ffffffc00ffffffffffffffffffffffffffffffffffff
+fffffffffff800000fffffff9fffffffffffffffffffffffffffffffffffffffffcffffff840003fffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffff9fc0000000001ffffffc01fffffffffffffffffffffffffffffffffffffffffffffffc000007ffffff
+3fffffffffffffffffffffffffffffffffffffffffe7fffff800003fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffff8fc0000000001ffffffc01fffffffffffffffffffffffffffffffffffffffffffffe3c000007fffffe7fffffffffffffffffffffff
+ffffffffffffffffffe7fffff800003fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcf
+80000000003ffffffc01fffffffffffffffffffffffffffffffffffffffffffff80e000007fffffc7fffffffffffffffffffffffffffffffffffffffffe7ffff
+f800003fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc778000000003ffffffc01ffff
+fffffffffffffffffffffffffffffffffffffffff186000007fffff8fffffffffffffffffffffffffffffffffffffffffff7fffff80000781fffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe6fc000000007ffffffc00ffffffffffffffffffffffffffff
+ffffffffffffffffe1c3000007fffff1fffffffffffffffffffffffffffffffffffffffffffbfffff80000780fffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffe0fe000000007ffffffc00ffffffffffffffffffffffffffffffffffffffffffffe3f00004
+07ffffe3fffffffffffffffffffffffffffffffffffffffffff9fffffc08007107ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffff81ff20000000fffffffc01ffffffffffffffffffffffffffffffffffffffffffffc7f010000fffffe7ffffffffffffffff
+fffffffffffffffffffffffffff9fffffc0000e7c3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffff21fff0000000fffffffc00ffffffffffffffffffffffffffffffffffffffffffff8ff8f00007bfffc7ffffffffffffffffffffffffffffffffffffffff
+fffcfffff80000c7e0dfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1ffff0000000ffffff
+fc01fffffffffffffffffffffffffffffffffffffffffff80ffc700105ffff8ffffffffffffffffffffffffffffffffffffffffffffcfffff800000ff80fffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9ffff8000001fffffffc01ffffffffffffffffffff
+fffffffffffffffffffffff01ffe780007ffff1ffffffffffffffffffffffffffffffffffffffffffffe7ffffc00001ffe07ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9ffff8000001fffffffc01fffffffffffffffffffffffffffffffffffffffffff1
+3ffe380007fffe3ffffffffffffffffffffffffffffffffffffffffffffe3ffff800021fffc7ffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffff09ffffc000003fffffffc01fffffffffffffffffffffffffffffffffffffffffff1ffff380007fffc7fffffffff
+ffffffffffffffffffffffffffffffffffff1fffe800079fff8fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffe01ffffe000007fffffffc00ffffffffffffffffffffffffffffffffffffffffff10ffff3c0007fff8ffffffffffffffffffffffffffffffffff
+ffffffffffff9ffffc000fbfff8e7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc70ffffe0000
+07fffffffc01fffffffffffffffffffffffffffffffffffffffffe08fffffc0007fff1ffffffffffffffffffffffffffffffffffffffffffffffcffff8400f3f
+ff807fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe7cbffff00000ffffffffc01ffffffffffff
+fffffffffffffffffffffffffffffc01fffffe0007ffe3ffffffffffffffffffffffffffffffffffffffffffffffe7fffc401fffffc03fffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe3f0ffff80001ffffffffc00ffffffffffffffffffffffffffffffffffff
+fffffc61fffffe0007ff8ffffffffffffffffffffffffffffffffffffffffffffffff3fffc001fffffe23fffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffe5fc7fff80003ffffffffc01fffffffffffffffffffffffffffffffffffffffffe71ffffff0006f61fff
+fffffffffffffffffffffffffffffffffffffffffffff8fff8003fffffee3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffe4fe1fbfc0003ffffffffc01fffffffffffffffffffffffffffffffffffffffffe387fffff0087fc7fffffffffffffffffffffffffff
+fffffffffffffffffffffc7ff8003fff3fde3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc6ff
+073f80007ffffffffc00fffffffffffffffffffffffffffffffffffffffffe0e3fffef8007f1fffffffffffffffffffffffffffffffffffffffffffffffffe3f
+f8003ffe073c3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffceffc23e4001fffffffffc01ffff
+fffffffffffffffffffffffffffffffffffffc678f1f81c80783ffffffffffffffffffffffffffffffffffffffffffffffffff0ff8007ffe00791fffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffccffe01c0003fffffffffc00ffffffffffffffffffffffffffff
+fffffffffffffc71e61f80c0240fffffffffffffffffffffffffffffffffffffffffffffffffffc1f0007ffe00f91fffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffff8cfff80c000ffffffffffc01fffffffffffffffffffffffffffffffffffffffffc7c700f8060
+003ffffffffffffffffffffffffffffffffffffffffffffffffffff078007ffe03f99fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffff9dfffc041cfffffffffffc01fffffffffffffffffffffffffffffffffffffffffc7e3c07800003ffffffffffffffffffffff
+fffffffffffffffffffffffffffffff830007f7e07f98fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffff9dfffe001ffffffffffffc00fffffffffffffffffffffffffffffffffffffffffc7f9e0380003fffffffffffffffffffffffffffffffffffffffffffffff
+ffffffff00007c3e0ff9cfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9dffff801fffffffffff
+fc01fffffffffffffffffffffffffffffffffffffffffc7fc700001fffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00070181ff9c7ff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff99ffffc03ffffffffffffc00ffffffffffffffffffff
+fffffffffffffffffffffc7fefc0001ffffffffffffffffffffffffffffffffffffffffffffffffffffffffff80000007ffcc7ffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff99ffffe03ffffffffffffc00fffffffffffffffffffffffffffffffffffffffffc7f
+efe0003ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000fffe47ffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff89fffff03ffffffffffffc01fffffffffffffffffffffffffffffffffffffffffc7fcff8003fffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffff8001fffe47ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffff89fffff83ffffffffffffc00fffffffffffffffffffffffffffffffffffffffffc7fdffc007fffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffff8007ffff67ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcffffffc3fff
+fffffffffc01fffffffffffffffffffffffffffffffffffffffffc7fdfff007fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc007
+ffff33ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcfffffff1ffffffffffffc01ffffffffffff
+fffffffffffffffffffffffffffffc7f9fffc0ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe00fffff13ffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcfffffff1ffffffffffffc00ffffffffffffffffffffffffffffffffffff
+fffffe7f9ffff0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff01fffff93ffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffc7fffffe3ffffffffffffc01fffffffffffffffffffffffffffffffffffffffffe3f3ffff87fffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffff83fffffb3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffc7fffffe3ffffffffffffc00fffffffffffffffffffffffffffffffffffffffffe3e7ffffe3fffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffff87fffffe3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe3ff
+fffc7ffffffffffffc00ffffffffffffffffffffffffffffffffffffffffff3e7ffffe7fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffff9ffffffe3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe3fffffc7ffffffffffffc01ffff
+ffffffffffffffffffffffffffffffffffffff1efffffe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1ffffffc7ffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1fffff8fffffffffffffc00ffffffffffffffffffffffffffff
+ffffffffffffff8cfffffe7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff8ffffffc7ffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffff0fffff1fffffffffffffc01ffffffffffffffffffffffffffffffffffffffffff84fffff8ff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc7fffffcfffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffff87fffe3fffffffffffffc01ffffffffffffffffffffffffffffffffffffffffffc4fffff1ffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffc3fffff8fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffc3fffc7fffffffffffffc00ffffffffffffffffffffffffffffffffffffffffffe0ffffe3ffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffe3fffff1ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe0fff0fffffffffffff
+fc01fffffffffffffffffffffffffffffffffffffffffff0ffffc3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe1ffffe3fff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff80f81ffffffffffffffc00ffffffffffffffffffff
+fffffffffffffffffffffff83fff0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff87fffe3fffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0007ffffffffffffffc00fffffffffffffffffffffffffffffffffffffffffffc
+3ff81fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc1fff87fffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffff001fffffffffffffffc01fffffffffffffffffffffffffffffffffffffffffffe07c07fffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffe0ffe1ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffc00ffffffffffffffffffffffffffffffffffffffffffff0003ffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffff01f83ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffc01ffffffffffffffffffffffffffffffffffffffffffffe00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc
+000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc00ffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff807ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc01040000002701ffff030000000000}}}{
+\fs24\insrsid15738386 
+\par }\pard \ql \li0\ri0\sl-1\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs2\insrsid15738386 
+\par }\pard \ql \li0\ri0\nowidctlpar\pvpara\phmrg\posx158\posy0\absh3087\dxfrtext10080\dfrmtxtx10080\dfrmtxty0\nowrap\faauto\rin0\lin0\itap0 {\fs24\insrsid15738386 \sect }\sectd \marglsxn1831\margrsxn2336\sbknone\linex0\colsx60\sectdefaultcl\sftnbj 
+\pard\plain \ql \li0\ri0\sb115\sl-1\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\fs2\insrsid15738386 
+\par }\pard \ql \li0\ri0\nowidctlpar\pvpara\phmrg\posx158\posy0\absh3087\dxfrtext10080\dfrmtxtx10080\dfrmtxty0\nowrap\faauto\rin0\lin0\itap0 {\fs24\insrsid15738386 \sect }\sectd \marglsxn1831\margrsxn2336\sbknone\linex0\cols3\colno1\colw1617\colsr1608
+\colno2\colw1459\colsr1642\colno3\colw1416\sectdefaultcl\sftnbj \pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \cbpat8 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\i\fs18\insrsid15738386 \'d1\'ef\'ee\'f1\'ee\'e1 \'d1\'e8\'eb\'fc
+\'e2\'e5\'f1\'f2\'f0\'e0}{\insrsid15738386 
+\par }\pard \ql \li0\ri0\sb5\nowidctlpar\faauto\rin0\lin0\itap0 \cbpat8 {\insrsid15738386 \column }{\i\fs18\insrsid15738386 \'d1\'ef\'ee\'f1\'ee\'e1 \'d8\'e5\'f4\'f4\'e5\'f0\'e0}{\insrsid15738386 
+\par }\pard \ql \li0\ri0\sb24\nowidctlpar\faauto\rin0\lin0\itap0 \cbpat8 {\insrsid15738386 \column }{\i\fs18\insrsid15738386 \'d1\'ef\'ee\'f1\'ee\'e1 \'cd\'e8\'eb\'fc\'f1\'ee\'ed\'e0}{\insrsid15738386 
+\par \sect }\sectd \marglsxn1330\margrsxn1392\linex0\colsx60\sectdefaultcl\sftnbj \pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13844926 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\b\f1\insrsid13844926 \'c3\'ee\'f1\'f3\'e4
+\'e0\'f0\'f1\'f2\'e2\'e5\'ed\'ed\'e0\'ff \'e8\'ed\'f1\'ef\'e5\'ea\'f6\'e8\'ff \'ef\'ee \'ec\'e0\'eb\'ee\'ec\'e5\'f0\'ed\'fb\'ec \'f1\'f3\'e4\'e0\'ec \'c3\'eb\'e0\'e2\'ed\'ee\'e3\'ee \'f3\'ef\'f0\'e0\'e2\'eb\'e5\'ed\'e8\'ff \'cc\'d7\'d1 \'d0\'ee\'f1\'f1
+\'e8\'e8 \'ef\'ee \'ca\'e8\'f0\'ee\'e2\'f1\'ea\'ee\'e9 \'ee\'e1\'eb\'e0\'f1\'f2\'e8
+\par }{\b\f1\insrsid13844926\charrsid4996966 
+\par }{\b\f1\fs28\insrsid13844926\charrsid1926431 \'cf\'c5\'d0\'c2\'c0\'df \'cf\'ce\'cc\'ce\'d9\'dc \'cd\'c0 \'c2\'ce\'c4\'c5}{\b\f1\fs28\insrsid13844926 
+\par }{\b\f1\fs28\insrsid13844926\charrsid1926431 
+\par }\pard \qc \fi283\li29\ri0\sl-245\slmult0\nowidctlpar\faauto\rin0\lin29\itap0\pararsid13844926 \cbpat8 {\b\f1\fs22\insrsid13844926\charrsid10945421 
+\par }\pard \qj \fi283\li29\ri0\sl-245\slmult0\nowidctlpar\faauto\rin0\lin29\itap0 \cbpat8 {\b\f1\fs24\insrsid15738386\charrsid7370335 \'cd\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0. }{
+\f1\fs24\insrsid15738386\charrsid7370335 \'cf\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'f1\'ff \'e2 \'f1\'eb\'f3\'f7\'e0\'e5 \'ee\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e8 \'f1\'e5\'f0\'e4\'f6\'e0 \'e4\'eb\'ff \'e2\'ee\'e7\'ee\'e1\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff \'e5\'e3\'ee 
+\'f0\'e0\'e1\'ee\'f2\'fb \'f1 \'f6\'e5\'eb\'fc\'fe \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff \'ea\'f0\'ee\'e2\'ee\'ee\'e1\'f0\'e0\'f9\'e5\'ed\'e8\'ff. \'ce\'ed \'e7\'e0\'ea\'eb\'fe\'f7\'e0\'e5\'f2\'f1\'ff \'e2 \'f0\'e8\'f2\'ec\'e8\'f7\'ed
+\'ee\'ec \'ed\'e0\'e4\'e0\'e2\'eb\'e8\'e2\'e0\-\'ed\'e8\'e8 \'eb\'e0\'e4\'ee\'ed\'ff\'ec\'e8 \'f0\'f3\'ea \'ed\'e0 \'e3\'f0\'f3\'e4\'ed\'f3\'fe \'ea\'eb\'e5\'f2\'ea\'f3, \'f7\'f2\'ee \'ef\'f0\'e8\'e2\'ee\'e4\'e8\'f2 \'ea \'ef\'f0\'e8\'ed\'f3\'e4\'e8\'f2
+\'e5\'eb\'fc\'ed\'ee\'ec\'f3 \'f1\'e6\'e0\'f2\'e8\'fe \'f1\'e5\'f0\'e4\'f6\'e0 \'e8, \'ea\'e0\'ea \'f1\'eb\'e5\'e4\'f1\'f2\'e2\'e8\'e5, \'ea \'ef\'ee\'f1\'f2\'f3\'ef\'eb\'e5\'ed\'e8\'fe \'ea\'f0\'ee\'e2\'e8 \'e2 \'e0\'f0\'f2\'e5\'f0\'e8\'e8. \'cf\'f0\'e8 
+\'ee\'f1\'eb\'e0\'e1\'eb\'e5\'ed\'e8\'e8 \'f3\'f1\'e8\'eb\'e8\'ff \'e3\'f0\'f3\'e4\'ed\'e0\'ff \'ea\'eb\'e5\'f2\'ea\'e0 \'ef\'ee\'e4\-\'ed\'e8\'ec\'e0\'e5\'f2\'f1\'ff, \'e8 \'ea\'f0\'ee\'e2\'fc \'ef\'ee \'e2\'e5\'ed\'e0\'ec \'ed\'e0\'ef\'ee\'eb\'ed\'ff
+\'e5\'f2 \'f1\'e5\'f0\'e4\'f6\'e5. \'d2\'e0\'ea\'e0\'ff \'ef\'f0\'e8\'ed\'f3\'e4\'e8\'f2\'e5\'eb\'fc\'ed\'e0\'ff \'f6\'e8\'f0\'ea\'f3\'eb\'ff\'f6\'e8\'ff \'ea\'f0\'ee\'e2\'e8 \'ee\'e1\'e5\'f1\-\'ef\'e5\'f7\'e8\'e2\'e0\'e5\'f2 \'ef\'ee\'e4\'e4\'e5\'f0\'e6
+\'e0\'ed\'e8\'e5 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'fb\'f5 \'e6\'e8\'e7\'ed\'e5\'ed\'ed\'fb\'f5 \'f4\'f3\'ed\'ea\'f6\'e8\'e9 \'e4\'ee \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff \'f1\'e0\'ec\'ee\'f1\'f2\'ee\'ff\'f2\'e5\'eb\'fc\-\'ed\'ee
+\'e9 \'f0\'e0\'e1\'ee\'f2\'fb \'f1\'e5\'f0\'e4\'f6\'e0. \'cd\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'fc \'ed\'e5\'e7\'e0\'ec\'e5\'e4\'eb\'e8
+\'f2\'e5\'eb\'fc\'ed\'ee \'e2 \'f1\'eb\'f3\-\'f7\'e0\'e5 \'e5\'e3\'ee \'ee\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e8. \'cf\'f0\'e8\'e7\'ed\'e0\'ea\'e0\'ec\'e8 \'e2\'ed\'e5\'e7\'e0\'ef\'ed\'ee\'e9 \'ee\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e8 \'f1\'e5\'f0\'e4\'f6\'e0 \'ff
+\'e2\'eb\'ff\'fe\'f2\'f1\'ff: \'f0\'e5\'e7\'ea\'ee\'e5 \'ef\'ee\'e1\'eb\'e5\'e4\'ed\'e5\'ed\'e8\'e5 \'ea\'ee\'e6\'ed\'fb\'f5 \'ef\'ee\'ea\'f0\'ee\'e2\'ee\'e2, \'ef\'ee\'f2\'e5\'f0\'ff \'f1\'ee\'e7\'ed\'e0\'ed\'e8\'ff, \'ef\'f0\'e5\'ea\'f0\'e0\'f9\'e5\'ed
+\'e8\'e5 \'ef\'f3\'eb\'fc\'f1\'e0, \'e4\'fb\'f5\'e0\'ed\'e8\'ff, \'ef\'ee\'ff\'e2\'eb\'e5\'ed\'e8\'e5 \'f0\'e5\'e4\'ea\'e8\'f5 \'f1\'f3\'e4\'ee\-\'f0\'ee\'e6\'ed\'fb\'f5 \'e2\'e4\'ee\'f5\'ee\'e2, \'f0\'e0\'f1\'f8\'e8\'f0\'e5\'ed\'e8\'e5 \'e7\'f0\'e0\'f7
+\'ea\'ee\'e2.
+\par }\pard \ql \li0\ri0\nowidctlpar\pvpara\phpg\posx1346\posy2327\absh-365\absw3462\dxfrtext40\dfrmtxtx40\dfrmtxty0\faauto\rin0\lin0\itap0\pararsid7370335 \cbpat8 {\i\f1\fs18\insrsid7357819\charrsid7370335 \'cc\'e5\'f1\'f2\'ee \'f1\'ee\'ef\'f0\'e8\'ea\'ee\'f1
+\'ed\'ee\'e2\'e5\'ed\'e8\'ff \'f0\'f3\'ea\'e8 \'f1 \'e3\'f0\'f3\'e4\'fc\'fe}{\f1\fs18\insrsid7357819\charrsid7370335 
+\par }\pard \qj \fi278\li19\ri14\sb10\sl-245\slmult0\nowidctlpar\faauto\rin14\lin19\itap0 \cbpat8 {\fs24\lang1024\langfe1024\noproof\insrsid10945421\charrsid7370335 
+{\shp{\*\shpinst\shpleft1341\shptop56\shpright4806\shpbottom2336\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr2\shpwrk0\shpfblwtxt0\shpz0\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pib}{\sv 
+{\pict\picscalex97\picscaley94\piccropl0\piccropr0\piccropt0\piccropb0\picw6299\pich4284\picwgoal3571\pichgoal2429\pngblip\bliptag1382479574{\*\blipuid 5266f6d6d82e3d8af1666ae1da6308e8}
+89504e470d0a1a0a0000000d4948445200000174000000fd010000000084d0b15a0000000970485973000017120000171201679fd25200000eeb49444154789c
+edda4d6c1cd77d00f0b71a876bd5aaa68683ba46688e8022108a2090141d24212b3e152de01405aa430f3dd480e85ed4e450495511714372dfb26cc306fe58bb
+5f881b9a239f7c4ad322072b96cc5d5686d7712d4e0a034dedc89a61d6e228b0acddd5c8da19eedbf7efffcdc7eeecce881c26875eba9066c99d1fdffee7cdff
+7dcd0c210f78fdd58bfe5b0e865fa430f289f5a002fc974a28647a7189018cac3e7cfdea5e0713b7d5ccbed2535b1a68d9fde659d5dc89ef9a18cd4ebcdcea99
+bdde95479bdd6be8cd1d78da31a199dd0b7abf725bdd897765a254327bd6224a33bbe7d0a9a137b27bbba536a19ed5bb6003fecbecdbd034c1d9897f8b71457e
+4936df004bf30c7ccbe86db89fb7548c28a3af03d6bf816165f415b06b8a8dd594d16b60ff24ef0067d9bca0d0d4ab8e7ccfe45d066bdaa60242cde62dfc4739
+fe309fcd2fe07fdd937fc8b278194627673531b0f480463cf654d0f53b5650b2f832fef7a6c8017cabd1edbd8b8532701f69c26be0e6b7f7650c47ef30e8c8f6
+58ded6bb04379318fc596d1d8f25ed88e3feb63cce5ef90085df24d87e05d9da7322aba405ff915b785c1e08d4528e20e62d39f0ddfa7d759328a7f38bf873cf
+afa707fa55b931374f50a2b8e425f94b2b1951cccb22e153604f95953f1067fc0eabccb6f09a7f10b6797a65663730bf4172fa601feceb3af0cfacebcd011f94
+117f997d1fb4c0ce1deb71d67d58b918c844373af0410bbf4d8edc66dd2f4059f77f4d745b037fd5df5ac6e5db6af7cf279e0bcaef774395845f0c0ad4c77f40
+94779eb42bb12fc58353123ec896eb474b15a2ecfeeea166eca082c41df6618750bb5ac5bc98bb3c1efc79d4adb8eba33edc63685536a514d982112f053c2ff4
+fdfa0fbfb9c0ba6fb2ee2d76293c522df4eea80f8e4c14e14d6c617b9b2bc7867c9b8318f64187ecd99c7aaccb7e4c9782f82a91674107d3f7c100d1366a048f
+c4a8696be1f1f8c746d107edbfef833369ad6857808903d5577f4e071fb734f4756dc807f5b17608aab30ccec0ca3173f0b596da16acae0f79ff3758aebb6496
+e481d0ef3407be6ea0af54527c815e7d9a91fc5ea15a9d41351876d20715372d34b642c63478d53d3feafd88a3f31b9c4871ce6574998cf560ba341354b01f4f
+a33d46f54a8abfda00b65cfa139c05694ffa9ffbe7b5eeb408d58c783cc2af6ea156f0ecb20e4eb1eaf331dff6047d74289e30dd2815b926136715680709e437
+e3bad7064a4ec6cb0f9a379f85da893c88b365d5f506e5d8989e940ef920ff7a1e0e3058911d9817b383386d57faa1f883d2bc46cb7f3f032e9d647ddfa8b9e9
+febe81e79742d72250799e86f526d4c61e0f26877d90ce1bbabe2a9496f284abda37f5a00680e7efcebae82b497fa7c434516c91225c75db81d7c05d70b01e26
+d9d0f90a6aefce34677282e8812b3cd3ff48c7837aa05f73b05996da27f068e87123f2ed3656d6321b8a27685eef35b17d2c97c961dcb114247405da9ef41369
+fe231d83ae116c00d0783bf006f60de8d9d2b00f9ae3cf4a4c8e9204c715efee99c8730f0a24d57f8c6951c5f20903eea9e1177b7c1a0abb467c70705e17c72c
+cc1d4234289d0abd2b3d5b8214efd8a07042dd138a02d5e8c03c77ba3d815e4f7adbe058fbcce5b91633f5a8fc5aa139ce969e19aaffc01b7a83efdb4b721611
+5ad3084f0cd70ba796d973ca50f941bfa7d38a45f224f76dc2ea4e50c53855a4e36c99fddd7c4a3c1325ba487e8310c5cab73d272c5f60ddafb1efb85ad23fcd
+4561d72c218efb28e78db07cc15e40ffe3e1e3f5e3111f78aeab9660c6e16393a5af479eae51dfb713fe8f1dbba58d79bdbac86bf4cba107fa36dda0aba0d712
+bedeac58b40697f2a0d4f5ef475eb3032f671343f18b931a6a2e2e8139efd4af455e77023f4e47bd3989d939d6fb0833a8e70c7c5b937ee2b8361acfd31ecc73
+f2063f0ca4545c8f7ca58ddf701596e7b4d1fa3ce6e02cd29dc14ea5c54ae7226ffc48bf4b1bb0544c78ac9e313235b7de525caddaefd0df9aaeb4d18f7747e3
+c17c7b01433fee2a178f3e12e61bfa9b1cbd0d47e33ed869e81379288b7d442b1f0af30d7d839f74477d986f05ae01b9eb3ebcd81aefe71b34c449979c8327e2
+3e286cb2e86a42e9ba24cf27669cc83be2a916e3f4909ba8cfd90e2e2e729d5b4411ea717fdd2fe7098ec8e35cba7288eba37ece788e72f2d9259213eab21795
+df863144ce31d047e2e91dd68f523737fb359203c5fed6c03f24773e2a0b1df6af4fba054284ec501e72de88bc070b38dec1a1a4ffd75e6baa96839fe08a64ac
+f8f703bf88ad34cd3fe9b4d4d62ee763427e375f7837f22e9c945ddeb1b8af07f1db2d7631d7b947c8b4a2ff59e439c7264ae81349bfdfb0a649eeb3ebb85731
+faf1f0a29573899ae2cfe8b5752bd7e3d81f2ed8fd78c4e99a0a96f252bc3efd93cf35f662053d96ffd48273cbdf81bd84f823449cbc588d9ddfa0f358294dd1
+96c2df22e4d179af131524c6e5ca83fc1ef53d1bc423e67aebd820e588517828ecafd0f329b990a9ed97731233f4413c5d07bd7207fb73ba8b77a382f8092c18
+277172ec1ef68ebd8afec63be817268b7def2f635c35e1dd0bc6abe8e1a0f4d5a3d189e4fe15c3c93c8f79ff7837cf2c3fe3e22a4c8e2f0bc61b9117327cce72
+09ff2fa766d7d7b17c0bfdbcfd61bf7c3992ad8ba4ff70c2b32ae85b38a2fe8df3aebf07cfa92b2fdfa9629f48f8e38e85ab35789190dc62f1e7fe1e3ca72d4a
+28d7c4bed998f73bb30f676c4bae226f11b2273f79d79ffba0b7a63570aae26cd25f30ac86959bc178d4bcfe974ceec2aaaf9dc6faa362ba10f337e5e67f6cbd
+6658b96f5ad29b4741eec2735a3e8587c1607622e637e4e623a37a905ab99f613e8ce59baf482f7300fb7d81b6303eea0db37496b5725c5ec2553aa608fd1803
+0f5717137b60d4afccb6d06fa27f6877b7295720a1b7713d7223eedff6fd71af85fd0f937edcb323bf9781da05d720315f976fe69cf30e15a429fdc45c477aee
+7bcebad0b03f17f3fe72656dc65ed25c724f7a75d291dec5f9e45ed6c666d974e663deef4fd67e681434423ad2ef5f39277d17fd04ade38cd7f4afc544deef3f
+afbf7ea3f45b5af9dc45ac9fc78c2ffa5e935eefca0bc671afcbcdb51f5c118a20a7cae88fd95f96def1bd4ffc15ef90ffa852847c8d5039232b38cf4bdfd1b1
+d748f19a5ffe7217c6d4a393b2fc52f79aef2b5845a15f1df5375ee9f0bf86ef7e5e7a980bbc91eefd8fd62e37bd5558fd3579e19e5df934f42ea5bd747fe3bc
+61d7484e86afd0e573c15a447aff927adc07cb23b3631a65b05ad2eb26f357b038dfa31a1b2d3ff4cdaa4e4eec95e12846b33af089f8436fb0c983daaa8c67b7
+6deb9167a12f8f7add2c4d9fd05a07a7f00f1ccc7ff95903bd1ef8587e06cb357d45b49f53cbaa0ce878d7d8c207cb357dc96b4ceeda97b3b41adde335fb5e26
+9709625fc23fd95d831c774b84fcf6064efae4670e7a430e054d3135eaab5f773ee0a404791c81bf30fbd3c8e34a4aae1df83309ffa5ce0fdbb583b2ff64ef4d
+0ebced2f17fd6b1c23de38625bbbb1c357b58d95c7fbbe01dd66aadf7fe38c8ea92648bede3df5b85f696df4d81cb1fdb553fc951b8592accd734eef4050be27
+af3ef8beb19af0afbd79c503cc668517f96baffbbe8dde852efa7adcfb27a45a9929daf268f330597abfe2c783e56b2e7c22fdd5514fd7362f18f24614c195c3
+9f1a7dcf59038fb792f4fc7e536fe1e835496dfd77208c5fa077d06b0ba39ef56e9af429f46cd131be0f10942f544e3b36a6e4622cdf02dffd744568b2461ccf
+fe76e441e5a623af78c73c84fe3f8f73ec96b8e271e7bf038f0bfb3caf3bd8dfb27cc23befceb4f957815f12a5999f32df63a48baed7e16041d277feb163b72f
+43afaae9c71b74e0455e1c78d8bfe236eced7fb20de37b18bf612e35aa915f9033d172518c7a019fbc64e8b892e0b461dff8448bfcaa3f736de3d47ad4ff4231
+0b321ff25ea7f98dbeb77cdfc0a120e1f32b45b1879016efda5fd1fd4e4cfa76bae770cb28382e2684a073cebf55834e0fe703e764f78153cd11efc2ed17e6ec
+861cad2b4bddffaa463715ddc342416f41c27ffc42d758de45c8aabd3cb7def7b85c6a3d06766dd4b7e0def38e39fb55b87dfd7c33ee1fc33904b3e793befdeb
+9d827319b879cc5e69b3e8269b78446e6d25e9bdddcda2bd802df6bab3dceafbe0d6c1467ed463d5fde15a17c7c26fc146d13c37b809e947f2b19af4a27edda1
+5db80f9d42f3fcc0d7a4b1b434fff2060efd1cba2bf6e181b768b419f5f9cb77e46c0f7ae6857f1f78ffce4100873d5f3cf29edf1b72e348cccbabc3f782dbdc
+23be72fa6539dba6a279f96f0757cfe59d064b49f36bc661dfbf7fe1e57988f20763d104c9a7f8def3e65fc87c6670fe8367635e8e68c12f7adc33716dc596fd
+e7b3cee56bff10bba7d5eadfb71ff1cf5e317ed461389c7feff6fbe1a0e6ef096e118d78c1c42373af588700fd071bf598c718699a87cb732bfe81543fbd3fe4
+fbaf117fb728cbe919e6cdfb90c977e5a4991f837b9b838bf35bf8fbc82e9ee26fd3d626dbde53d8dcec6d7680b79beedda8d3deda4f773a1daceb8e7b6f7b8f
+e7d32dfa0f4c30703fcbe4f95cc7cf1fc0855e162fb0b594fd5cb107373bb6f0b2cb2c47b9e565f0e1f31efeafdb96afcb8db10eade0cc6e5bbe263726d63f64
+f3fa2fe5ed9d79031339b8b69d760f3be9ad2320825b9bd93c2e3d82d13eabb7239f760f3ec5fbf9b683f26b513e642cbfbc73afedc0cbbeefa8ff05d9e21f97
+f9a9652e5f30599f66f678983c5fcd5fc6a7e59b99f0559cd6a94626ef2f526bfbe578227f4a6b8fc9f21d8c679665f7f27e50f059466f473eadbf4af1fd7ccb
+e6afd6a2fcc9e683c7d07ccfb2788af9a9361fece988975737b42d7cec433f6c7a1fdbe30e7c55d6bf91dd2f48af65f2546edc0b005390ddcb65c1f0cdf1614f
+47fd201f76e8d3e603c9783a9dace507f3a3721d609a668f67853037bf45fd8f7a4a76117507be2af3cdcc1ebf3ef0499e52be2edb8b9edd1b72bca866f78d8d
+b21af427d97c6b7f3fdf3279f9e047906fe9fd4fc2dbd10fe9fd67cc6b91675b78365a7e33f2dbf6ffdaafe6d39ee14b194feb3bf40bd117a53d53a827c6175c
+387135f6eb163eb8a9453e173e48a567f36512ae85b4ed7c10702decce531fe11bf2c14d152b1c2f521f111cf2c10483139226537c98308967a41fe433bcfedfff5f7acc14a2b9c34fb0c3d7fcb75cb03f48d5de3e4c41393125b4ef4e906d5f14fff47f01265f1094dd122eeb0000000049454e44ae426082}
+}}{\sp{\sn fRecolorFillAsPicture}{\sv 0}}{\sp{\sn fUseShapeAnchor}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 36195}}{\sp{\sn dxWrapDistRight}{\sv 36195}}
+{\sp{\sn posrelh}{\sv 1}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt\par\pard\ql \li0\ri0\widctlpar\pvpara\phpg\posx1340\posy55\dxfrtext57\dfrmtxtx57\dfrmtxty0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+{\pict\picscalex97\picscaley94\piccropl0\piccropr0\piccropt0\piccropb0\picw6299\pich4284\picwgoal3571\pichgoal2429\wmetafile8\bliptag1382479574\blipupi150{\*\blipuid 5266f6d6d82e3d8af1666ae1da6308e8}
+010009000003021800000000dd17000000000400000003010800050000000b0200000000050000000c02a300ef00030000001e000400000007010400dd170000
+410b2000cc00fd00740100000000a200ee00000000002800000074010000fd000000010001000000000000000000000000000000000000000000000000000000
+0000ffffff00000000000000000040000000000000000000000000000000000000000000000000000000000000000000003ffffff0001ff80000000000000000
+000000000000ff48000000000001ffffffff00000007fffffffffd20000fffc00000000030007fffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff000010007fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffff90007fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffff90007ffffffffffffffffffffff9ffffffffffff0001ffffffffffffffffffffffffffffffffffffffffffff
+ffffffff90017ffffffffffffffffffffff1fffffffffffc00007fffffffffffffffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffff
+ffe3ffffffffffe000001ffffffffffc7fffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffffffc7ffffffffffc000000ffffffffffe
+3fffffffffffffffffffffffffffffffffffffff90007fffffffffffffffffffffcfffffffffff80000007ffffffffff1fffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffffcfffffffffff0005c007ffffffffff9fffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff8fffffffffff007ffc0fffffffffff8fffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffff83ffff1fffffffffff
+c7ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffffc7ffff7fffffffffffe7ffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffff1fffffffffffefffff7fffffffffffe7ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff1fffffffffffefffff7ffffffffffff3ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff3fffffffffffefffff7fffffffffff
+f3ffffffffffffffffffffffffffffffffffffff90003fffffffffffffffffffff1fffffffffffe7ffff7ffffffffffff9ffffffffffffffffffffffffffffff
+ffffffffd0013fffffffffffffffffffff3fffffffffffe7ffff3ffffffffffff9ffffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffff
+ff3fffffffffff87ffff0ffffffffffff8ffffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffffff3ffffffffff027ffff60ffffffffff
+fcffffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffffff3fffffffffe3e6800f7c7ffffffffffcffffffffffffffffffffffffffffff
+ffffffffd0013fffffffffffffffffffff3fffffffffcfe000007fbffffffffffcffffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffff
+ff3fffffffff9fc000001f9ffffffffffcffffffffffffffffffffffffffffffffffffffd0013ffffffffffffffffffffe3fffffffff9f8000000fdfffffffff
+fcffffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffffff3fffffffffbf8000000fdffffffffffc7fffffffffffffffffffffffffffff
+ffffffffd0013fffffffffffffffffffff3fffffffff3f0002000fcffffffffffc7fffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffff
+ff3fffffffffbe007ff807cffffffffffc7fffffffffffffffffffffffffffffffffffffd0013ffffffffffffffffffffe3fffffffff80c7ffff783fffffffff
+fc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff3ffffffffff7f7ffff7ffffffffffffc7fffffffffffffffffffffffffffff
+ffffffffd0013fffffffffffffffffffff3fffffffffffe7ffff7ffffffffffffe7fffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffff
+ff3fffffffffffe7ffff7ffffffffffffc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff3fffffffffff07ffff0fffffffffff
+fc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff3ffffffffff877ffff60fffffffffffc7fffffffffffffffffffffffffffff
+ffffffffd0017fffffffffffffffffffff1fffffffff83f7ffff7f1ffffffffffc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffff
+ff1fffffffffbff7ffff7fcffffffffffc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff1fffffffff3ff600007fefffffffff
+fc7fffffffffffffffffffffffffffffffffffffd0013fffffffffffffffffffff9fffffffff7fe000001feffffffffffc7fffffffffffffffffffffffffffff
+ffffffffd0017fffffffffffffffffffff9fffffffff3f8000000feffffffffffc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffff
+ff9fffffffff00000000000ffffffffffc7fffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff9fffffffffc3c000001fffffffffff
+fcffffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff9fffffffffffc000003ffffffffffffcffffffffffffffffffffffffffffff
+ffffffffd0017fffffffffffffffffffff9fffffffffffe7ffff7ffffffffffffcffffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffff
+ff9ffffffffffff7ffff7ffffffffffff8ffffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff9ffffffffff3f7fffe7c7fffffffff
+f8ffffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff8fffffffffc027ffff001ffffffffff8ffffffffffffffffffffffffffffff
+ffffffffd0017fffffffffffffffffffff9fffffffffbf87ffff0fcffffffffff9ffffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffff
+ff9fffffffff7ff7fffeffeffffffffff9ffffffffffffffffffffffffffffffffffffffd0017fffffffffffffffffffff9fffffffff7ff7fffeffefffffffff
+f3ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9ffffffffe7fe7fffeffdffffffffff3ffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffff9fffffffff1c000000001ffffffffff3ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff9fffffffffc0000000383ffffffffff1ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffff8000001fffffffffff
+f3ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffff8000003ffffffffffff3ffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffff9fffffffffffc000003ffffffffffff3ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff9fffffffffffe000007ffffffffffff1ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffffe7fffeffffffffffff
+f3ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9ffffffffffff7fffefffffffffffff1ffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffff9fffffffffe037fffe80fffffffffff1ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff9fffffffffcfc7fffe3e7ffffffffff1ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffdfe7fffcff7fffffffff
+f9ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff9fffffffffdff7fffcff7ffffffffff9ffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffff1fffffffffdff7fffcff7ffffffffff9ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff9fffffffffcfe1fff0fe7ffffffffff9ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff3fffffffffe000000000ffffffffff
+f8ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff3fffff7fffff8000003ffffffffffff9ffffffffffffffffffffffffffffff
+ffffffff90017fffffffffffffffffffff3ffffe7ffbff8000003fffffe7fffff8ffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+ff3ffffc7df7ffc000003ffffde1fffffcffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffffff3ffff879ffffe000007ffff8f5ffff
+fcffffffffffffffffffffffffffffffffffffff90017ffffffffffffffffffffe3ffffa78f7f7f70001fff7f8f4fffffcffffffffffffffffffffffffffffff
+ffffffff90017ffffffffffffffffffffe3ffffafafdfaf7fffcf1eff8f2fffffcffffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+fe7ffff6faffffa05ffcc63ff0fa7ffffc7fffffffffffffffffffffffffffffffffffff90017ffffffffffffffffffffe7ffff2fb7f7ffffffc39fff4faffff
+fc7fffffffffffffffffffffffffffffffffffff90017ffffffffffffffffffffe7ffff2793ffffffffdcfdfe5f6fffffe7fffffffffffffffffffffffffffff
+ffffffff90017ffffffffffffffffffffe7fffbb7dbefffffffcffbfedf6c7fffe7fffffffffffffffffffffffffffffffffffff90017fffffffffffffffffff
+fe7ffe0b7d9de031fffdffffd9e6c7fffe7fffffffffffffffffff80003fffffffffffff90017ffffffffffffffffffffc7ffe8bbccfb9f77ffdffff9becd3ff
+fe7ffffffffffffffffffc00000fffffffffffff90017ffffffffffffffffffffc7ffecdbee77e0000008bf3bbcd93fffe3ffffffffffffffffff0000001ffff
+ffffffff90017ffffffffffffffffffffcfffd8ddf6eff8000007fff73d98bffff3fffffffffffffffffc00000003fffffffffff90017fffffffffffffffffff
+fcfffccecf33ffc000003fd3779981ffff3fffffffffffffffff001ffe0007ffffffffffd0017ffffffffffffffffffffcfffc8f6799ffc000003ffeefbb85ff
+ff1ffffffffffffffffe00ffffe003ffffffffffd0017ffffffffffffffffffffcfffc8737ccffe000007ffccf37b1ffff9ffffffffffffffff803fffff401ff
+ffffffffd0017ffffffffffffffffffffcfffe07bbeefff00000fffddf77b1ffff9ffffffffffffffff00fffffff007fffffffffd0017fffffffffffffffffff
+fcfffec799e67ffbfffcfffbbee733ffff9fffffffffffffffe03fffffffe03fffffffffd0017ffffffffffffffffffffcfffec7dcf33ffbfff6fff73cef73ff
+ff9fffffffffffffffc07fffffffe01fffffffffd0017ffffffffffffffffffffcffff4bcefb9ffbff7affe679df71ffff9fffffffffffffff81ffffffffe40f
+ffffffffd0017ffffffffffffffffffff0fff909ef79e783fff83fdcf39ef07fff9fffffffffffffff03ffffffffe607ffffffffd0017fffffffffffffffffff
+f0fff10df73cf3bbfffcdf39e7bef17fff9ffffffffffffffe0bffffffffe703ffffffffd0017ffffffffffffffffffff0fff48df3df7c3bffecdc73ef7de1bf
+ffbffffffffffffffc13ffffc07fe781ffffffffd0017ffffffffffffffffffff8ffe48efbcf9e020000c1e79e7de1bfffbffffffffffffffc33fff013ffe7c0
+ffffffffd0007ffffffffffffffffffff8ffec8e7de7e3e000000f8f9cfbd1bfffbffffffffffffff833fe03ffffe7e0ffffffffd0017fffffffffffffffffff
+fcffe8cf3cf3f8fc0000fe3f7df3b0bfff3ffffffffffffff071fe3fffffe7f07fffffffd0017ffffffffffffffffffffeffe907be79fe0c0000f0fcfbe7329f
+ff3ffffffffcffffe0f1ffffffffe3f83fffffffd0017ffffffffffffffffffffeffe903df3cff80000007f9f7ef6a1fff7ffffffffcffffe0f9ffffffffe3f8
+3fffffffd0017ffffffffffffffffffffeffeb91cf9f3fc1fffc3fe3e7deeb1fff7ffffffffcffffc1f9fffffffff1fc1fffffffd0017fffffffffffffffffff
+ff7fe795e7cfcf9bfffc3fcfdf9ce3bfff7ffffffffcffff83f9ffffff8079fe0fffffffd0017fffffffffffffffffffff7ff794f7e7f1bbfffdbf1f9f3de33f
+ff7ffffffffcffff87f8fe07fe2f08ff0fffffffd0017fffffffffffffffffffff7ff3ca7bf1fc3bfffcb8fe7e7bd77fff7ffffffffcffff87f8f9f7fcffe0ff
+07ffffffd0007fffffffffffffffffffff7ffbcb3dfcff83fffc03f9fcf3d6ffff7ffffffff8ffff07fcc7f3fbfff87f07ffffffd0017ffffffffffeffffffff
+ff7ffbedbefe1ff9fffc3ff3f9e786ffff7ffffffff9ffff0ffcdff3f3fffc7f87ffffffd0017ffffffffffcffffffffff7ffde5df3f47f800007f87f3cfadff
+ff7ffffffff9fffe0ffc3ff7e7fffe3f87ffffffd0017ffffffffffcffffffffff3ffcf6ef9ff0f800003e3fe79f29fffefffffffff9fffe1ffc7ff3efffff1f
+83ffffffd0017ffffffffffcffffffffff3fcefa77cffc00000000ff9f3f5bcffe7ffffffff9fffc1ffc7fe3efffff8fc3ffffffd0017ffffffffffcffffffff
+ffbf8f7b79e7ffe0000007ff3e7ed38ffe7ffffffff9fffc1ff8ffebcfffffc7c3ffffffd0017ffffffffffc7fffffffffbfa7bdbcf9ff80000003fc79fca7b7
+fefffffffff1fffc3ff8fffbcfffffc7c1ffffffd0017ffffffffffc7fffffffffbf27bcde3c7e0000000071f3fd2f17fefffffffff9fffc3ff1fff3cfffffe3
+c1ffffffd0017ffffffffffc7fffffffffbf27de6f9f0000fffe0007c7fb5f17fe7ffffffff1fff83ff1fff3cffffff1e1ffffffd0017ffffffffffc7fffffff
+ffbf2bcf37e7e009fffc000f1fe6be17fefffffffff3fff83fe3fffbeffffff8e1ffffffd0017ffffffffffc7fffffffffbf2bf7b3f1c030ffe000007fcc3ed7
+fefffffffff3fff83fe7fffcfffffff8e1ffffffd0017ffffffffffc7fffffffffbf69f3d9fc007eff07fe00001b7cd7fefffffffff3fff83fcfffeffffffffc
+61ffffffd0017ffffffffffc7fffffffff9f1dfbceff01fcf87e000023e6fdc7fefffffffff3fff87fcff7ffffffeffe60ffffffd0017ffffffffffc7fffffff
+ff9f9cf9e33e022001e01fc03f0cf9effeffffffffe3fff87f8fffffffdffffe20ffffffd0017ffffffffffe7fffffffff9fbefef18c0f800f000000003dfbcf
+feffffffffe3fff87f9fffffffffffff00ffffffd0017ffffffffffe3fffffffff9fdf7e78401ff03060000000f3f7dffeffffffffe3fff87f9fffffffffffff
+00ffffffd0017ffffffffffe3fffffffffdfcf7f3e301fc1c000000009e7e79ffeffffffffe7fff87f1fffffffffffff80ffffffd0017ffffffffffe3fffffff
+ffdfefbf9f00400e0000000003cfefbffeffffffffe7fff83f1fffffffffffffc1ffffffd0017ffffffffffe3fffffffffdff7dfcf80ffe0f0000000039fdf7f
+feffffffffe7fff83f1f7fffffffffffc1ffffffd0017fffffffffff3fffffffffde73cfe7c00001c0000000033f9e71fcffffffffc7fff83f3fffdfffffffff
+c1ffffffd0017fffffffffff3fffffffffcebbeff9c1ffc10a000000007fbcedfefffffff7cffff83f3ffdffffffffffc1ffffffd0017fffffffffff1fffffff
+ffde9df7fc82ff981480000000ff7dcdfefffffff7cffffc3f3fffffffffffffc1ffffffd0017fffffffffff1fffffffffcd9efbff060f383e800000007efbcd
+fefffffff78ffffc3f3fffffffffffffc1ffffffd0007fffffffffff9fffffffffdd8f79ff07c0003fc00000003cf38dfefffffff79ffffc1f3fffffffffffff
+c3ffffffd0017fffffffffff9fffffffffcdafbcfe03fe005f8000000039e72dfefffffff31ffffe1e3fffffffffffffc3ffffffd0017fffffffffff8fffffff
+ffdcb7de7e181f8071a000000013cf25fefffffffb1ffffe1e3f9ffbffbfffff83ffffffd0017fffffffffffcfffffffffceb3cf3c1f0000f7e000000427be71
+fefffffffb3ffffe1e3fc7fff7ffdfff83ffffffd0017fffffffffffce7fffffffce7be79c1ff800f4e00000040f3ef3fefffffff83ffffe0e7ff1fff3ffeff3
+81ffffffd0017fffffffffffc77fffffffdf7df3c83ffe00efe00000041e7df7fefffffffc3fffff0e7ffc7ffbffe3e705ffffffd0017fffffffffffc6ffffff
+ffcf3df9f03ffc007fe00000041cf9e7fefffffffe3fffff0e7fff0ffbfff8cf00ffffffd0017fffffffffffe6ffffffffcfbe7cf07ff001fae000000409fbef
+fefffffffe3fffff067fffe7fcfffede0cffffffd0017fffffffffffe6ffffffffcfdf7e707ff001fce000000003f7dffe7ffffffe3fffff067ffff9feffff1e
+0cffffffd0017fffffffffffe6ffffffffddcfbf303fe001dbc000000607ef9dff7ffffffe3fffff807ffffe1e7fff3c1c7fffffd0017fffffffffffe5ffffff
+ffd8e79fc0cfe00176e000000f07df38ff7fffffff3fffff805fffff8f7fff7c1e7fffffd0017fffffffffffe1ffffffffda77cfe0e3e0017bf000000f079f72
+7f7fffffff1fffffc067ffffe73ffe783c7fffffd0017fffffffffffe1ffffffffda7be7e0fc0003ffe800000c073ef2fe7fffffff9fffffe0781ffff3bffe70
+7c7fffffd0017fffffffffffe3ffffffffda3df3e03f0003ff900000018779e27fffffffff9ffffff03f003ffc1ffe207c7fffffd0017fffffffffffe3ffffff
+ffda1ef9e08fc003fff000000784f3ca7fffffffff8ffffff81fff1fff0ffe20fe7fffffd0017fffffffffffe3ffffffff9a5f7ce1e1c003ffe000001f81e7da
+ffffffffffcffffffc0fffffffe1fe01fc7fffffd0017fffffffffffe3fffffffffa6f9e61f80003fff800001f83cfbaffffffffffcffffffe07fffffffc7f01
+fc7fffffd0017fffffffffffe7fffffffff877cfa1ffc003ff3000003f83bf38ffffffffffcffffffc01ffffffff3e07fc7fffffd0017fffffffffffe7ffffff
+fffcf3e7c1ffc003dec800003f833e79ffffffffffc7fffffc00fffffffff80ffe7fffffd0017fffffffffffe7fffffffffcfbf3e1ffc003eef800003f02fcfb
+ffffffffffc7fffffc401ffffffff01ffe7fffffd0017fffffffffffc7fffffffffe7dfde1ffc000ffc000003c04f9f3ffffffffffe7fffffc6007ffffffc027
+fe3fffffd0013fffffffffffe3ffffffffffbe7e603ff003fcc400001181f9f7ffffffffffe7fffffe1c01ffffff00433f1fffffc0013fffffffffffe7ffffff
+fffc1f7f908fe001fddc00004783f3e8ffffffffffe3fffffe4e003ffffc0090bf1fffffc0013fffffffffffc7fffffffffd6f9fc0e1e001fdfc00001f83e7ca
+fffffffffff3fffffe67c00fffe00391ff9fffffc0013fffffffffffc7fffffffffd27cfe0780001f5dc00003f03cf92fffffffffff3fffffc79e001f8000f19
+ff8fffffc0013fffffffffffc7fffffffffd33e7f07fa001f7f4000078039f62fffffffffff3fffffcfc7c0000003f19ff8fffffc0013fffffffffffcfffffff
+fffd1df3f00ff002f3e4000041073ccafffffffffff3fffff8ff4f000000ff39ff8fffffc0013fffffffffffcffffffffffdaefdf060c001ffd000000f067992
+fffffffffff3fffff9ff87e00007ff31ff8fffffc0013fffffffffffcffffffffffdb73ef83c0000fe0000007f04f3bafffffffffff3fffff9ff83f0003fff31
+ff8fffffc0013fffffffffffcffffffffffd339f383ff8017c480001ff03e77afffffffffff3fffff1ff04fffffffd11ff8fffffc0013fffffffffff8fffffff
+fffe7dcf8c3ffc00f5b80001fe0f9ef9fffffffffff3fffff1ff063ffffff339ff9fffffc0013fffffffffff8ffffffffffe7cf7e03ffc01f7e80003fe0f3dfb
+fffffffffff1fffff3fe0780ffff8f31fc9fffffc0013fffffffffffcfffffffffff3e79f81ffe03fbf80007fc1e7bf3fffffffffff3fffff3fe47f07ffc3f31
+f81fffffc0013fffffffffff8fffffffffff9f3cfc1fff00f2f80887f01cf3e7fffffffffff3ffffe3fe4ff80071ff19fb1fffffc0013fffffffffff9fffffff
+ffffcf9f1e07ff80fe20001f8031efcffffffffffff3ffffe3fc4ff83fe7ff38fb1fffffc0013fffffffffff8fffffffffffe7cf8e0000003df803a0380bdf9f
+fffffffffff3ffffe5fc8ff13fe7ff38fb1fffffc0013fffffffffffcffffffffffff3e7f00600607de1f003f81fbf73fffffffffff3ffffc4788ff13fe3ff1c
+fb1fffffc0013fffffffffffcfffffffffff39f3f807fff87bf0fffff07f7e71fffffffffff3ffffcfb99ff23fe3ff9c791fffffc0013fffffffffff8fffffff
+fffe5cf9ff81fc00bafc33ff007e79e1fffffffffff3ffff8ff19ff33fc3ff9e7d1fffffc0013fffffffffffcffffffffffedf3effc00006fddd000000fdf3cd
+fffffffffff3ffff9ff11fe63fc1ff1e3d1fffffc0013fffffffffffcffffffffffe4f1f3fc0fffcfeb8ffdf81f3c7cdfffffffffff3ffff9ff33fe63fc1ff9f
+1c3fffffc0013fffffffffff8ffffffffffec7ef8fe03fc0ffb807ff03c79fadfffffffffff3ffff1fe73fe63fc1ff9f807fffffc0013fffffffffff8fffffff
+fffe53f3e7f01f06f9fdc7fe071f3f2dfffffffffff3ffff3fc63fe63fc1ff9fc0ffffffc0013fffffffffff8ffffffffffed9f9f8f80f7eff7bf3fc063e7e69
+fffffffffff3fffe3fce3fce7fc9ff9ff1ffffffc0013fffffffffffcfffffffffff5cfcfe3c027c0000f3f811fcfce3fffffffffff3fffe7f8e7fce7fc9ff9f
+ffffffffc0013fffffffffffcfffffffffff1e7e3f870010000003e007f1f9f3ffffffffffe3fffe7f9c7fce7f89f81fffffffffc0013fffffffffff8fffffff
+ffff9f3f8fe00007000186007fc7f3e7fffffffffff3fffc3f1c7f9e7f88819fffffffffc0013fffffffffffcfffffffffffcf9fe3fc200e0001e000fe1fefcf
+ffffffffffe3fffc9f3c5f9e7f8c039fffffffffc0013fffffffffffcfffffffffffe7cffc7ff0007ff8fc01f07fdf9fffffffffffe7fff8c03cef1c7f9c618f
+ffffffffd0013fffffffffffcffffffffffff3e7ff03fc003ff8400303ffbf3fffffffffffe7fff9f878f11e7f9cff9fffffffffc0013fffffffffffcfffffff
+fffff9fbfff000800ff800001fff7e5fffffffffffe7fff8fc78ff3c7f9cff8fffffffffc0013fffffffffffc7ffffffffffe4fcffffbfc00000007ffffcf90f
+ffffffffffe7fff9fc78ff3c029c7f8fffffffffc0013fffffffffffc7ffffffffffdb7e7ffffff8000000fffff9f26fffffffffffcffff9fcf9ff3c009c7f8f
+ffffffffc0013fffffffffffe7ffffffffffdd9f9fffffc0000007ffffe3c6efffffffffffcffff9f8f1fe7c7f9c7f8fffffffffc0013fffffffffffe7ffffff
+ffffccefc7ffff9e800033ffffcf9cefffffffffff8ffff1f9f1fe7cff1e7f8fffffffffc0013fffffffffffe3ffffffffffcef3f1ffff7ef140f9ffff3f3dcf
+ffffffffff9ffff9f1f1fe7cff9e7f8fffffffffc0013fffffffffffe3ffffffffffee78fc7ffe7ff000f9fff8fef9dfffffffffff9ffff9e3f3fc7cff3e7f8f
+ffffffffd0013ffffffffffff3ffffffffffee7e7f1ffe79f00079ffc3f8f19fffffffffff1ffff883f3fc7cff3e7f8fffffffffd0013ffffffffffff3ffffff
+ffffe69f9fc1fe03f00319f80fe7e59fffffffffff3ffffc07f27cf8ff3e3f8fffffffffc0013ffffffffffff9fffffffffff6cfc7f8003ffffbe000ff8f8d3f
+fffffffffe3ffffe0fe30cf9ff3e3fcfffffffffc0013ffffffffffff9fffffffffff9e3f0ffffffffff6ffff83f3e7ffffffffffe7fffffffe3c0f8ff3f3fcf
+ffffffffc0013ffffffffffff8fffffffffffdf9fe0ffff7fffff7ff81fe7cfffffffffffe7fffffffe7f8f9ff3f3fcfffffffffc0013ffffffffffffcffffff
+fffffc7cffc04007fffe70800ff8f9fffffffffffc7fffffffe7f9f9ff3f3f4fffffffffc0013ffffffffffffc7fffffffffff3f3ffe01ef7ffe7003fff1e3ff
+fffffffffcffffffffc7f9f1ff3f004fffffffffc0013ffffffffffffe7ffffffffffe0f8fff7fff7ff7fbffffc781fffffffffff8ffffffffc7f1f9fe3f11cf
+ffffffffd0013ffffffffffffe3ffffffffffec3e3ff7f9e7e57ffff3f1f1dfffffffffff8ffffffffc7f3f0003f1fcfffffffffc0013ffffffffffffe3fffff
+fffffe71f87f3f9e0006fdff787e7bfffffffffff9ffffffffc7e3f1063f9f8fffffffffd0013fffffffffffff1fffffffffff78fe1f7fbe00061fffa1f873ff
+fffffffff3ffffffffcfe7f1fe7f8fcfffffffffd0013fffffffffffff9fffffffffff3c3fc35c7f00070efe0fe0f7fffffffffff3ffffffffcfe7f1fe7f8f8f
+ffffffffc0013fffffffffffff9fffffffffff9ec7f8007c0007ff003f89efffffffffffe7ffffffffc7cff1fe7f8f8fffffffffc0013fffffffffffffcfffff
+ffffffce31ffbf7c7fff6fffbe39dfffffffffffe7ffffffffe00ff1fe7fc79fffffffffc0013fffffffffffffc7ffffffffffe0be1fbcff7ffe2fbfa1e23fff
+ffffffffc7fffffffff01ff1fc7fc71fffffffffc0013fffffffffffffe7fffffffffff1cfc000fc7fffcfc01fce7fffffffffffcffffffffffc3ff1fc7fc03f
+ffffffffc0013ffffffffffffff3fffffffffff9e7fc3ff97ffb7fc93f9c7fffffffffff8ffffffffffffff1fc7fe07fffffffffc0013ffffffffffffff1ffff
+fffffffe79ffbdff7fff0eefbe39ffffffffffff1ffffffffffffff1fcfffeffffffffffc0013ffffffffffffff8ffffffffffff3c7ffbbd7ffbe87fb8e3ffff
+ffffffff1ffffffffffffff9f8ffffffffffffffc0013ffffffffffffffc7fffffffffffcf1fbf7f6003797f83cffffffffffffe3ffffffffffffff9f9ffffff
+ffffffffc0013ffffffffffffffe3fffffffffffc0c3bffc00037dbb1c0ffffffffffffc7ffffffffffffff8e1ffffffffffffffd0003fffffffffffffff0fff
+ffffffffdc387e8f0003099831effffffffffff8fffffffffffffff803ffffffffffffffd0003fffffffffffffff87ffffffffffc79f1caf0003c81de78fffff
+fffffff1fffffffffffffffc03ffffffffffffffd0013fffffffffffffffc3ffffffffffe0cfbbec0ffb681e8c1fffffffffffe3ffffffffffffffff8fffffff
+ffffffffd0013ffffffffffffffff1ffffffffffec0037ec7ffb1bff809fffffffffffc7ffffffffffffffffffffffffffffffffd0013ffffffffffffffff8ff
+fffffffff7eee0177ffb0803a01fffffffffff8fffffffffffffffffffffffffffffffffd0013ffffffffffffffffc3ffffffffffbf3ff967ffbf97dfffcffff
+ffffff1fffffffffffffffffffffffffffffffffd0013fffffffffffffffff1ffffffffffce7df67be7b09ff7ff3fffffffffc3fffffffffffffffffffffffff
+ffffffffc0003fffffffffffffffff87ffffffffedff7f47800349fe6f8fffffffff807fffffffffffffffffffffffffffffffffc0013fffffffffffffffffc1
+ffffffffdffa403f0003f80091fffffffff000ffffffffffffffffffffffffffffffffffc0013fffffffffffffffffe001ffffffe8440ffa0003670787ffffff
+fd002fffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffc0003fffffff0ffc2018317f803ffffffc007ffffffffffffffffffffffffffff
+ffffffffc0013fffffffffffffffffffec000ffffffd802f3fff1600cffffffe00ffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+fff800ffffff3e0fffff701fe1fffff00fffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffff801fffff9ff77ffff7ff8fffff80
+ffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffff803ffff7ffff80befffa7fff807ffffffffffffffffffffffffffffffff
+ffffffffc0003fffffffffffffffffffffffff80fffffff960002fffffffc03fffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+fffffff01ffffffb00000fffffff03ffffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffffffe0ffffff701e0effffff80fff
+ffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffff83ffffff9ff9ffffffe07fffffffffffffffffffffffffffffffffff
+ffffffffc0013fffffffffffffffffffffffffffe0ffffe03ffcffffff81ffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+fffffffff87fffce1ffa03fffe0fffffffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffffffffe3fffef9fbff3fffe3fffff
+ffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffff1fffe7d007f3fffc7fffffffffffffffffffffffffffffffffffff
+ffffffffc0003fffffffffffffffffffffffffffff8fffe7c003e7fff8ffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+ffffffffffc7fff00003cffff1ffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffe7fff607e00ffff3ffffff
+ffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffe3ffe01ff9cfffe3ffffffffffffffffffffffffffffffffffffff
+ffffffffc0013ffffffffffffffffffffffffffffff1ffc47ffc03ffe7ffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+fffffffffff1ffefdffff3ffc7ffffffffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffffffffff8ffe7ffffe7ffc7ffffff
+ffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffffffffffcffe7f00fefffc7ffffffffffffffffffffffffffffffffffffff
+ffffffffc0013ffffffffffffffffffffffffffffffcfff7c003efffcfffffffffffffffffffffffffffffffffffffffffffffffc0003fffffffffffffffffff
+fffffffffffe7ff00003efff8fffffffffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffffffffffe3ff800000fff8fffffff
+ffffffffffffffffffffffffffffffffffffffffc0013ffffffffffffffffffffffffffffffe3ff68fec0fff9fffffffffffffffffffffffffffffffffffffff
+ffffffffc0013fffffffffffffffffffffffffffffff3ff7dfffefff9fffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+ffffffffffff1ffbffffdfff9fffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffff9ffbffffbfff9fffffff
+ffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffff8ffbffffffff9fffffffffffffffffffffffffffffffffffffff
+ffffffffc0013fffffffffffffffffffffffffffffff8ffbdfffbfff1fffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+ffffffffffff8ffa700fdfff1fffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffff8ffd0ff01fff1fffffff
+ffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffff9fffdfffffffbfffffffffffffffffffffffffffffffffffffff
+ffffffffc0013fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc0013fffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffc0000000fffffc0003c01ffffffffffffffffffffffffffffe000000000000000000000000000000000000000000000000000
+0000000000010000000000000000000000000000000000000000000000007490000000000001fffffffffffffffffffffffffffff001040000002701ffff030000000000}\par}}}{\f1\fs24\insrsid15738386\charrsid7370335 \'c4\'eb\'ff \'ef\'f0\'ee\'e2\'e5\'e4\'e5\'ed\'e8\'ff \'ed\'e5\'ef
+\'f0\'ff\'ec\'ee\'e3\'ee \'ec\'e0\'f1\'f1\'e0\'e6\'e0 \'f1\'e5\'f0\'e4\'f6\'e0 }{\f1\fs24\insrsid10945421\charrsid7370335   }{\f1\fs24\insrsid15738386\charrsid7370335 \'ef\'ee\'f1\'f2\'f0\'e0\'e4\'e0\'e2\'f8\'e5\'e3\'ee \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8
+\'ec\'ee \'ef\'ee\'eb\'ee\'e6\'e8\'f2\'fc \'ed\'e0 \'f1\'ef\'e8\-\'ed\'f3, \'ed\'e0 \'f2\'e2\'e5\'f0\'e4\'ee\'e5 \'ee\'f1\'ed\'ee\'e2\'e0\'ed\'e8\'e5, \'f0\'e0\'f1\'ef\'ee\'eb\'ee\'e6\'e8\'f2\'fc \'e5\'e3\'ee \'f0\'f3\'ea\'e8 \'e2\'e4\'ee\'eb\'fc \'f2\'f3
+\'eb\'ee\'e2\'e8\'f9\'e0, \'ef\'f0\'e8\'e4\'e0\'f2\'fc \'ed\'ee\'e3\'e0\'ec \'e2\'ee\'e7\'e2\'fb\'f8\'e5\'ed\-\'ed\'ee\'e5 \'ef\'ee\'eb\'ee\'e6\'e5\'ed\'e8\'e5 \'e4\'eb\'ff \'ee\'e1\'eb\'e5\'e3\'f7\'e5\'ed\'e8\'ff \'ef\'f0\'e8\'f2\'ee\'ea\'e0 \'e2\'e5\'ed
+\'ee\'e7\'ed\'ee\'e9 \'ea\'f0\'ee\'e2\'e8 \'ea \'f1\'e5\'f0\'e4\'f6\'f3. \'ce\'ea\'e0\'e7\'fb\'e2\'e0\'fe\'f9\'e8\'e9 \'ef\'e5\'f0\'e2\'f3\'fe \'ef\'ee\'ec\'ee\'f9\'fc \'f0\'e0\'f1\'ef\'ee\'eb\'e0\'e3\'e0\'e5\'f2\'f1\'ff \'f1\'e1\'ee\'ea\'f3, \'f0\'e0\'e7
+\'ec\'e5\'f9\'e0\'e5\'f2 \'eb\'e0\'e4\'ee\'ed\'fc \'ee\'e4\'ed\'ee\'e9 \'f0\'f3\'ea\'e8 \'f2\'e0\'ea\'e8\'ec \'ee\'e1\'f0\'e0\'e7\'ee\'ec, \'f7\'f2\'ee\'e1\'fb \'e5\'e5 \'ee\'f1\'ed\'ee\'e2\'e0\-\'ed\'e8\'e5 \'f0\'e0\'f1\'ef\'ee\'eb\'e0\'e3\'e0\'eb\'ee
+\'f1\'fc \'e2 \'ed\'e8\'e6\'ed\'e5\'e9 \'f7\'e0\'f1\'f2\'e8 \'e3\'f0\'f3\'e4\'e8\'ed\'fb, \'e2\'e4\'ee\'eb\'fc \'ef\'f0\'ee\'e4\'ee\'eb\'fc\'ed\'ee\'e9 \'ee\'f1\'e8, \'e0 \'eb\'e0\'e4\'ee\'ed\'fc \'e2\'f2\'ee\'f0\'ee\'e9 \'f0\'f3\'ea\'e8 \'ed\'e0\'ea\'eb
+\'e0\'e4\'fb\'e2\'e0\'e5\'f2 \'f1\'e2\'e5\'f0\'f5\'f3 \'ef\'e5\'f0\'e2\'ee\'e9 \'e4\'eb\'ff \'f3\'f1\'e8\'eb\'e5\'ed\'e8\'ff \'e4\'e0\'e2\'eb\'e5\'ed\'e8\'ff. \'cd\'e0\'e4\'e0\'e2\'eb\'e8\'e2\'e0\'ed\'e8\'e5 \'ee\'f1\'f3\'f9\'e5\'f1\'f2\'e2\'eb\'ff\'e5
+\'f2\'f1\'ff \'e2 \'e2\'e5\'f0\'f2\'e8\-\'ea\'e0\'eb\'fc\'ed\'ee\'ec \'ed\'e0\'ef\'f0\'e0\'e2\'eb\'e5\'ed\'e8\'e8, \'e2\'e5\'eb\'e8\'f7\'e8\'ed\'e0 \'ef\'f0\'ee\'e3\'e8\'e1\'e0 \'e3\'f0\'f3\'e4\'ed\'ee\'e9 \'ea\'eb\'e5\'f2\'ea\'e8 \'e4\'ee\'eb\'e6\'ed\'e0
+ \'f1\'ee\'f1\'f2\'e0\'e2\'eb\'ff\'f2\'fc 3-4 \'f1\'e0\'ed\'f2\'e8\'ec\'e5\'f2\-\'f0\'e0. \'ca\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee \'ed\'e0\'e4\'e0\'e2\'eb\'e8\'e2\'e0\'ed\'e8\'e9 75 - 85 \'f0\'e0\'e7 \'e2 \'ec\'e8\'ed\'f3\'f2\'f3. \'cd\'e5\'ef\'f0\'ff
+\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'e4\'e5\-\'eb\'e0\'f2\'fc \'e4\'ee \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff \'e5\'e3\'ee \'f4\'f3\'ed\'ea\'f6\'e8\'e8. \'c2 \'f1\'eb
+\'f3\'f7\'e0\'e5 \'ee\'f2\'f1\'f3\'f2\'f1\'f2\'e2\'e8\'ff \'ef\'f0\'e8\'e7\'ed\'e0\'ea\'ee\'e2 \'e6\'e8\'e7\'ed\'e8 \'ef\'ee \'e8\'f1\'f2\'e5\'f7\'e5\'ed\'e8\'e8 25 - 30 \'ec\'e8\'ed\'f3\'f2 \'ec\'e0\'f1\'f1\'e0\'e6\'e0 \'e5\'e3\'ee \'ed\'f3\'e6\'ed\'ee 
+\'ef\'f0\'e5\'ea\'f0\'e0\'f2\'e8\'f2\'fc.
+\par }\pard \qj \fi288\li0\ri115\sl-245\slmult0\nowidctlpar\faauto\rin115\lin0\itap0\pararsid7370335 \cbpat8 {\f1\fs24\insrsid7370335 
+\par }{\fs24\lang1024\langfe1024\noproof\insrsid10945421\charrsid7370335 {\shp{\*\shpinst\shpleft7348\shptop96\shpright10498\shpbottom2716\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr2\shpwrk0\shpfblwtxt0\shpz1\shplid1030
+{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pib}{\sv {\pict\picscalex100\picscaley112\piccropl0\piccropr0\piccropt0\piccropb0
+\picw5554\pich4115\picwgoal3149\pichgoal2333\pngblip\bliptag-1497327242{\*\blipuid a6c0997609ad830fe28d2cbb45b723cf}89504e470d0a1a0a0000000d4948445200000148000000f30100000000cc15b29c0000000970485973000017120000171201679fd252000007f049444154789c
+addacfabe3c61d00f051bca02d85a740a1901256c929c7f4d72181cdce9640fa6784b0853d764b0f5d4879e3ed2b353d745f8f5928f1f6d4ff2104ec17933a6d
+d3687beec136a6551ada5a6f75b0bc96e7dbeffc9265bfd1cc2454605bb63f9e9146dff9ce483201ebf238b9f211b1c28a4481724c080b9311cce320c913a8af
+546f9535c52f6888ac186e6a1a22e7421fb793554ef0f1c5f12e59e59978ea85c873f17411229350c9d350299a13fe5e8448269eab70c9fcb26a79b72c565252
+bfbc94cf3c5ca67eb9502f0172a95e8e82c92627eae5dc2fa75f560efc7270f08300390995c9324cf2d3de65807c1b8ffac9bb21121ff51f3755a07cba3b0ad0
+aef6dc55758014656e5052bf9ca1acf9b334a8f6929ffe340994ec6703af148731077ef72248aea0ba3b0e9219d4c93cf549111a33ec7115493d720115a52b18
+d607a3923533c0e67d9641c6bfdf2ed42ecbf7b0fa158cdaa392352fb1fc01ca1c863c72cb9a6613180909adddb7e764ecc014e54c8c762e090996c4649910bb
+e5afa8c89e6b21176e8987f1e94ac9ca2d3134f24cc97d66b64aac7298e1768eda59d42ab1ff8e64cb432b37da476d50ad44a1959dec330126c69895944ba7e4
+74588a606660927ea72409ca8c336835937d6e43eeac8504bfecff049fb25a6fb34bce5fc7a7d9466db353f29b8d6c86a50e79035b48ec3fec0706bbac4f1805
+ba96eb674e59919fa39443723330d86551dc679c3d64627de19497f0ed750d2faa5f39650967f98ebf1b20977011971bb5472689db658e3d395fe672bdf6484e
+d35c4bea9218beefd13493ebdc27c7a73444a299479842e4e2933c169d18f6bdb353e2a22438e5f9579343bf1cb5df74c861b03ca83dbccc2c783ba76172162c
+873e59b764ee922a7969b9744a194023f5f0c8a196d42b677b59bae45436374ab1bd976e99efe5c62d4b2dc12373d8aa6d0c901b25777e59abda85aadc92ab32
+bd722a779aa9b6f44851204a91ee6a8f4c83e550cadc2773d97b981865fd32973b250ebf4eb59d7222776a06ead8bbe452eed430a0cc0be03f5421ea2b136742
+7714724aac7acef87d55b14edf9d72cc388fd4f5139fa49c15d7c02731303e4ab96974a77cf24a9e7015c8267ddbe553124d07dc84bb4b1649954cb0eaad5762
+173f5fd426290cdd32bbdca9f03439d22e71fbb22a48566206f6ba499d038fe42fa84076cb5ac4f0d7418fc65ef92048329467669cf1ca8191b143722d997c97
+b824fd5232d1fd62e76a790cc92906869c28c32673c914726ee476ea9354877c99bbe51267692ae4cba5475646e65ec9b45c2ddcf212a5ea46d9dc230bd38d66
+63ea949b4b23473753a7ac1a79eb3471cb85ee9adb5a855db7bca33bdcb2f4c8dac83457a709ddb2a7ba2667439f8c95acf0f82f9d1267bf728c290b70caa194
+22dcb2a53e49e92c53f409b17d34d57316a77c42a13805b71c4af97e744f5e2b76c97335c255445efe2ebc72a4df556e499bf38800c9c2e4c80c987a58ea90d9
+a1644e497562f048390dda05cbcd5790b45b4e0e2477c8a568ccf2ff2db131a78112c2e442c8fd75c5b45b5e8a63fd07fd66e5928590afe83713afbcabdf3cf2
+496ee44d3917e890158607d7fb3e3e652ec97650ebb3f2e7813ae5c6c83a85e12f58a7ac51ee64ed553484bc9f1ec9fdf54e21d578590c309190f850ce09e9b5
+e456ca1c183f8d89929829c48f38be683a267403855ccfe4619fa74212b9a4fa95e2b7ffc6972d5621d667e21a12c30c4de86fc9d1f2425ffca044292620d840
+fc2dc623386666a1b9d86c5dfb29839758a79c0a99c25a4a803eed940371433216d72cc581875f76ca1bb19011945a3e4cbbe4f33f169228f93bdcdca44b462b
+296929a68b8f003e3def92d8407df1220f148ec959dc255325c93b72f402f8eba0033e075a46626cc791f6d3373b24d5f244aea1fcac43ca79a458490aa682eb
+2f2f776ea59626223ffbbd5dbeb3d2b2b998fdf1df3a6a3fd7e1dac84f2eecf27a722c7ff392155eebe31ed707f2e1d82abf16eb3ed3f42ba076f95d8a65166d
+c9e9dc2a7f749fca9e4a9a6e5dbc61977f1ae3a1267b39fe06d9ddb3c1e8d100c8edbde4c93886db56f93d3159f8a65c171207edd5f2b1b5f63b747ceb8c1bb9
+c2216ebd1e5be55baf915b3dd99ee224565c18e26bfbd1bc76ef66d593ed2982ee5c9e5059b79390f9a6e8cd8d4c303e67ffb16f272197f3b82f5752711ba5c4
+ed5cd861b4eceb5e8b32c31eb7ddfda0a3cc987c4bad2450cb0b439bef74c813b392c066e9aa9d5c6f0a87b26298f0cb8e48de2f3d28eb5e0ccfd601328742c4
+75e493913ee3fde7c42789bafc392b7aa4ef91722484d53fdef44a9d1c727f995afe2b3e90d76c5275e42f0e24fefa93eb472ed267b0dba425d5478f8fa52a73
+de92babfee8a03d95373a1ed0769235f35d9428e04cdc7b1be8752d1e623d648f833be1b3752dd8d7dc28c3cfe878991a9fcab0aace78dbcd129457c88db7e46
+de67764941ddb47e6046ed68de98d18164508bd67bd633323efaa34123419ea6c1e7b191c989f8ba6793e2ba889c87a8e5457146cbc915d9933b83a3d8cb46be
+562422b3a7c73216e93e11a38319612371bfb768b5aa9132e3bdfd18859698854a3c2ebd63997c4e7abf16dffff78129737c744c7533a7fd5765c6a7b025874b
+ef483291bed5bfaec80ccf835481cfe956694b755d6d2c1a5f7f755bc6f1781f294a76df2bdf35df9946ea92d87a097c68e68dade1fdaa546320333275484556f551a359e441df6c17699d517323c1274db9fe7f5360133cb95264e77cfe4a910e19b12009c77503fc0f9a4fc0bfdc35ec810000000049454e44ae426082}
+}}{\sp{\sn fRecolorFillAsPicture}{\sv 0}}{\sp{\sn fUseShapeAnchor}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 36195}}{\sp{\sn dxWrapDistRight}{\sv 36195}}
+{\sp{\sn posrelh}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt\par\pard
+\ql \li0\ri0\widctlpar\pvpara\phpg\posx7347\posy95\dxfrtext57\dfrmtxtx57\dfrmtxty0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\pict\picscalex100\picscaley112\piccropl0\piccropr0\piccropt0\piccropb0
+\picw5554\pich4115\picwgoal3149\pichgoal2333\wmetafile8\bliptag-1497327242\blipupi150{\*\blipuid a6c0997609ad830fe28d2cbb45b723cf}
+0100090000032c15000000000715000000000400000003010800050000000b0200000000050000000c029d00d300030000001e00040000000701040007150000
+410b2000cc00f3004801000000009c00d200000000002800000048010000f3000000010001000000000000000000000000000000000000000000000000000000
+0000ffffff00ffffffffffffffffffffffffffffffffffffffffffffff0000ffffffffffffffffffffffffffffffff010101ffffffffffffffffffffffffffff
+fffffffffffffffffc0000017fffffffffffffffffffffffffffff010101fffffffffffffffffffffffffffffffffffffffffffffc0000000fffffffffffffff
+ffffffffffffff010101fffffffffffffffffffffffffffffffffffffffffffcd000000000ffffffffffffffffffffffffffff010101ffffffffffffffffffff
+ffffffffffffffffffffa00000000000000fffffffffffffffffffffffffff010101fffffffffffffffffffffffffffffffffffffffe0000000000000000ffff
+ffffffffffffffffffffff010101ffffffffffffffffffffffffffffffffa000000000000000000000001fffffffffffffffffffffffff010101ffffffffffff
+fffffffffffffffffffe0000000000effc0000000000007fffffffffffffffffffffff010101fffffffffffffffffffffffffffffff0000000007ffffe000000
+0000001fffffffffffffffffffffff010101fffffffffffffffffffffffffffffc000fffbc07fffffe0000000000000fffffffffffffffffffffff010101ffff
+fffffffffffffffffffffffd0001ffffffffffffff00000000000007ffffffffffffffffffffff010101ffffffffffff40000fffffffc0000007ffffffffffff
+ff80000000000001ffffffffffffffffffffff000000dfbffffec000000000000200000000ffffffffffffffff80000000000000ff1fffffffffc00fffffff01
+0101000000000000000000000000000003ffffffffffffffff800000000000007f01fffffff80001ffffff01010100000000000001c00000000000007fffffff
+ffffffffff800000000000001f802fffffe000003ffffb01010100000000000003e000f37fc00003ffffffffffffffffffc00000000000000fe8000389000000
+03ee8101010100000000000001e007fffff00007ffffffffffffffffffc000000000000007fe000000005fa000000101010100000000000038f00ffffffc001f
+ffffffffffffffffffc000000000000007fffc00000ffffe0000070101010000000000001c3c1ffffffe00ffffffffffffffffffffc000000000000003ffffff
+c0ffffff8021ff0101010000000000000f0effffffff03ffffffffffffffffffffc000000000000000ffffff81ffffffe01fff0101010000000000000787ffff
+ffffffffffffffffffffffffffc000000000000000fffffc07ffffffe807ff01010100000000000001e0ffffffffffffffffffbfffffffffffc0000000000000
+007ffffc0ffffffffa03ff01010180000000000000787fffffffffffffffffffffffffffffc0000000000000003ffff83fffffffff81ff010101800000000000
+001effffffffffffffffffffffffffffffc0000000000000001ffff03fffffffffc0ff0101018000000000000007ffffffffffffffffffffffffffffffc00000
+00000000001fffe0fffffffff7e07f01010180000000000000007fffffffffffffffffffffca00007fc00000000000000007ffc1ffffffffffd07f0101018000
+0000000000002fffffffffffffffffffc000000000800000000000000007ff83fffffffffff83f000000800000000000000000fffffffffffffffdf000000000
+00000000000000000003ff87fffffffffbba1f010101800000000000000000000fffffffffffa0000000000000000000000000000001ff07ffffffffffe00f01
+010180000000000000000000000fffffc80800000000000000000000000000000001ff0ffffffffffffb0f010101800000000000000000000000040000000000
+00000000000000000000000000000007ffffffffffea070101018000000000000000000000000000000000000000000000000000000000000000000fffffffff
+ffe9070101018000000000000000000000000000000000000000000000000000000000000000000fffffffffffe7030101018000000000000000000000000000
+0000000000000000000000000000000000003f8fffffffffefe5430000000000000000000000000000000000000000000000000000000000000000000000ffcf
+ffffffffdff0030101010000000000000000000000000000000000000000000000000000000000000001ffe7ffffffffffe6c301010100000000000000000000
+00000000000000000000000000000000000000000003ffe7fff03ffffffc01010101000000000000000000000000000000000000000000000000000000000000
+0003fff3fc0307fffaf7c10101010000000000000000000000000000000000000000000008000000000000000007fff3f87fc7fffff3c1010101000000000000
+000000000000000000000000000000000e00000000000000000ffff9e3fff3fff7f7e10101010000000000000000000000000000000000000000000007001a00
+00000000000ffffce7fffbfffff93100000000000000000000000000000000000000000000000001e3800f0000000000001ffffecffffbfffbfd410000000000
+0000000000000000000000000000000000000000f1e0078000000000001ffffe0ffff3fff7f7e1010101000000000000000000000000000000000000000000e0
+f9f003e000000000003fffff0ffff7ffdfeda0010101000000000000000000000000000000000000000004703cf803f800000000003fffff8fffefffffff4001
+010100000000000000000000000000000000000000004638003e03fc00000000007fffffcfff9ffffef7d1010101000000000000000000000000000000000000
+0000633fc03e83fe0000000000ffffffeffc3ffff7f7c00101010000000000000000000000000000000000000001339ff80000160000000000fffffffff8ffff
+efe3a000000000000000000000000000000000000000000000019987ff0040000000000001fffffffffe0fc007ff400000000000000000000000000000000000
+000000000000c9c0fff3ff000000000001ffffffffffc01300fd70010101000000000000000000000000000000000000000064783fffffe00000000001ffffff
+fffffffff03de00101010000000000000000000000000000000000000000323f3ffffff00000000003fffffffffffffffe3fe001010100000000000000000000
+000000000000000000000907fffffff80000000003ffffffffffffffff3fc0010101000000000000000000000000000000000000000004803ffffffc00000000
+07ffffffffffffffff8ec0010101000000000000000000000000000000000000000000080ffffffe0000000007ffffffffffffffff8d20010101000000000000
+000000000000000000000000000000078ffffffe0000000007ffffffffffffffffc8c100000000000000000000000000000000000000000000000061efffffff
+0000000007ffffffffffffffffc5d10000000000000000000000000000000000000000000000001fffffffff000000000fffffffffffffffffcea10101010000
+0000000000000000000000000000000000000007ffffffff000000000ff07fffffffffffffcb2101010100000000000000000000000000000000000000000000
+3fffffff800000000e003ffffffff7ffffce430101010000000000000000000000000000000000000000000002ffffff8000000000010ffffffff7ffffcc4301
+010100000000000000000000000000000000000000000000001fffff800000000061cffffffff3ffffcd87010101000000000000000000000000000000000000
+000000000007ffff8000000007fbcffffffffbffffcf07000000000000000000000000000000000000000000000000000001efffc00000003ff3efffffff99ff
+ffcc8f0000000000000000000000000000000000000000000000000000106fffc0000000fff3cfffffff9cffffcf0f0000010000000000000000000000000000
+0000000000000000001e07ffc0000001fff3cfffffff3cffff8e1f01010100000000000000000000000000000000000000000000003f87ffc0000007ffe7cfff
+ffff3cffff843f01010100000000000000000000000000000000000000000000003fc7ffe000001ffff7cffffffe7effff803f01010100000000000000000000
+000000000000000000000000003fe7ffe00000ffffffcffffffe7e7fff207f0101013f900000000000000000000000000000000019800000003ff3ffe00007ff
+ffff8ffffffe467ffe01ff000000ffff0000000000001fff0000000000003fffffffec00003ffbffe0003fffffffdffffffe1e7ffc03ff010101fffffff80000
+0007fffffe0000000003ffffffffffc0003ff9fff003ffffffffcffffffe3fffe01fff000000ffffffffffffffffffffffe0000003fffffffffffffffc7ff9ff
+fbcfffffffffe7ff7ffe7e0700ffff010101ffffffffffffffffffffffff0001fffffffffffffffffc7ff9fff9cffffffffff0873ffff00007ffff010101ffff
+fffffffffffffffffffffffffffffffffffffffffc7ff9fffdc7fffffffff8019fffe7801fffff010101ffffffffffffffffffffffffffffffffffffffffffff
+f87ff9fffccffffffffffffc1fff9f827fffff010101fffffffffffffffffffffffffffffffffffffffffffff87ffdfffccffffffffffffe10ff3f8fffffff01
+0101fffffffffffffffffffffffffffffffffffffffffffff8fffdfffec7ffffffffffffc07e7f8fffffff010101ffffffffffffffffffffffffffffffffffff
+fffffffff0fffcfffe67ffffffffffffff3cff8fffffff000000fffffffffffffffffffffffffffffffffffffffffffff0fffcffff67ffffffffffffff99ff1f
+ffffff010101fffffffffffffffffffffffffffffffffffffffffffff0fffcffff27ffffffffffffffc3ff1fffffff010101ffffffffffffffffffffffffffff
+fffffffffffffffff1fffcffffa7ffffffffffffffefff1fffffff010101ffffffffffffffffffffffffffffffffffffffffffffe1fffeffff87ffffffffffff
+ffffff1fffffff010101ffffffffffffffffffffffffffffffffffffffffffffe3fffeffffc7fffffffffffffffffe3fffffff010101ffffffffffffffffffff
+ffffffffffffffffffffffffe3fffe7fffc7fffffffffffffffffe3fffffff010101ffffffffffffffffffffffffffffffffffffffffffffe3ffff7ffff3ffff
+fffffffffffffe3fffffff010101ffffffffffffffffffffffffffffffffffffffffffffe3ffff7ffff3fffffffffffffffffe3fffffff000000ffffffffffff
+ffffffffffffffffffffffffffffffffc3ffff3ffff9fffffffffffffffffe3fffffff010101ffffffffffffffffffffffffffffffffffffffffffffc7ffff3f
+fff9fffffffffffffffffc3fffffff010101ffffffffffffffffffffffffffffffffffffffffffffc7ffff3ffff9fffffffffffffffffc7fffffff010101ffff
+ffffffffffffffffffffffffffffffffffffffffc7ffff3ffffdfffffffffffffffffc7fffffff000000ffffffffffffffffffffffffffffffffffffffffffff
+cfffff3ffffefffffffffffffffffc7fffffff000000ffffffffffffffffffffffffffffffffffffffffffffcfffffbffffe7ffffffffffffffffc7fffffff01
+0101ffffffffffffffffffffffffffffffffffffffffffff8fffffbffffe7ffffffffffffffffcffffffff000000ffffffffffffffffffffffffffffffffffff
+ffffffff8fffff3fffff7ffffffffffffffff8ffffffff010101ffffffffffffffffffffffffffffffffffffffffffff8fffff3fffff3ffffffffffffffff8ff
+ffffff010101ffffffffffffffffffffffffffffffffffffffffffff8fffff1fffffbffffffffffffffff8ffffffff000000ffffffffffffffffffffffffffff
+ffffffffffffffff8fffff1fffff9ff800003ffffffff0ffffffff000000ffffffffffffffffffffffffffffffffffffffffffff9fffff0fffff9e017003ffff
+fffff1ffffffff000000ffffffffffffffffffffffffffffffffffffffffffff1fffff0fffffd03ffff07efffffff1ffffffff010101ffffffffffffffffffff
+ffffffffffffffffffffffff1fffff0fffffc3ffffff3f1ffffff1ffffffff010101ffffffffffffffffffffffffffffffffffffffffffff9ffffe07ffffc7ff
+ffffcfe3ffffe1ffffffff000000ffffffffffffffffffffffffffffffffffffffffffff1ffffe07ffffcffffffff3f0ffffe3ffffffff010101ffffffffffff
+ffffffffffffffffffffffffffffffff1ffffc07ffffe7fffffff8fe3fffe3ffffffff010101ffffffffffffffffffffffffffffffffffffffffffff1ffffc03
+ffffe7fffffffe7f9fffc3ffffffff000000ffffffffffffffffffffffffffffffffffffffffffff1ffffc63fffff7ffffffff1fe7ffc3ffffffff000000ffff
+ffffffffffffffffffffffffffffffffffffffff1ffff863fffff7ffffffffe3f3ff87ffffffff010101ffffffffffffffffffffffffffffffffffffffffffff
+1ffff8e1fffff3fffffffffbfcff87ffffffff010101ffffffffffffffffffffffffffffffffffffffffffff1ffff8f1fffffbffffffffff3e7e0fffffffff00
+0000ffffffffffffffffffffffffffffffffffffffffffff1ffff9f1fffffbffffffffffbf3c1fffffffff010101ffffffffffffffffffffffffffffffffffff
+ffffffff1ffff1f0fffffbffffffffffdfc03fffffffff000000ffffffffffffffffffffffffffffffffffffffffffff1ffff1f87ffff9ffffffffffcfe0ffff
+ffffff000000ffffffffffffffffffffffffffffffffffffffffffff1fffe3f87ffffdffffffffffefe1ffffffffff000000ffffffffffffffffffffffffffff
+ffffffffffffffff1fffe3f83ffffdffffffffffe7e3ffffffffff000000ffffffffffffffffffffffffffffffffffffffffffff1fffe3fc3ffffdffffffffff
+f3e3ffffffffff010101ffffffffffffffffffffffffffffffffffffffffffff1fffe7fe3ffffcfffffffffff3e7ffffffffff010101ffffffffffffffffffff
+ffffffffffffffffffffffff1fffe7fe1ffffefffffffffffbc7ffffffffff000000ffffffffffffffffffffffffffffffffffffffffffff3fffc7ff1ffffeff
+fffffffff9cfffffffffff000101fffffffffffffffffffffffffffffffffffffffffffe3fffcfff0ffffe7ffffffffffd8fffffffffff010100ffffffffffff
+fffffffffffffffffffffffffffffffe3fffcfff87ffff7fffffffffff0fffffffffff000000fffffffffffffffffffffffffffffffffffffffffffe7fffcfff
+87ffff7fffffffffff0fffffffffff010101fffffffffffffffffffffffffffffffffffffffffffc7fffcfff87ffffbfffffffffff07ffffffffff010101ffff
+fffffffffffffffffffffffffffffffffffffffc7fffcfff83ffffbfffffffffff87ffffffffff010101fffffffffffffffffffffffffffffffffffffffffffc
+ffffcfff81ffffdfffffffffff87ffffffffff000000fffffffffffffffffffffffffffffffffffffffffffcffffcfff0bffffdfffffffffff87ffffffffff01
+0101fffffffffffffffffffffffffffffffffffffffffff8ffffcffe19ffffefffffffffff87ffffffffff010101ffffffffffffffffffffffffffffffffffff
+fffffff8ffffcffc39ffffe7ffffffffff87ffffffffff000000fffffffffffffffffffffffffffffffffffffffffff9ffffcff8fdfffff7ffffffffff8fffff
+ffffff000000fffffffffffffffffffffffffffffffffffffffffff1ffffcff1fdfffff7ffffffffff8fffffffffff000000ffffffffffffffffffffffffffff
+fffffffffffffff1ffff8fe1fcfffff3ffffffffff9fffffffffff010101fffffffffffffffffffffffffffffffffffffffffff00ff80fc3fcfffffbffffffff
+ff1fffffffffff010000fffffffffffffffffffffffffffffffffffffffffff20001c787fefffff9ffffffffff1fffffffffff000000ffffffffffffffffffff
+fffffffffffffffffffffff3d027e70ffefffffdffffffffff1fffffffffff000000fffffffffffffffffffffffffffffffffffffffffff3ffffc21ffefffffc
+ffffffffff3fffffffffff000000ffffffffffffffffffffffffffffffffffffffffffe3ffffc03ffe7ff004ffffffffff3fffffffffff000000ffffffffffff
+ffffffffffffffffffffffffffffffe3ffffc07ffefe01007fffffffff3fffffffffff010101ffffffffffffffffffffffffffffffffffffffffffe3ffffe07f
+fe78fffc7ffffffffe3fffffffffff010101ffffffffffffffffffffffffffffffffffffffffffe7ffffc1ffff63fffe7ffffffffe7fffffffffff010101ffff
+ffffffffffffffffffffffffffffffffffffffe7ffffc1fffe47ffffbffffffffe7fffffffffff000000ffffffffffffffffffffffffffffffffffffffffffe7
+ffffe3ffff1fffff9ffffffffc7fffffffffff010101ffffffffffffffffffffffffffffffffffffffffffe7ffffc3ffff3fffffdffffffffe7fffffffffff01
+0101ffffffffffffffffffffffffffffffffffffffffffe7ffffe7fffe7fffffcffffffffc7fffffffffff000000ffffffffffffffffffffffffffffffffffff
+ffffffe7ffffcfffff7fffffeffffffffcffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffc7ffff9fffff7fffffe7fffffffcffffff
+ffffff000101ffffffffffffffffffffffffffffffffffffffffffc7ffff1fffff7ffffff7fffffffcffffffffffff010101ffffffffffffffffffffffffffff
+ffffffffffffffc7ffff3fffff7ffffff7fffffffcffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffc7fffe7fffff7ffffff3ffffff
+f8ffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffe7fffeffffff3ffffff9fffffff8ffffffffffff000001ffffffffffffffffffff
+ffffffffffffffffffffffe7fffcffffffbffffff9fffffff8ffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffe7fff9ffffff3fffff
+fdfffffff9ffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffe7fffbffffff3ffffffefffffff9ffffffffffff010101ffffffffffff
+ffffffffffffffffffffffffffffffc7fff3ffffffbffffffefffffff9ffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffc7ffe7ffff
+ffbffffffe7ffffff9ffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffc7ffcfffffffbffffffe7ffffff1ffffffffffff000000ffff
+ffffffffffffffffffffffffffffffffffffffcfffdfffffffbfffffff3ffffff3ffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffcf
+ff9fffffffbfffffff3fffffe3ffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffcfff3fffffffbfffffffbfffffe3ffffffffffff00
+0000ffffffffffffffffffffffffffffffffffffffffffcffe7fffffffbfffffff9fffffe3ffffffffffff000000ffffffffffffffffffffffffffffffffffff
+ffffff8ffcffffffffbfffffff9fffffe7ffffffffffff010101ffffffffffffffffffffffffffffffffffffffffff8fffffffffffbfffffff9fffffc7ffffff
+ffffff010101ffffffffffffffffffffffffffffffffffffffffff8fffffffffffbfffffffdfffffc7ffffffffffff000000ffffffffffffffffffffffffffff
+ffffffffffffff8fffffffffffbfffffffffffffc7ffffffffffff000000ffffffffffffffffffffffffffffffffffffffffff9fffffffffffbfffffffffffff
+cfffffffffffff010101ffffffffffffffffffffffffffffffffffffffffff8fffffffffff9fffffffffffff8fffffffffffff010101ffffffffffffffffffff
+ffffffffffffffffffffff9fffffffffffbfffffffffffff8fffffffffffff000000ffffffffffffffffffffffffffffffffffffffffff8fffffffffffbfffff
+ffffffff8fffffffffffff010101ffffffffffffffffffffffffffffffffffffffffff8fffffffffff9fffffffffffff9fffffffffffff010101ffffffffffff
+ffffffffffffffffffffffffffffff8fffffffffff9fffffffffffff1fffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffcfffffffff
+ff9fffffffffffff1fffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffcffffffe07ff9ffffffffffffe1fffffffffffff010101ffff
+ffffffffffffffffffffffffffffffffffffffcfffffe001ffdfffffffffffff3fffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffc7
+ffffc07e3fcffffffffffffe3fffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffc7ffff983f1fcffffffffffffe3fffffffffffff01
+0101ffffffffffffffffffffffffffffffffffffffffffe7fffe3f1fe7e7fffffffffffc3fffffffffffff010101ffffffffffffffffffffffffffffffffffff
+ffffffe7fffc3fe7e3e7fffffffffffc7fffffffffffff010101ffffffffffffffffffffffffffffffffffffffffffe3ffc107f3f9f7fffffffffff87fffffff
+ffffff000000fffffffffffffffffffffffffffffffffffffffffff3ff83e7fdfe7bfffffffffff0ffffffffffffff000000ffffffffffffffffffffffffffff
+fffffffffffffff1ff30f7fcff1cfffffffffff0ffffffffffffff010101fffffffffffffffffffffffffffffffffffffffffff0f0787ffe7f8e7fffffffffe1
+ffffffffffffff000000fffffffffffffffffffffffffffffffffffffffffff8007c3fff3fefffffffffffc3ffffffffffffff000000ffffffffffffffffffff
+fffffffffffffffffffffffc0e7f3fff3ff7ffffffffff83ffffffffffffff010101fffffffffffffffffffffffffffffffffffffffffffe1eff3fff9ff3ffff
+ffffff87ffffffffffffff010101fffffffffffffffffffffffffffffffffffffffffffe3cffffffdff9ffffffffff1fffffffffffffff010101ffffffffffff
+ffffffffffffffffffffffffffffffe039ffffffdff9fffffffffe3fffffffffffffff000000ffffffffffffffffffffffffffffffffffffffffff8071ffffff
+cffcfffffffffc7fffffffffffffff010100ffffffffffffffffffffffffffffffffffffffffff0063f7ffffcffefffffffff8ffffffffffffffff010101ffff
+fffffffffffffffffffffffffffffffffffffe000ff3ffffcffe7ffffffff8ffffffffffffffff000000fffffffffffffffffffffffffffffffffffffffffe3f
+9ff3ffffefff7ffffffff1ffffffffffffffff010101fffffffffffffffffffffffffffffffffffffffffc7ffff87fffefff3fffffffe3ffffffffffffffff01
+0101fffffffffffffffffffffffffffffffffffffffff8ffffff3fffe7ff3fffffffc7ffffffffffffffff000100ffffffffffffffffffffffffffffffffffff
+fffff1ffffbfdfffefffbfffffff0fffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffffe1ffff9fcfffe7ffbffffffe1fffffffffff
+ffffff000000ffffffffffffffffffffffffffffffffffffffffc1ffffe7cffff7ff9ffffffc7fffffffffffffffff010101ffffffffffffffffffffffffffff
+ffffffffffffc0fffff2effff7ff9ffffff8ffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffff863ffffc7ffff7ff9fffffe1ffff
+ffffffffffffff000000ffffffffffffffffffffffffffffffffffffffff0f1fffff7fffe7ff9fffff07ffffffffffffffffff010101ffffffffffffffffffff
+fffffffffffffffffffe1f8fffff3fffe7ffdffffe0fffffffffffffffffff010101fffffffffffffffffffffffffffffffffffffffc3fcfc3ffbfffe7ff9fff
+e01fffffffffffffffffff000000fffffffffffffffffffffffffffffffffffffff87fe781ffdfffe7ff9ffe01ffffffffffffffffffff000000ffffffffffff
+fffffffffffffffffffffffffff0fff398ffdfffefffbfe007ffffffffffffffffffff000101fffffffffffffffffffffffffffffffffffffff0fff99e7fcfff
+cffe34001fffffffffffffffffffff010101ffffffffffffffffffffffffffffffffffffffe1fff83f3fefff9ffc0001ffffffffffffffffffffff000000ffff
+ffffffffffffffffffffffffffffffffffe3ffffffdffffe1ff8001fffffffffffffffffffffff010101ffffffffffffffffffffffffffffffffffffffc3ffff
+ffcffffc0fe01fffffffffffffffffffffffff010101ffffffffffffffffffffffffffffffffffffffc3ffffffeffff867c0ffffffffffffffffffffffffff00
+0000ffffffffffffffffffffffffffffffffffffffc3ffffffe7fffe67c1ffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffff
+ffc7fffffff3fe7f7787ffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffc7fffffff3fe7e730fffffffffffffffffffff
+ffffff010101ffffffffffffffffffffffffffffffffffffff87dffffff9fcfefa1fffffffffffffffffffffffffff000000ffffffffffffffffffffffffffff
+ffffffffff87fffffff9f8fcf83fffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffc7fffffffdf8fcf87fffffffffffff
+ffffffffffffff010101ffffffffffffffffffffffffffffffffffffff87fffffffcf2fdf87fffffffffffffffffffffffffff000000ffffffffffffffffffff
+ffffffffffffffffff87fffffffcc6f9f8ffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffff875ffffffc0e7bf1ffffff
+ffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffff87fffffffe7e03f1ffffffffffffffffffffffffffff010101ffffffffffff
+ffffffffffffffffffffffffff87ffffffffff0fe3ffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffff87ffffffffffff
+c3ffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffff87ffffffffffffc7ffffffffffffffffffffffffffff000000ffff
+ffffffffffffffffffffffffffffffffffc7ffffffffffff87ffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffc7ffff
+ffffffff8fffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffc3ffffffffffff8fffffffffffffffffffffffffffff00
+0000ffffffffffffffffffffffffffffffffffffffe3ffffffffffff0fffffffffffffffffffffffffffff000001ffffffffffffffffffffffffffffffffffff
+ffe1ffffffffffff1fffffffffffffffffffffffffffff010101fffffffffffffffffffffffffffffffffffffff1fffffffffffe1fffffffffffffffffffffff
+ffffff000000fffffffffffffffffffffffffffffffffffffff1fffffffffffe3fffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffff
+fffffffffff0effffffffffc3fffffffffffffffffffffffffffff010000fffffffffffffffffffffffffffffffffffffff8fffffffffffc7fffffffffffffff
+ffffffffffffff000000fffffffffffffffffffffffffffffffffffffffc7ffffffffff87fffffffffffffffffffffffffffff000000ffffffffffffffffffff
+fffffffffffffffffffc7ffffffffff8ffffffffffffffffffffffffffffff000000fffffffffffffffffffffffffffffffffffffffc3fffffffdbf0ffffffff
+ffffffffffffffffffffff010101fffffffffffffffffffffffffffffffffffffffe1fffffffffc1ffffffffffffffffffffffffffffff000000ffffffffffff
+ffffffffffffffffffffffffffff0fffffffffc1ffffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffff8fffffffffc1
+ffffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffff83ffffffff03ffffffffffffffffffffffffffffff000000ffff
+ffffffffffffffffffffffffffffffffffffc3ffffffea07ffffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffffe0ff
+fffff80fffffffffffffffffffffffffffffff000000fffffffffffffffffffffffffffffffffffffffff87fffffc01fffffffffffffffffffffffffffffff00
+0000fffffffffffffffffffffffffffffffffffffffffc3fffff003fffffffffffffffffffffffffffffff010101ffffffffffffffffffffffffffffffffffff
+fffffe0ffffc01ffffffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffffff01ffe007ffffffffffffffffffffffffff
+ffffff000000ffffffffffffffffffffffffffffffffffffffffffc000007fffffffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffff
+fffffffffffffff80001ffffffffffffffffffffffffffffffffff000000ffffffffffffffffffffffffffffffffffffffffffffa00fffffffffffffffffffffffffffffffffff000000040000002701ffff030000000000}\par}}}{\f1\fs24\insrsid15738386\charrsid7370335 \'d1 \'f6\'e5\'eb\'fc\'fe 
+\'ed\'e0\'f1\'fb\'f9\'e5\'ed\'e8\'ff \'ea\'f0\'ee\'e2\'e8 \'ea\'e8\'f1\'eb\'ee\'f0\'ee\'e4\'ee\'ec \'ed\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0 \'f1\'eb\'e5\'e4\'f3\'e5\'f2 \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'fc \'ee
+\'e4\'ed\'ee\'e2\'f0\'e5\'ec\'e5\'ed\'ed\'ee \'f1 \'e8\'f1\-\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'fb\'ec \'e4\'fb\'f5\'e0\'ed\'e8\'e5\'ec. \'c2 \'fd\'f2\'ee\'e9 \'f0\'e0\'e1\'ee\'f2\'e5 \'e4\'ee\'eb\'e6\'ed\'ee \'f3\'f7\'e0\'f1\'f2\'e2\'ee\-\'e2\'e0\'f2
+\'fc \'ed\'e5 \'ec\'e5\'ed\'e5\'e5 \'e4\'e2\'f3\'f5 \'f7\'e5\'eb\'ee\'e2\'e5\'ea. \'c5\'f1\'eb\'e8 \'f2\'e0\'ea\'ee\'e9 \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'e8 \'ed\'e5\'f2, \'f2\'ee \'e8 \'ee\'e4\'e8\'ed \'f7\'e5\'eb\'ee\'e2\'e5\'ea \'ec\'ee\'e6\'e5
+\'f2 \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'fc \'f0\'e5\'e0\'ed\'e8\'ec\'e0\'f6\'e8\-\'ee\'ed\'ed\'fb\'e5 \'ec\'e5\'f0\'ee\'ef\'f0\'e8\'ff\'f2\'e8\'ff. \'cf\'ee\'f1\'eb\'e5\'e4\'ee\'e2\'e0\'f2\'e5\'eb\'fc\'ed\'ee\'f1\'f2\'fc \'e8\'f5 \'e2\'fb\'ef\'ee\'eb\'ed
+\'e5\-\'ed\'e8\'ff \'f2\'e0\'ea\'ee\'e2\'e0: \'f1\'e4\'e5\'eb\'e0\'e9\'f2\'e5 2-3 \'f6\'e8\'ea\'eb\'e0 \'e8\'f1\'ea\'f3\'f1\'f1\'f2\'e2\'e5\'ed\'ed\'ee\'e3\'ee \'e4\'fb\'f5\'e0\-\'ed\'e8\'ff, 15 -16 \'ed\'e0\'e6\'e0\'f2\'e8\'e9 \'ed\'e0 \'e3\'f0\'f3\'e4
+\'ed\'f3\'fe \'ea\'eb\'e5\'f2\'ea\'f3. \'dd\'f2\'ee\'f2 \'f0\'e8\'f2\'ec \'f1\'eb\'e5\-\'e4\'f3\'e5\'f2 \'f1\'ee\'f5\'f0\'e0\'ed\'ff\'f2\'fc \'e4\'ee \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff \'f4\'f3\'ed\'ea\'f6\'e8\'e9 \'e4\'fb\'f5\'e0
+\'ed\'e8\'ff \'e8 \'f1\'e5\'f0\'e4\'f6\'e5\'e1\'e8\'e5\'ed\'e8\'ff. \'d7\'e5\'f0\'e5\'e7 \'ea\'e0\'e6\'e4\'fb\'e5 3 \'ec\'e8\'ed\'f3\'f2\'fb \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'fc \'ea\'ee\'ed\'f2\'f0\'ee\'eb\'fc\'ed
+\'fb\'e5 \'e7\'e0\'ec\'e5\'f0\'fb \'e4\'fb\'f5\'e0\'ed\'e8\'ff \'e8 \'f7\'e0\'f1\'f2\'ee\'f2\'fb \'f1\'e5\'f0\-\'e4\'e5\'f7\'ed\'fb\'f5 \'f1\'ee\'ea\'f0\'e0\'f9\'e5\'ed\'e8\'e9.
+\par }\pard \qj \fi283\li0\ri-27\sb5\sl-245\slmult0\nowidctlpar\faauto\rin-27\lin0\itap0\pararsid10945421 \cbpat8 {\f1\fs24\insrsid7370335 
+\par }{\f1\fs24\insrsid15738386\charrsid7370335 \'cd\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0 - \'ef\'f0\'ee\'f1\'f2\'ee\'e5 \'f0\'e5\'e0\'ed\'e8\'ec\'e0\'f6\'e8\'ee\'ed\-\'ed\'ee\'e5 }{
+\f1\fs24\insrsid7357819\charrsid7370335  }{\f1\fs24\insrsid15738386\charrsid7370335 \'ec\'e5\'f0\'ee\'ef\'f0\'e8\'ff\'f2\'e8\'e5, \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'fe\'f9\'e5\'e5 \'f1\'ef\'e0\'f1\'f2\'e8 \'e6\'e8\'e7\'ed\'fc \'ef\'ee\'f1\'f2\'f0\'e0\-\'e4\'e0
+\'e2\'f8\'e5\'e3\'ee. \'ce \'e5\'e3\'ee \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'f1\'f2\'e8 \'ec\'ee\'e6\'ed\'ee \'f1\'f3\'e4\'e8\'f2\'fc \'ef\'ee \'ef\'ee\'ff\'e2\-\'eb\'e5\'ed\'e8\'fe \'f1\'e0\'ec\'ee\'f1\'f2\'ee\'ff\'f2\'e5\'eb\'fc\'ed\'ee\'e3\'ee 
+\'ef\'f3\'eb\'fc\'f1\'e0 \'e8 \'e4\'fb\'f5\'e0\'ed\'e8\'ff, \'f1\'f3\'e6\'e5\'ed\'e8\'fe \'e7\'f0\'e0\'f7\'ea\'ee\'e2.}{\f1\fs24\insrsid13844926\charrsid7370335 
+\par }{\f1\fs24\expnd0\expndtw-1\insrsid7370335 
+\par }{\f1\fs24\expnd0\expndtw-1\insrsid15738386\charrsid7370335 \'cd\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0 \'ed\'f3\'e6\'ed\'ee \'ef\'f0\'ee\'e2\'ee\'e4\'e8\'f2\'fc \'e1\'e5\'f1\'ef\'e5\'f0\'e5\'e1\'ee\'e9\-}{
+\f1\fs24\insrsid15738386\charrsid7370335 \'ed\'ee \'e4\'ee \'ef\'f0\'e8\'e1\'fb\'f2\'e8\'ff \'f1\'ef\'e5\'f6\'e8\'e0\'eb\'e8\'f1\'f2\'ee\'e2 \'e8\'eb\'e8 \'e2 \'f2\'e5\'f7\'e5\'ed\'e8\'e5 25 - 30 \'ec\'e8\-}{
+\f1\fs24\expnd0\expndtw-2\insrsid15738386\charrsid7370335 \'ed\'f3\'f2. \'cd\'e5\'ef\'f0\'ff\'ec\'ee\'e9 \'ec\'e0\'f1\'f1\'e0\'e6 \'f1\'e5\'f0\'e4\'f6\'e0 \'e4\'ee\'eb\'e6\'e5\'ed \'f3\'ec\'e5\'f2\'fc \'e4\'e5\'eb\'e0\'f2\'fc \'ea\'e0\'e6\-}{
+\f1\fs24\insrsid15738386\charrsid7370335 \'e4\'fb\'e9 \'f8\'ea\'ee\'eb\'fc\'ed\'e8\'ea.
+\par }}
